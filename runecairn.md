@@ -70,7 +70,7 @@ What type of adventures can player characters expect?
 
 - **Explore** newly discovered lands in search of a mythical beast
 
-[back to index](#index)
+[back to index](#overview)
 <p></p>
 
 ## Principles
