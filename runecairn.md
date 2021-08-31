@@ -2,8 +2,6 @@
 layout: page
 title: Runecairn SRD
 ---
-# **Runecairn: Core Rules**
-
 Writing and Editing: **Colin Le Sueur**<br>
 [byodinsbeardrpg.com](byodinsbeardrpg.com)<br>
 Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)<br>
