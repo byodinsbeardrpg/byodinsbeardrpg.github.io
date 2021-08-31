@@ -10,39 +10,39 @@ Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)<b
 Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>
 
 ## Index
-[Overview](#overview)
-[Adventures](#adventures)
-[Principles](#principles)
-[Principles for Wardens](#principles-for-wardens)
-[Principles for Players](#principles-for-players)
-[Principles of the World](#principles-of-the-world)
-[Character Creation](#character-creation)
-[Starting Classes](#starting-classes)
-[Character creation example](#character-creation-example)
-[Concepts of Play](#concepts-of-play)
-[Items and Equipment](#items-and-equipment)
-[Armour](#armour)
-[Shields](#shields)
-[Weapons](#weapons)
-[Items](#items)
-[Combat](#combat)
-[Reactions](#reactions)
-[Attacking & damage](#attacking-&-damage)
-[Attack modifiers](#attack-modifiers)
-[Dire strike](#dire-strike)
-[Critical damage](#critical-damage)
-[Death](#death)
-[Omens](#omens)
-[Combat example](#combat-example)
-[Magic](#magic)
-[Spells](#spells)
-[Seer](#seer)
-[Skald](#skald)
-[Monsters](#monsters)
-[Appendix](#appendix)
-[Names](#names)
-[Character Traits](#character-traits)
-[Icelandic Pronunciation Guide](#icelandic-pronunciation-guide)
+[Overview](#overview)<br>
+[Adventures](#adventures)<br>
+[Principles](#principles)<br>
+[Principles for Wardens](#principles-for-wardens)<br>
+[Principles for Players](#principles-for-players)<br>
+[Principles of the World](#principles-of-the-world)<br>
+[Character Creation](#character-creation)<br>
+[Starting Classes](#starting-classes)<br>
+[Character creation example](#character-creation-example)<br>
+[Concepts of Play](#concepts-of-play)<br>
+[Items and Equipment](#items-and-equipment)<br>
+[Armour](#armour)<br>
+[Shields](#shields)<br>
+[Weapons](#weapons)<br>
+[Items](#items)<br>
+[Combat](#combat)<br>
+[Reactions](#reactions)<br>
+[Attacking & damage](#attacking-&-damage)<br>
+[Attack modifiers](#attack-modifiers)<br>
+[Dire strike](#dire-strike)<br>
+[Critical damage](#critical-damage)<br>
+[Death](#death)<br>
+[Omens](#omens)<br>
+[Combat example](#combat-example)<br>
+[Magic](#magic)<br>
+[Spells](#spells)<br>
+[Seer](#seer)<br>
+[Skald](#skald)<br>
+[Monsters](#monsters)<br>
+[Appendix](#appendix)<br>
+[Names](#names)<br>
+[Character Traits](#character-traits)<br>
+[Icelandic Pronunciation Guide](#icelandic-pronunciation-guide)<br>
 
 ## Overview
 
