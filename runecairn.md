@@ -11,10 +11,10 @@ Based on [Cairn](https://cairnrpg.com/) by Yochai Gal
 
 ## Overview
 
-***The gods have fallen
-Fresh life blooms from the ruin
-Fate is yours to weave
-Death Is Not The End***
+***The gods have fallen<br>
+Fresh life blooms from the ruin<br>
+Fate is yours to weave<br>
+Death Is Not The End<br>***
 
 **Runecairn** was written with the following design philosophies in mind:
 
