@@ -3,27 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![img](https://ksr-ugc.imgix.net/assets/032/032/432/979e881f90de3bbdf78c57c776fcdca3_original.jpg?ixlib=rb-4.0.2&w=680&fit=max&v=1610794166&auto=format&frame=1&q=92&s=547ba4366312a0d5209fd7b475855d7d)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, I’m Colin (he/him), a Canadian game designer living in mist-shrouded Yorkshire, England.
 
-There are currently two themes built on Poole:
+I was introduced to roleplaying as a teenager, starting with 2nd Edition and swiftly moving on to all manner of strangeness such as TMNT and Heroes Unlimited.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+After a 20 year hiatus, I picked tabletop gaming back up again, moving from 3.5e to Pathfinder, 5th Edition, and the OSR.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+My adventures tend to be inspired by folklore and filled with nasty gribblies looking to pull travellers into the dark. You can see more of my work at [DriveThruRPG](https://www.drivethrurpg.com/browse/pub/15858/By-Odin039s-Beard) and [itch.io](https://byodinsbeardrpg.itch.io/).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+A lifelong fan of Norse mythology and long-time beardbearer, I decided to name my imprint By Odin’s Beard RPG.
