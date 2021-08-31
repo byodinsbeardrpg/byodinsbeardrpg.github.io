@@ -82,7 +82,7 @@ What type of adventures can player characters expect?
 
 - **Explore** newly discovered lands in search of a mythical beast
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Principles
@@ -230,7 +230,7 @@ What type of adventures can player characters expect?
 * Remnants of the wars wander as shades, all humanity and vigour lost
 * Death is not the end
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Character Creation
@@ -483,7 +483,7 @@ Lind also has a flask filled with **Iðunn's mead**, which heals her injuries an
 
 Amy's now finished creating her new skald, Lind, who's equipped and ready to set off into a strange new world.
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Concepts of Play
@@ -596,7 +596,7 @@ Gold and most coins have little value and most trade is through barter.
 
 Treasure takes the form of weapons, armour, spells, or relics. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Items and Equipment
@@ -791,7 +791,7 @@ Treasure takes the form of weapons, armour, spells, or relics. It can be a lure,
 | Tar                |                      |
 | Torch              |                      |
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Combat
@@ -898,7 +898,7 @@ When an attack reduces a PC's Resilience to exactly 0, this triggers an omen. Ro
 | 7     | A lank hooded man in a wide-brimmed hat appears on the horizon, beckoning you forward. Make a **SPI** save. If you fail, you follow the hooded man into a trap. |
 | 8     | You hear the howl of an enormous wolf rolling across the landscape, followed by echoing calls in response. Make a **DEX** save. If you pass, the wolves can’t find you. |
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ### Combat example
@@ -1005,7 +1005,7 @@ Amy rolls a **d10** twice for damage, one for each draugr, and gets 9 and 4. Amy
 
 **Amy:** Let's do this!
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Magic
@@ -1067,7 +1067,7 @@ A few examples:
 - **Ring of the Mists.** Exquisite Dwarven-crafted silver ring carved with undecipherable runes. Allows the bearer to travel between the realms of the living and the dead but draws the attention of untold horrors.
 - **Sylva's Ring.** Delicate wooden ring entwined by sharp thorns. Gain 2 extra inventory slots but lose 1 vigour.
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Spells
@@ -1144,7 +1144,7 @@ A few examples:
 | Temper Weapon         | Imbue weapon with magic and enhance damage to d12            |
 | Thunderbolt           | A column of magic energy that deflects attacks and does d10 blast damage |
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Monsters
@@ -1296,7 +1296,7 @@ A few examples:
 * Attuned to the rhythm of nature and can sense those that disrupt the balance
 * **Dire strike:** Howl to warn the other wolves in the area; roll d6, on a 6 another wolf appears
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
 
 ## Appendix
@@ -1444,5 +1444,5 @@ A few examples:
 
 Please note, modern Icelandic is close to Old Norse in structure but different in pronunciation. For simplicity, the Icelandic spelling and pronunciation is used for non-English words in this text.
 
-[back to index](#index)
+[Back to Index](#index)
 <p></p>
