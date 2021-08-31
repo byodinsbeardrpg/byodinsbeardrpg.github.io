@@ -1,3 +1,7 @@
+---
+layout: page
+title: Runecairn SRD
+---
 # **Runecairn: Core Rules**
 
 Writing and Editing: **Colin Le Sueur**
