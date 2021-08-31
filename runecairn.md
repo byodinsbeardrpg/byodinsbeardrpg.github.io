@@ -9,6 +9,41 @@ Writing and Editing: **Colin Le Sueur**<br>
 Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)<br>
 Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>
 
+## Index
+[Overview](#overview)
+[Adventures](#adventures)
+[Principles](#principles)
+[Principles for Wardens](#principles-for-wardens)
+[Principles for Players](#principles-for-players)
+[Principles of the World](#principles-of-the-world)
+[Character Creation](#character-creation)
+[Starting Classes](#starting-classes)
+[Character creation example](#character-creation-example)
+[Concepts of Play](#concepts-of-play)
+[Items and Equipment](#items-and-equipment)
+[Armour](#armour)
+[Shields](#shields)
+[Weapons](#weapons)
+[Items](#items)
+[Combat](#combat)
+[Reactions](#reactions)
+[Attacking & damage](#attacking-&-damage)
+[Attack modifiers](#attack-modifiers)
+[Dire strike](#dire-strike)
+[Critical damage](#critical-damage)
+[Death](#death)
+[Omens](#omens)
+[Combat example](#combat-example)
+[Magic](#magic)
+[Spells](#spells)
+[Seer](#seer)
+[Skald](#skald)
+[Monsters](#monsters)
+[Appendix](#appendix)
+[Names](#names)
+[Character Traits](#character-traits)
+[Icelandic Pronunciation Guide](#icelandic-pronunciation-guide)
+
 ## Overview
 
 ***The gods have fallen<br>
