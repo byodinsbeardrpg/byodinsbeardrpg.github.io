@@ -286,14 +286,14 @@ In combat, you favoured the direct approach, relying on your sturdy armour to de
 
 In the time before you prayed to Oðinn for a glorious death but now your fate is your own to choose.
 
-| **Warrior (STR, 3 **DEF**)** |                  |
-| ---------------------------- | ---------------- |
-| Linden wood shield           | key, +1 **DEF**  |
-| Chain mail                   | bulky, 2 **DEF** |
-| Bearded axe                  | d8               |
-| Ash wood spear               | d6, 20'          |
-| Memento of defeat            |                  |
-| Free slots                   | 4                |
+| **Warrior (STR, 3 **DEF) |                  |
+| ------------------------ | ---------------- |
+| Linden wood shield       | key, +1 **DEF**  |
+| Chain mail               | bulky, 2 **DEF** |
+| Bearded axe              | d8               |
+| Ash wood spear           | d6, 20'          |
+| Memento of defeat        |                  |
+| Free slots               | 4                |
 
 *Skills:*
 
