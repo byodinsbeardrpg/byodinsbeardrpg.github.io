@@ -10,17 +10,18 @@ Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)<b
 Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>
 
 ## Index
-[Overview](#overview)<br>
-[Principles](#principles)<br>
-[Character creation](#character-creation)<br>
-[Concepts of play](#concepts-of-play)<br>
-[Items and equipment](#items-and-equipment)<br>
-[Combat](#combat)<br>
-[Combat example](#combat-example)<br>
-[Magic](#magic)<br>
-[Spells](#spells)<br>
-[Monsters](#monsters)<br>
-[Appendix](#appendix)<br>
+- [Overview](#overview)<br>
+- [Adventures](#adventures)<br>
+- [Principles](#principles)<br>
+- [Character creation](#character-creation)<br>
+- [Concepts of play](#concepts-of-play)<br>
+- [Items and equipment](#items-and-equipment)<br>
+- [Combat](#combat)<br>
+- [Combat example](#combat-example)<br>
+- [Magic](#magic)<br>
+- [Spells](#spells)<br>
+- [Monsters](#monsters)<br>
+- [Appendix](#appendix)<br>
 
 ## Overview
 
