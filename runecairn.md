@@ -12,6 +12,7 @@ Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>
 - [Adventures](#adventures)<br>
 - [Principles](#principles)<br>
 - [Character creation](#character-creation)<br>
+- [Character creation example](#character-creation-example)<br>
 - [Concepts of play](#concepts-of-play)<br>
 - [Items and equipment](#items-and-equipment)<br>
 - [Combat](#combat)<br>
@@ -300,7 +301,7 @@ In combat, you favoured the direct approach, relying on your sturdy armour to de
 
 In the time before you prayed to Oðinn for a glorious death but now your fate is your own to choose.
 
-| **Warrior (STR, 3 **DEF) |                  |
+| **Warrior (STR, 3 DEF)** |                  |
 | ------------------------ | ---------------- |
 | Linden wood shield       | key, +1 **DEF**  |
 | Chain mail               | bulky, 2 **DEF** |
