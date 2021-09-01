@@ -427,61 +427,62 @@ Slow (spell): Slows nearby enemies (**Fatigue** )
 
 ### Character creation example
 
-New tabletop role-playing gamer Amy wants to create a character in ***Runecairn***.
-
-Amy starts by rolling on the female names table and gets **54**, Lind. Amy likes the sounds so decides to keep it.
-
-Amy doesn't know much about Lind at this point, so she rolls on the character traits tables and gets the following results:
-
-She's **brawny**, with **dark skin**, **braided hair**, and a **sharp face**. She's **eloquent**, **ambitious**, and **deceitful**.
-
-Lind is starting to take shape in Amy's mind.
-
-Amy rolls **3d6** four times and assigns the results to her abilities:
-
-**STR** 9
-**DEX** 10
-**WIT** 14
-**SPI** 16
-
-With a Spirit of 16 Lind would make a good **skald**, so Amy chooses that starting class.
-
-She switches her **DEX** and **WIT** scores to give her Skald more dexterity and ends up with these final abilities:
-
-**STR** 9
-**DEX** 14
-**WIT** 10
-**SPI** 16
-
-Amy generates Lind's **Resilience** (**RES**) score next. She rolls a **d6** for Lind's **Vigour** and gets 3.
-
-Amy then rolls a **d6** for **Vitality** and gets 4.
-
-Adding the two rolls up, Lind the Skald has **7** **Resilience**.
-
-The Skald class starts with the following equipment:
-
-* Runic focus (key item) (small)
-* Reindeer hide armour (1 Defence)
-* Leather hood (+1 Defence)
-* Steel sword (d6)
-* Saga: cure wounds or lightning spear (choose 1)
-* Sacred waters
-* Sacrificial bundle (small)
-
-Her two pieces of armour (reindeer hide and leather hood) gives her a total **defence** of **2**.
-
-Her **key item** is a runic focus, which allows her to cast magic in the form of **sagas**. Amy has the choice of either a healing tale (**cure wounds**) or a tale of Thor the thunder god (**lightning spear**). She thinks that Lind would be a follower of Thor and takes lightning spear.
-
-Lind wields a *steel sword* that does d6 damage and fills out the rest of her inventory with helpful items like *sacred waters* and a *sacrificial bundle*.
-
-With her starting equipment stowed or worn, Lind has **5 free inventory** **slots** that she can use to **loot items**, **cast spells**, or **take reactions** in combat. None of her items are bulky so they only take up one slot each. **Small** items don't take up any space.
-
-**Sagas** don't take up physical slots but instead take up space in Lind's mind as the tales are dense and elaborate.
-
-Lind also has a flask filled with **Iðunn's mead**, which heals her injuries and helps to clear **Fatigue**. She starts with **two sips** of mead.
-
-Amy's now finished creating her new skald, Lind, who's equipped and ready to set off into a strange new world.
+> New tabletop role-playing gamer Amy wants to create a character in ***Runecairn***.
+>
+> Amy starts by rolling on the female names table and gets **54**, Lind. Amy likes the sounds so decides to keep it.
+>
+> Amy doesn't know much about Lind at this point, so she rolls on the character traits tables and gets the following results:
+>
+> She's **brawny**, with **dark skin**, **braided hair**, and a **sharp face**. She's **eloquent**, **ambitious**, and **deceitful**.
+>
+> Lind is starting to take shape in Amy's mind.
+>
+> Amy rolls **3d6** four times and assigns the results to her abilities:
+>
+> **STR** 9
+> **DEX** 10
+> **WIT** 14
+> **SPI** 16
+>
+> With a Spirit of 16 Lind would make a good **skald**, so Amy chooses that starting class.
+>
+> She switches her **DEX** and **WIT** scores to give her Skald more dexterity and ends up with these final abilities:
+>
+> **STR** 9
+> **DEX** 14
+> **WIT** 10
+> **SPI** 16
+>
+> Amy generates Lind's **Resilience** (**RES**) score next. She rolls a **d6** for Lind's **Vigour** and gets 3.
+>
+> Amy then rolls a **d6** for **Vitality** and gets 4.
+>
+> Adding the two rolls up, Lind the Skald has **7** **Resilience**.
+>
+> The Skald class starts with the following equipment:
+>
+> * Runic focus (key item) (small)
+> * Reindeer hide armour (1 Defence)
+> * Leather hood (+1 Defence)
+> * Steel sword (d6)
+> * Saga: cure wounds or lightning spear (choose 1)
+> * Sacred waters
+> * Sacrificial bundle (small)
+>
+> Her two pieces of armour (reindeer hide and leather hood) gives her a total **defence** of **2**.
+>
+> Her **key item** is a runic focus, which allows her to cast magic in the form of **sagas**. Amy has the choice of either a healing tale (**cure wounds**) or a tale of Thor the thunder god (**lightning spear**). She thinks that Lind would be a follower of Thor and takes lightning spear.
+>
+> Lind wields a *steel sword* that does d6 damage and fills out the rest of her inventory with helpful items like *sacred waters* and a *sacrificial bundle*.
+>
+> With her starting equipment stowed or worn, Lind has **5 free inventory** **slots** that she can use to **loot items**, **cast spells**, or **take reactions** in combat. None of her items are bulky so they only take up one slot each. **Small** items don't take up any space.
+>
+> **Sagas** don't take up physical slots but instead take up space in Lind's mind as the tales are dense and elaborate.
+>
+> Lind also has a flask filled with **Iðunn's mead**, which heals her injuries and helps to clear **Fatigue**. She starts with **two sips** of mead.
+>
+> Amy's now finished creating her new skald, Lind, who's equipped and ready to set off into a strange new world.
+>
 
 [Back to Index](#index)
 <p></p>
@@ -903,107 +904,107 @@ When an attack reduces a PC's Resilience to exactly 0, this triggers an omen. Ro
 
 ### Combat example
 
-***Lind the skald** enters a darkened ruin, overgrown and ancient. The corridor leads north and figures are heard shuffling.*
-
-**Amy:** I walk further down the corridor, steel sword in one hand and runic focus in the other.
-
-**Warden:** Further down the ruin you see an armoured form wandering aimlessly. Its skin is decayed and drawn and it's holding a rusted spear. It's a **draugr** and it hasn't spotted you yet.
-
-**Amy:** I'm going to run up and cut it down with my sword!
-
-**Warden:** OK, you rush forward and slash at the undead warrior. Roll your damage.
-
-*Amy rolls a 5 on her **d6.***
-
-**Warden:** The draugr has **1 defence** from its armour so it takes 4 damage. The draugr turns and raises its spear to attack!
-
-**Amy:** I gather my will and unleash the power of the gods through my voice! I shout NO!
-
-*Choosing to use Lind's **shout** skill as a **reaction** to avoid the attack, Amy rolls a d20 and **attempts** to roll under her **SPI** of 16. She gets 5, a success!*
-
-**Warden:** You emit a shockwave and knock the draugr off balance, deflecting the attack! Tick one **Fatigue** for the shout.
-
-*Amy does and she now has **4** **slots** left.*
-
-**Amy:** This thing's not so tough. I strike out with my sword!
-
-*Amy rolls a 4 on her **d6** for the attack.*
-
-**Warden:** The draugr takes 3 damage -- it's not looking very good! It snarls and thrusts its spear.
-
-**Amy:** I'll take the hit since I've got decent **defence**.
-
-*The warden rolls a 5 on his **d6** for damage. He subtracts Lind's defence rating of 2 from the **damage**.*
-
-**Warden:** Oof! You take 3 points of damage.
-
-**Amy:** Grr, that's it. I clutch the runic focus tightly and weave a tale of Thor the thunderer. **Lightning spear**!
-
-*Amy rolls a **d8** for damage for her spell and gets a 5. She marks another point of **Fatigue** for the spell.*
-
-**Warden:** Magic bypasses the draugr's armour therefore it takes full damage. Because the attack reduces its **RES** below 0, it takes the remaining 4 damage to its **STR**. The draugr now needs to make a **critical damage** **STR** save or die!
-
-*The warden rolls 16 on a **d20**, failing to roll under the draugr's new **STR** score of 7.*
-
-**Warden:** It crumples to the ground, a blackened husk from the lightning strike. You've defeated it!
-
-**Amy:** Yes! Does the body have anything on it?
-
-**Warden:** Before you can search, the spell you just cast draws the attention of another **draugr**. It shuffles out of the darkness, holding a rotted **shortbow**. Roll a **DEX** save to see if you can react quick enough to avoid it!
-
-*Amy rolls a 16 on her **d20**. Failure, since her **DEX** is 14!*
-
-**Warden:** You try to step back but aren't quick enough and the arrow strikes you in the arm.
-
-*The warden rolls a d6 for damage and gets 4. He subtracts Lind's defence.*
-
-**Warden:** You take **2 damage**. A second draugr shambles out next to the first, spear in hand. What do you do?
-
-**Amy:** They're undead right? I throw my bottle of sacred waters at them!
-
-Amy rolls a **d10** twice for damage, one for each draugr, and gets 9 and 4. Amy updates her character sheet to remove the sacred waters from her **inventory**, freeing up a **slot**.
-
-**Warden:** The bottle breaks on the first draugr's armour and splashes over them both for magic **blast** damage. The first takes 9 points, bringing it under 0 and reducing its **STR** by 1.
-
-*The warden rolls a 1 on the draugr's critical damage save.*
-
-**Warden:** A critical success! The first draugr is still up but at -1 **RES**.  The second sizzles as it takes 4 points of damage. Both lurch forward, spears raised! Unless you avoid it, they'll hit with **damage advantage** since its two on one.
-
-**Amy:** I grip the runic focus and scream a curse from the gods, using my **shout** to deflect the attacks.
-
-*Amy makes a **Spirit** save by rolling a **d20**. A failure at 18! She ticks another **Fatigue**.*
-
-**Warden:** You struggle to remember the tale and the shout fails to deflect the attack.
-
-*The warden rolls a d6 twice for the spear attacks and gets 6 and 6.*
-
-**Warden:** Bad luck, a **dire strike**! One of the spears strikes your abdomen and the other pins you to the ground. You can't move for one turn.
-
-*He subtracts Lind's defence.*
-
-**Warden:** You take 10 damage.
-
-**Amy:** I'm at -8!
-
-**Warden:** You lose 8 points of **Strength**. Make a **critical damage** save to see if you stay on your feet!
-
-*Amy rolls a **d20**, hoping to beat her newly reduced **STR** score of **1**. **Natural 20** ! A critical failure!*
-
-**Warden:** You died! The draugr watches your lifeless body collapse to the ground and it slowly lurches away. The world fades to black...
-
-...
-
-... You awaken at a roaring bonfire. Your wounds are healed but you lose **1** point of **Vigour**.
-
-*Amy marks her sheet, cursing her bad luck. She has **3 Vigour** left. Her total Resilience is now reduced to 6.*
-
-**Amy:** This means the draugr I killed are back alive – er, on their feet again, doesn't it?
-
-**Warden:** That's right. But at least now you have a better idea what to expect.
-
-*Amy furrows her brow and grips her pencil tighter.*
-
-**Amy:** Let's do this!
+> ***Lind the skald** enters a darkened ruin, overgrown and ancient. The corridor leads north and figures are heard shuffling.*
+>
+> **Amy:** I walk further down the corridor, steel sword in one hand and runic focus in the other.
+>
+> **Warden:** Further down the ruin you see an armoured form wandering aimlessly. Its skin is decayed and drawn and it's holding a rusted spear. It's a **draugr** and it hasn't spotted you yet.
+>
+> **Amy:** I'm going to run up and cut it down with my sword!
+>
+> **Warden:** OK, you rush forward and slash at the undead warrior. Roll your damage.
+>
+> *Amy rolls a 5 on her **d6.***
+>
+> **Warden:** The draugr has **1 defence** from its armour so it takes 4 damage. The draugr turns and raises its spear to attack!
+>
+> **Amy:** I gather my will and unleash the power of the gods through my voice! I shout NO!
+>
+> *Choosing to use Lind's **shout** skill as a **reaction** to avoid the attack, Amy rolls a d20 and **attempts** to roll under her **SPI** of 16. She gets 5, a success!*
+>
+> **Warden:** You emit a shockwave and knock the draugr off balance, deflecting the attack! Tick one **Fatigue** for the shout.
+>
+> *Amy does and she now has **4** **slots** left.*
+>
+> **Amy:** This thing's not so tough. I strike out with my sword!
+>
+> *Amy rolls a 4 on her **d6** for the attack.*
+>
+> **Warden:** The draugr takes 3 damage -- it's not looking very good! It snarls and thrusts its spear.
+>
+> **Amy:** I'll take the hit since I've got decent **defence**.
+>
+> *The warden rolls a 5 on his **d6** for damage. He subtracts Lind's defence rating of 2 from the **damage**.*
+>
+> **Warden:** Oof! You take 3 points of damage.
+>
+> **Amy:** Grr, that's it. I clutch the runic focus tightly and weave a tale of Thor the thunderer. **Lightning spear**!
+>
+> *Amy rolls a **d8** for damage for her spell and gets a 5. She marks another point of **Fatigue** for the spell.*
+>
+> **Warden:** Magic bypasses the draugr's armour therefore it takes full damage. Because the attack reduces its **RES** below 0, it takes the remaining 4 damage to its **STR**. The draugr now needs to make a **critical damage** **STR** save or die!
+>
+> *The warden rolls 16 on a **d20**, failing to roll under the draugr's new **STR** score of 7.*
+>
+> **Warden:** It crumples to the ground, a blackened husk from the lightning strike. You've defeated it!
+>
+> **Amy:** Yes! Does the body have anything on it?
+>
+> **Warden:** Before you can search, the spell you just cast draws the attention of another **draugr**. It shuffles out of the darkness, holding a rotted **shortbow**. Roll a **DEX** save to see if you can react quick enough to avoid it!
+>
+> *Amy rolls a 16 on her **d20**. Failure, since her **DEX** is 14!*
+>
+> **Warden:** You try to step back but aren't quick enough and the arrow strikes you in the arm.
+>
+> *The warden rolls a d6 for damage and gets 4. He subtracts Lind's defence.*
+>
+> **Warden:** You take **2 damage**. A second draugr shambles out next to the first, spear in hand. What do you do?
+>
+> **Amy:** They're undead right? I throw my bottle of sacred waters at them!
+>
+> Amy rolls a **d10** twice for damage, one for each draugr, and gets 9 and 4. Amy updates her character sheet to remove the sacred waters from her **inventory**, freeing up a **slot**.
+>
+> **Warden:** The bottle breaks on the first draugr's armour and splashes over them both for magic **blast** damage. The first takes 9 points, bringing it under 0 and reducing its **STR** by 1.
+>
+> *The warden rolls a 1 on the draugr's critical damage save.*
+>
+> **Warden:** A critical success! The first draugr is still up but at -1 **RES**.  The second sizzles as it takes 4 points of damage. Both lurch forward, spears raised! Unless you avoid it, they'll hit with **damage advantage** since its two on one.
+>
+> **Amy:** I grip the runic focus and scream a curse from the gods, using my **shout** to deflect the attacks.
+>
+> *Amy makes a **Spirit** save by rolling a **d20**. A failure at 18! She ticks another **Fatigue**.*
+>
+> **Warden:** You struggle to remember the tale and the shout fails to deflect the attack.
+>
+> *The warden rolls a d6 twice for the spear attacks and gets 6 and 6.*
+>
+> **Warden:** Bad luck, a **dire strike**! One of the spears strikes your abdomen and the other pins you to the ground. You can't move for one turn.
+>
+> *He subtracts Lind's defence.*
+>
+> **Warden:** You take 10 damage.
+>
+> **Amy:** I'm at -8!
+>
+> **Warden:** You lose 8 points of **Strength**. Make a **critical damage** save to see if you stay on your feet!
+>
+> *Amy rolls a **d20**, hoping to beat her newly reduced **STR** score of **1**. **Natural 20** ! A critical failure!*
+>
+> **Warden:** You died! The draugr watches your lifeless body collapse to the ground and it slowly lurches away. The world fades to black...
+>
+> ...
+>
+> ... You awaken at a roaring bonfire. Your wounds are healed but you lose **1** point of **Vigour**.
+>
+> *Amy marks her sheet, cursing her bad luck. She has **3 Vigour** left. Her total Resilience is now reduced to 6.*
+>
+> **Amy:** This means the draugr I killed are back alive – er, on their feet again, doesn't it?
+>
+> **Warden:** That's right. But at least now you have a better idea what to expect.
+>
+> *Amy furrows her brow and grips her pencil tighter.*
+>
+> **Amy:** Let's do this!
 
 [Back to Index](#index)
 <p></p>
@@ -1445,4 +1446,5 @@ A few examples:
 Please note, modern Icelandic is close to Old Norse in structure but different in pronunciation. For simplicity, the Icelandic spelling and pronunciation is used for non-English words in this text.
 
 [Back to Index](#index)
+
 <p></p>
