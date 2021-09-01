@@ -711,7 +711,7 @@ Treasure takes the form of weapons, armour, spells, or relics. It can be a lure,
 #### **Equipment skills**
 
 - **Backstab:** Dash behind your enemy and inflict a critical strike (**DEX**)
-  - **Success:** Strike your target for **double damage**
+  - **Success:** Strike your target for double damage
   - **Failure:** Retaliatory attack from the target at **double damage**
     - **Dire strike:** Follow up with an extra attack that bypasses defence
 - **Barrier (reaction):** Raise a magical shield to negate **all damage** from the attack (**WIT**, **Fatigue**)
@@ -728,7 +728,7 @@ Treasure takes the form of weapons, armour, spells, or relics. It can be a lure,
 - **Flurry:** Sling two stones rapidly -- roll damage twice (**Fatigue**)
   - **Dire strike:** Sling a third stone and roll an extra damage die
 - **Greystone:** Cast a magical stone as if from a sling for d6 damage
-- **Hack:** Attack your opponent in a frenzy for **double damage** (**Fatigue**)
+- **Hack:** Attack your opponent in a frenzy for double damage (**Fatigue**)
   - **Dire strike:** Your opponent needs to make a **STR** save or stagger from the ferocity of the attack, moving back 5 ft. and losing their next turn
 - **Lacerate:** Slice a deep wound in your enemy for an initial d6 damage; roll d4 to determine bleed damage and duration (**Fatigue**)
 - **Parry (reaction):** Deflect an incoming attack and riposte (**STR**)
