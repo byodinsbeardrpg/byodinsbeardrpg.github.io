@@ -23,5 +23,5 @@ The **PDF** version is available on [DriveThruRPG](https://www.drivethrurpg.com/
 
 The full text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<img align=left width=500 src="https://img.itch.zone/aW1hZ2UvOTQxNTIyLzYxMDg0NTIucG5n/original/SKUPCg.png">
+<img width=500 src="https://img.itch.zone/aW1hZ2UvOTQxNTIyLzYxMDg0NTIucG5n/original/SKUPCg.png">
 
