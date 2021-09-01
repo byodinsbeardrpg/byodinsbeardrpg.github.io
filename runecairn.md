@@ -318,7 +318,7 @@ In the time before you prayed to Oðinn for a glorious death but now your fate i
 
 **Disarm (axe):** Hook your opponent's weapon hand; target needs to make a **DEX** save or be disarmed (**Fatigue**)
 
-**Hack (axe):** Attack your opponent in a frenzy for ****double damage**** (**Fatigue**)
+**Hack (axe):** Attack your opponent in a frenzy for **double damage** (**Fatigue**)
 
 * **Dire strike:** Your opponent needs to make a **STR** save or stagger back from the ferocity of the attack, moving back 5 feet and losing their next turn
 
@@ -384,7 +384,7 @@ Even in the time before you forged your own path. Now that your fate is truly un
 
 **Dash (reaction, key item):** Deftly evade an attack; **DEX** save to avoid all damage – failing the save **impairs** the enemy's attack, reducing it to **d4** (**Fatigue**)
 
-**Backstab (key item):** Dash behind your enemy and inflict a critical strike; **DEX** save to strike for ****double damage**** **(2d6)** - failure results in an attack from the target with **damage advantage**
+**Backstab (key item):** Dash behind your enemy and inflict a critical strike; **DEX** save to strike for **double damage** **(2d6)** - failure results in an attack from the target with **damage advantage**
 
 **Lacerate (knives):** Slice a deep wound in your enemy for an initial **d6 damage**; **roll d4** to determine bleed damage and duration (**Fatigue**)
 
