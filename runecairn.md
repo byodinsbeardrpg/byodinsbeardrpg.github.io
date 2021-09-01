@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Runecairn SRD
+nav_order: 2
 ---
 Writing and Editing: **Colin Le Sueur**<br>
 [byodinsbeardrpg.com](byodinsbeardrpg.com)<br>
