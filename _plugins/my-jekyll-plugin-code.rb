@@ -1,4 +1,4 @@
-Jekyll::Hooks.register :documents, :post_render do |doc|
+Jekyll::Hooks.register :pages, :post_render do |doc|
   if doc.output_ext == ".html"
     doc.output =
       doc.output.gsub(
