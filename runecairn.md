@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Runecairn SRD
+title: SRD
 nav_order: 2
 ---
+# Runecairn System Reference Document
+
 **Writing and Editing: **Colin Le Sueur**<br>
 [byodinsbeardrpg.com](byodinsbeardrpg.com)<br>
 Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)<br>
