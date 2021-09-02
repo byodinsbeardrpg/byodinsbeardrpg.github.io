@@ -241,9 +241,9 @@ What type of adventures can player characters expect?
 
 **1. Name**
 
-Choose or roll a name for your character from the **Names tables**.
+Choose or roll a name for your character from the **[Names tables](#names)**.
 
-Next, roll for the rest of your character's traits (appearance, speech, personality, etc.) on the **Character Traits** **tables**.
+Next, roll for the rest of your character's traits (appearance, speech, personality, etc.) on the [**Character Traits tables**](#character-traits).
 
 
 
