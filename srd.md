@@ -493,7 +493,7 @@ Slow (spell): Slows nearby enemies (**Fatigue** )
 
 ## Concepts of Play
 
-**Resilience**
+##### **Resilience**
 
 Resilience (**RES**) is the ability to avoid damage in combat, representing your personal drive, toughness, instinct and survivability.
 
@@ -501,7 +501,7 @@ Resilience is calculated by adding two stats: **Vigour (d6)** and **Vitality (d6
 
 If an attack takes your **Resilience** exactly to 0, roll on the **Omens** **table**.
 
-**Defence**
+##### **Defence**
 
 Before calculating damage to **Resilience**, subtract the target's **Defence** value from the result of **physical damage** rolls. Shields and similar armour provide a bonus (e.g. +1 Defence), but only while the item is held or worn.
 
@@ -509,7 +509,7 @@ Before calculating damage to **Resilience**, subtract the target's **Defence** v
 
 Wearing heavy armour weighs you down. If you're wearing **bulky** armour, make all **DEX** saves at **disadvantage** due to the cumbersome nature.
 
-**Inventory**
+##### **Inventory**
 
 * You start with **10 inventory slots**
 * Most items take up **1 slot** and **small** items don't take up any
@@ -517,13 +517,13 @@ Wearing heavy armour weighs you down. If you're wearing **bulky** armour, make a
 * Anyone with a **full inventory** (all slots filled) is reduced to **0 Resilience**
 * You can't carry more items than your inventory allows
 
-**Saves**
+##### **Saves**
 
 A save is a roll to avoid bad outcomes from risky choices and circumstances. Roll a d20 for an appropriate ability score. If you roll *equal to or under that ability score*, you pass. Otherwise, you fail. A 1 is always a success, and a 20 is always a failure.
 
 In some situations, saves are made with a bonus (**advantage**) or penalty (**disadvantage**). Roll two d20s, take the lower result for **advantage** and the higher for **disadvantage**.
 
-**Mead flask & healing**
+##### **Mead flask & healing**
 
 Filled with mead brewed by the gods and infused with the Iðunn's everlasting apples, sipping this mead restores health and heals injuries.
 
@@ -533,19 +533,19 @@ You start with **2 sips**. The amount of mead in the flask can be increased unde
 
 Your **mead flask** does not take up any inventory slots.
 
-**Status effects**
+##### **Status effects**
 
 * **Cursed: Resilience** is halved until the curse is lifted or otherwise dispelled
 * **Deprived:** You can't **recover Resilience** or take **reactions** until you rest at a bonfire
 * **Poisoned:** Take damage every turn, bypassing **DEF**; a successful **STR** save or resting at a **bonfire** cleanses the poison
 
-**Fatigue**
+##### **Fatigue**
 
 Your actions and items weigh heavily on you and **Fatigue** can easily overwhelm.
 **Fatigue** is caused by casting **spells**, using certain **skills**, and rare **monster abilities**.
 Each **Fatigue** occupies **1 inventory slot** and lasts until the character rests at a **bonfire**.
 
-**Clearing Fatigue**
+##### **Clearing Fatigue**
 
 During a moment of calm, you can spend **1 soul** to clear d4 points of **Fatigue** (see **Souls**).
 
@@ -555,7 +555,7 @@ Roll a **d6** and compare the result to your current **Vigour** score. If you ro
 
 You can attempt to **clear** **Fatigue** in this manner once per day.
 
-**Bonfires**
+##### **Bonfires**
 
 Bonfires link the Nine Realms and offer a beacon of hope to souls lost in the dark.
 
@@ -565,7 +565,7 @@ Resting at a bonfire also causes most slain foes to return to life. Powerful or 
 
 When resting at a bonfire, you can choose to spend **Souls** to grow your power.
 
-**Death**
+##### **Death**
 
 Prepare to die often. Upon death, you wake at the last bonfire rested at with all your current items.
 
@@ -573,7 +573,7 @@ Prepare to die often. Upon death, you wake at the last bonfire rested at with al
 
 One point of **Vigour** can be restored by a full day communing with a **skald** or by burning a **sacrificial bundle** at a bonfire.
 
-**Souls**
+##### **Souls**
 
 The might of the gods has been scattered across the Nine Realms. Fragments of this power exist as **soul remnants**, energy manifested and crystallised into physical form.
 
@@ -585,7 +585,7 @@ Breaking a **soul remnant** will imbue you with the souls held within.
 
 **Souls** are delicate and are discarded when you die. You have one chance to recover dropped **souls** after you wake up at the bonfire. Die again before retrieving them and they're lost forever.
 
-**Spending souls**
+##### **Spending souls**
 
 As **souls** represent the innate power of the gods, you can absorb this power to grow stronger.
 
@@ -595,7 +595,7 @@ While resting, spend 1 soul to permanently increase one of the following attribu
 
 Rare merchants and travellers trade in souls and you can barter for goods and services with **soul remnants**. Certain spells or relics can also coalesce **soul remnants** from imbued **souls**.
 
-**Wealth & treasure**
+##### **Wealth & treasure**
 
 Gold and most coins have little value and most trade is through barter.
 
@@ -801,12 +801,12 @@ Treasure takes the form of weapons, armour, spells, or relics. It can be a lure,
 
 ## Combat
 
-**Rounds**
+##### **Rounds**
 
 * Roughly ten seconds of in-game time
 * Comprised of **turns**
 
-**Actions**
+##### **Actions**
 
 * **Move up to 40ft**, **cast a spell**, **attack**, **move again**, or other reasonable action
 * Declare actions before rolling dice; if risky, the Warden calls for a save
@@ -822,7 +822,7 @@ All PCs have the following reactions:
 * **Roll:** Make a **DEX** save to roll away from an enemy's attack, avoiding **all damage** (causes **Fatigue**)
 * **Withdraw:** Make a **DEX** save to disengage from combat and retreat, **avoiding all damage**; failing the save means you escape but still take damage from the attack
 
-**Turns**
+##### **Turns**
 
 The Warden telegraphs the actions taken by NPCs or monsters.
 
@@ -839,21 +839,21 @@ Failing this save also means PCs can't use a **Reaction** in their first turn.
 
 ### **Attack modifiers**
 
-**Damage advantage**
+##### **Damage advantage**
 
 Attacks from a position of strength (against a helpless foe or through a daring manoeuvre). Roll for damage twice and take the **higher result**.
 
-**Damage disadvantage**
+##### **Damage disadvantage**
 
 Attacks from a position of weakness (through cover or with bound hands). Roll for damage twice and take the **lower result**.
 
 Certain skills or items can also grant **damage advantage** or **disadvantage**.
 
-**Multiple attackers**
+##### **Multiple attackers**
 
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result (**damage advantage**).
 
-**Dual and 2-handed weapons**
+##### **Dual and 2-handed weapons**
 
 If attacking with two weapons at the same time or one weapon held in both hands, gain **damage advantage**.
 
@@ -863,13 +863,13 @@ Some weapons or enemies have special abilities that are triggered when rolling *
 
 The Warden may also decide the effect of a dire strike.
 
-**Blast**
+##### **Blast**
 
 Blast attacks affect all targets in the area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
 
 If unsure how many targets can be affected, roll the damage die for a result.
 
-**Ability score loss**
+##### **Ability score loss**
 
 If any of a PC's ability scores are reduced to 0, they die.
 
@@ -1017,11 +1017,11 @@ When an attack reduces a PC's Resilience to exactly 0, this triggers an omen. Ro
 
 Magic is a remnant of the gods and draws attention when used. Some see magic as proof the gods live on in the new world.
 
-**Runestones**
+##### **Runestones**
 
 Smooth and delicately polished stones with an inscribed spell hand-etched in runes. Used by seers to affect magical change in the world.
 
-**Sagas** 
+##### **Sagas** 
 
 Not a physical object, but a learned and memorised tale passed down from the gods. Skalds can recite sagas to channel the power of the gods through speech.
 
@@ -1033,7 +1033,7 @@ Scrolls are similar to runestones and sagas, however:
 * They do not cause **Fatigue**.
 * They disappear after one use.
 
-**Casting spells**
+##### **Casting spells**
 
 **Seers** cast spells by holding a **runestone** in one hand and a staff in the other. They read the **spell** from the runestone and focus the magic through the staff.
 
@@ -1049,7 +1049,7 @@ Consequences of failure are on par with the intended effect, and may result in a
 
 Only spells that cause **Fatigue** are subject to ill effects.
 
-**Relics**
+##### **Relics**
 
 Items imbued with a magical spell or power. They do not cause **Fatigue**. Relics usually have a limited use, as well as a recharge condition. A few examples:
 
@@ -1059,7 +1059,7 @@ Items imbued with a magical spell or power. They do not cause **Fatigue**. Relic
 - **Skull Beacon**, 1 charge. Charred and crumbling skull with a dim glimmer in the sockets. Glows brightly when held. Recharge: burn on a roaring bonfire.
 - **Staff of Walking Weald**, 1 charge. Crooked staff speckled with soft moss. Temporarily animates a plant or tree. Recharge: bury underneath the oldest tree in the forest for one week.
 
-**Rings**
+##### **Rings**
 
 Many magical rings may be found but none of them should be used lightly.
 
@@ -1154,7 +1154,7 @@ A few examples:
 
 ## Monsters
 
-**Draugr**
+##### **Draugr**
 
 8 **RES**, 1 **DEF**, 11 **STR**, 8 **DEX**, 9 **WIT**, 6 **SPI**, 20ft, spear/axe (d6)
 
@@ -1164,7 +1164,7 @@ A few examples:
 
 
 
-**Dwarf**
+##### **Dwarf**
 
 10 **RES**, 2 **DEF**, 13 **STR**, 10 **DEX**, 10 **WIT**, 12 **SPI**, 25ft, hammer (d8)
 
@@ -1174,7 +1174,7 @@ A few examples:
 
 
 
-**Elf**
+##### **Elf**
 
 8 **RES**, 1 **DEF**, 8 **STR**, 14 **DEX**, 14 **WIT**, 12 **SPI**, 40ft, dual swords (d6)
 
@@ -1184,7 +1184,7 @@ A few examples:
 
 
 
-**Jotunn, fire**
+##### **Jotunn, fire**
 
 20 **RES**, 4 **DEF**, 18 **STR**, 12 **DEX**, 13 **WIT**, 14 **SPI**, 25ft, flaming sword (d10)
 
@@ -1194,7 +1194,7 @@ A few examples:
 
 
 
-**Jotunn, forest**
+##### **Jotunn, forest**
 
 18 **RES**, 3 **DEF**, 16 **STR**, 12 **DEX**, 10 **WIT**, 14 **SPI**, 20ft, broad axe (d10)
 
@@ -1204,7 +1204,7 @@ A few examples:
 
 
 
-**Lindworm**
+##### **Lindworm**
 
 20 **RES**, 2 **DEF**, 16 **STR**, 16 **DEX**, 16 **WIT**, 14 **SPI**, 40ft, bite (d8)
 
@@ -1214,7 +1214,7 @@ A few examples:
 
 
 
-**Rock troll**
+##### **Rock troll**
 
 4 **RES**, 2 **DEF**, 12 **STR**, 6 **DEX**, 6 **WIT**, 10 **SPI**, 20ft, claw (d4)
 
@@ -1224,7 +1224,7 @@ A few examples:
 
 
 
-**Shade**
+##### **Shade**
 
 3 **RES**, 10 **STR**, 8 **DEX**, 9 **WIT**, 4 **SPI**, 20ft, claw (d4)
 
@@ -1233,7 +1233,7 @@ A few examples:
 
 
 
-**Skeleton**
+##### **Skeleton**
 
 8 **RES**, 10 **STR**, 8 **DEX**, 4 **WIT**, 4 **SPI**, 30ft, spear (d6)
 
@@ -1243,7 +1243,7 @@ A few examples:
 
 
 
-**Skeleton, bonewheel**
+##### **Skeleton, bonewheel**
 
 6 **RES**, 8 **STR**, 12 **DEX**, 4 **WIT**, 4 **SPI**, 40ft, spikes (d6), roll
 
@@ -1253,7 +1253,7 @@ A few examples:
 
 
 
-**Skeleton, giant**
+##### **Skeleton, giant**
 
 16 **RES**, 14 **STR**, 10 **DEX**, 4 **WIT**, 4 **SPI**, 20ft, greatsword (d10)
 
@@ -1263,7 +1263,7 @@ A few examples:
 
 
 
-**Treant**
+##### **Treant**
 
 10 **RES**, 1 **DEF**, 12 **STR**, 6 **DEX**, 5 **WIT**, 12 **SPI**, 15ft, slam (d6)
 
@@ -1273,7 +1273,7 @@ A few examples:
 
 
 
-**Troll**
+##### **Troll**
 
 12 **RES**, 1 **DEF**, 14 **STR**, 10 **DEX**, 10 **WIT**, 12 **SPI**, 20ft, club (d8)
 
@@ -1283,7 +1283,7 @@ A few examples:
 
 
 
-**Warg**
+##### **Warg**
 
 18 **RES**, 14 **STR**, 12 **DEX**, 9 **WIT**, 8 **SPI**, 30ft, bite (d12)
 
@@ -1293,7 +1293,7 @@ A few examples:
 
 
 
-**Wolf**
+##### **Wolf**
 
 4 **RES**, 9 **STR**, 10 **DEX**, 4 **WIT**, 8 **SPI**, 40ft, bite (d4)
 
