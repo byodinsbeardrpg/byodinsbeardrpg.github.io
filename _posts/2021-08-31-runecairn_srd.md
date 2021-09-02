@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Runecairn - Norse Fantasy TTRPG
+title: What is Runecairn?
 ---
 
 ***Runecairn*** is a Norse fantasy tabletop roleplaying game about slaying fearsome creatures, delving into crumbling ruins, and navigating an untamed wilderness.
