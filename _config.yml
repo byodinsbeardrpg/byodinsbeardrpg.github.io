@@ -1,8 +1,8 @@
 # Setup
 title:               By Odin's Beard RPG
 tagline:             'Tabletop roleplaying games'
-description:         '<a href="https://byodinsbeardrpg.github.io"><img src="https://byodinsbeardrpg.github.io/public/by_odins_beard_logo_and_text_600px_white.png"></a>'
-url:                 https://byodinsbeardrpg.github.io
+description:         '<a href="https://runecairn.byodinsbeardrpg.com"><img src="https://runecairn.byodinsbeardrpg.com/public/by_odins_beard_logo_and_text_600px_white.png"></a>'
+url:                 https://runecairn.byodinsbeardrpg.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
