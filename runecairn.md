@@ -3,10 +3,10 @@ layout: page
 title: Runecairn SRD
 nav_order: 2
 ---
-Writing and Editing: **Colin Le Sueur**<br>
+**Writing and Editing: **Colin Le Sueur**<br>
 [byodinsbeardrpg.com](byodinsbeardrpg.com)<br>
 Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)<br>
-Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>
+Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>**
 
 ## Index
 - [Overview](#overview)<br>
