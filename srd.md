@@ -25,7 +25,7 @@ Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>
 - [Monsters](#monsters)<br>
 - [Appendix](#appendix)<br>
 
-## Overview
+## {% include linkedHeading.html heading="Overview " level=1%}
 
 ***The gods have fallen<br>
 Fresh life blooms from the ruin<br>
