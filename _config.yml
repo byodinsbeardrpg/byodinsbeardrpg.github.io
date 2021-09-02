@@ -6,7 +6,8 @@ url:                 https://runecairn.byodinsbeardrpg.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-
+include:
+    -js
 # About/contact
 author:
   name:              Colin Le Sueur
