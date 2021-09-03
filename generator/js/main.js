@@ -48,3 +48,9 @@ $("#" + item).html(roll(6) + roll(6) + roll(6));});
 $("#armorTotal").html(armorTotal);
 $("#total").html(total);
 $("#gold").html(roll(6) + roll(6) + roll(6));
+function Resilience() {
+  var vig = document.getElementById("#vit").value;
+  var vit = document.getElementById("#vig").value;
+  var res = +vig + +vit;
+  document.getElementById("#res").innerHTML = res;
+}
