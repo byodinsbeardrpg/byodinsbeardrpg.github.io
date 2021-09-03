@@ -1,9 +1,9 @@
 gen_data['character'] = [
-  'You are <i> {name}</i>.<br>You have {physique} physique, {skin} skin, {hair} hair, and {face} face.<br>You speak in a {speech} manner.<br>You are {vice} yet {virtue}.<br>In another life, you were a {class}'
+  'You are <i> {name}</i>.<br>You have {physique} physique, {skin} skin, {hair} hair, and {face} face.<br>You speak in a {speech} manner.<br>You are {vice} yet {virtue}.<p>In another life, you were a {class}'
 ]
 
 gen_data['class'] = [
-  '<h3>Warrior</h3><p>In another life you might have been a soldier, a guardsman, a shieldmaiden, or a raider. Your shield was always strapped to your arm and your axe and spear always to hand.<p>You sang the songs of battle and drank to victory and defeat in smoke-filled halls.<p>In combat, you favoured the direct approach, relying on your sturdy armour to deflect any blows while giving you time to land your own.<p>In the time before you prayed to Oðinn for a glorious death but now your fate is your own to choose.<h3>Equipment</h3><li><b>Armour: </b>Chainmail (2 Defence, bulky).</li><li><b>Shield: </b>Linden wood shield (<b>key item</b>, +1 Defence).</li><li><b>Weapon(s): </b>Bearded axe (d8), ash wood spear (d6, 20\')</li><li><b>Gear, tools & trinkets: </b>Memento of defeat.</li><li><b>Inventory: 4</b> free slots remaining out of <b>10</b>.</li>',
+  '<b>warrior</b><h3>Equipment</h3><li><b>Armour: </b>Chainmail (2 Defence, bulky).</li><li><b>Shield: </b>Linden wood shield (<b>key item</b>, +1 Defence).</li><li><b>Weapon(s): </b>Bearded axe (d8), ash wood spear (d6, 20\')</li><li><b>Gear, tools & trinkets: </b>Memento of defeat.</li><li><b>Inventory: 4</b> free slots remaining out of <b>10</b>.</li>',
   '<h3>Skald</h3>You have {physique} physique, {skin} skin, {hair} hair, and {face} face.<br>You speak in a {speech} manner.<br>You are {vice} yet {virtue}.',
   '<h3>Scout</h3>You have {physique} physique, {skin} skin, {hair} hair, and {face} face.<br>You speak in a {speech} manner.<br>You are {vice} yet {virtue}.',
   '<h3>Seer</h3>You have {physique} physique, {skin} skin, {hair} hair, and {face} face.<br>You speak in a {speech} manner.<br>You are {vice} yet {virtue}.'
