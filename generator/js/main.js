@@ -8,6 +8,7 @@ const gear = generate_text("gear");
 const trinket = generate_text("trinket");
 const weapons = generate_text("weapons");
 const bonus = generate_text("bonus");
+const resilience = generate_text("resilience");
 
 let allItems = [];
 allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);
@@ -42,6 +43,7 @@ console.log(total);
 $("#character").html(generate_text("character"));
 $("#vit").html(roll(6));
 $("#vig").html(roll(6));
+const ("#res") = ${"#vit"} + ${"#vig"};
 ["str", "dex", "wit", "spi"].forEach((item, i) => {
 $("#" + item).html(roll(6) + roll(6) + roll(6));});
 $("#armorTotal").html(armorTotal);
