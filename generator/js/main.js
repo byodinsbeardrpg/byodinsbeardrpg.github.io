@@ -8,7 +8,7 @@ const gear = generate_text("gear");
 const trinket = generate_text("trinket");
 const weapons = generate_text("weapons");
 const bonus = generate_text("bonus");
-const resilience = generate_text("resilience");
+const res = generate_text("res");
 
 let allItems = [];
 allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);
