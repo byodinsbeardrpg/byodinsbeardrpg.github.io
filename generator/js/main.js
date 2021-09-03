@@ -40,17 +40,11 @@ armorValue.forEach((item) => {
 
 console.log(total);
 $("#character").html(generate_text("character"));
-$("#age").html(roll(20) + roll(20) + 10);
-$("#hp").html(roll(6));
-["str", "dex", "wil"].forEach((item, i) => {
+$("#vit").html(roll(6));
+$("#vig").html(roll(6));
+$("#res").html(roll(6));
+["str", "dex", "wit", "spi"].forEach((item, i) => {
 $("#" + item).html(roll(6) + roll(6) + roll(6));});
-$("#armor").html(armor);
-$("#helmet").html(helmet);
-$("#weapons").html(weapons);
-$("#tool").html(tool);
-$("#gear").html(gear);
-$("#trinket").html(trinket);
-$("#bonus").html(bonus);
 $("#armorTotal").html(armorTotal);
 $("#total").html(total);
 $("#gold").html(roll(6) + roll(6) + roll(6));
