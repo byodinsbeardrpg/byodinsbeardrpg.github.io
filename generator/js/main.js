@@ -44,7 +44,7 @@ $("#vit").html(roll(6));
 $("#vit").html(vit);
 $("#vig").html(roll(6));
 $("#vig").html(vig);
-$("#res").html(vit+vig);
+$("#res").html(vit()+vig());
 ["str", "dex", "wit", "spi"].forEach((item, i) => {
 $("#" + item).html(roll(6) + roll(6) + roll(6));});
 $("#armorTotal").html(armorTotal);
