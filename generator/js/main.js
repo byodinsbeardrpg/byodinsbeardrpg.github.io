@@ -1,8 +1,7 @@
 roll = (d) => {
   return Math.floor(Math.random()*d)+1;
 };
-const class = generate_text("class");
-} if (class.includes("warrior")){
+if (class.includes("warrior")){
   defTotal = 3;
 } else if (class.includes("skald")) {
   defTotal = 2;
