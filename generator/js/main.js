@@ -4,7 +4,6 @@ roll = (d) => {
 $("#character").html(generate_text("character"));
 $("#vit").html(roll(6));
 $("#vig").html(roll(6));
-let res = ${"vit"} + ${"vig"};
 $("#res").html(res);
 $("#defTotal").html(defTotal);
 ["str", "dex", "wit", "spi"].forEach((item, i) => {
