@@ -225,3 +225,19 @@ gen_data['runestone'] = [
   'slow'
 ,  'seiðr spear'
 ]
+
+gen_data['warrior.def'] = [
+  '3'
+]
+
+gen_data['skald.def'] = [
+  '2'
+]
+
+gen_data['scout.def'] = [
+  '1'
+]
+
+gen_data['seer.def'] = [
+  '0'
+]
