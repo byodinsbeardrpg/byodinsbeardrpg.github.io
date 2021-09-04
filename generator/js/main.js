@@ -8,5 +8,6 @@ var vit = $("#vit").text();
 var vig = $("#vig").text();
 var res = Number(vit) + Number(vig);
 $("#res").html(res);
+$("#defTotal").val();
 ["str", "dex", "wit", "spi"].forEach((item, i) => {
 $("#" + item).html(roll(6) + roll(6) + roll(6));});
