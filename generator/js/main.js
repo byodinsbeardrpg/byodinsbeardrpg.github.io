@@ -10,7 +10,6 @@ if (class.includes("warrior")){
 } else if (class.includes("seer")) {
   defTotal = 1;
 }
-$("#defTotal").html(defTotal);
 $("#character").html(generate_text("character"));
 $("#vit").html(roll(6));
 $("#vig").html(roll(6));
