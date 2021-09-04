@@ -16,5 +16,6 @@ $("#vit").html(roll(6));
 $("#vig").html(roll(6));
 console.log(res);
 $("#res").html(res);
+$("#defTotal").html(defTotal);
 ["str", "dex", "wit", "spi"].forEach((item, i) => {
 $("#" + item).html(roll(6) + roll(6) + roll(6));});
