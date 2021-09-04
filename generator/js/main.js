@@ -4,7 +4,9 @@ roll = (d) => {
 $("#character").html(generate_text("character"));
 $("#vit").html(roll(6));
 $("#vig").html(roll(6));
-let res = "#vit" + "#vig";
+$("#vit").html(vit);
+$("#vig").html(vig);
+let res = vit + vig;
 console.log(res);
 $("#res").html(res);
 $("#defTotal").html(defTotal);
