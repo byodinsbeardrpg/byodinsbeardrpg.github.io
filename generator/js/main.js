@@ -2,7 +2,7 @@ roll = (d) => {
   return Math.floor(Math.random()*d)+1;
 };
 $("#character").html(generate_text("character"));
-var character = ${"#character"}.text();
+var character = ${"#character"}.html();
 if (character.includes("warrior")){
   defTotal = 3;
 } else if (character.includes("skald")) {
