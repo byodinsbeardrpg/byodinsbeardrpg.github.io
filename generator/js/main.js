@@ -1,19 +1,17 @@
 roll = (d) => {
   return Math.floor(Math.random()*d)+1;
 };
-const class = generate_text("class");
 let defTotal = 0;
-if (class.includes("warrior")){
+if (character.includes("warrior")){
   defTotal = 3;
-} else if (class.includes("skald")) {
+} else if (character.includes("skald")) {
   defTotal = 2;
-} else if (class.includes("scout")) {
+} else if (character.includes("scout")) {
   defTotal = 1;
-} else if (class.includes("seer")) {
+} else if (character.includes("seer")) {
   defTotal = 1;
 }
 $("#character").html(generate_text("character"));
-$("#class").html(generate_text("class"));
 $("#vit").html(roll(6));
 $("#vig").html(roll(6));
 console.log(res);
