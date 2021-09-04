@@ -13,6 +13,7 @@ if (class.includes("warrior")){
   defTotal = 1;
 }
 $("#character").html(generate_text("character"));
+$("#class").html(generate_text("class"));
 $("#vit").html(roll(6));
 $("#vig").html(roll(6));
 console.log(res);
