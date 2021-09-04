@@ -8,6 +8,15 @@ var vit = $("#vit").text();
 var vig = $("#vig").text();
 var res = Number(vit) + Number(vig);
 $("#res").html(res);
+if (${"#character"}.includes("warrior")){
+  defTotal = 3;
+} else if (character.includes("skald")) {
+  defTotal = 2;
+} else if (character.includes("scout")) {
+  defTotal = 1;
+} else if (character.includes("seer")) {
+  defTotal = 1;
+}
 $("#defTotal").html(defTotal);
 ["str", "dex", "wit", "spi"].forEach((item, i) => {
 $("#" + item).html(roll(6) + roll(6) + roll(6));});
