@@ -2,6 +2,7 @@ roll = (d) => {
   return Math.floor(Math.random()*d)+1;
 };
 const class = generate_text("class");
+let defTotal = 0;
 if (class.includes("warrior")){
   defTotal = 3;
 } else if (class.includes("skald")) {
