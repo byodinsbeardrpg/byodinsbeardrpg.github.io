@@ -39,7 +39,7 @@ body {
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   body {
-    font-size: calc(16px + 1.6vh);
+    font-size: calc(16px + 2vh);
     font-family: minion-pro-display;
   }
   h2 {
