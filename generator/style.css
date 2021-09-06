@@ -1,7 +1,7 @@
 @media screen and (min-width: 600px) {
   h2 {
     margin-bottom: 0em;
-    font-family: black-beard;
+    font-family: BlackBeard;
     font-size: 250%;
     font-weight: 400;
     font-size: calc(16px + 3vh);
@@ -9,14 +9,14 @@
   body {
   width: 800px;
   margin: auto;
-  font-family: minion-pro-display;
+  font-family: Minion Pro Display;
   font-weight: 400; font-size: calc(16px + 0.3vh)
   padding: 14px;
   }
   h3 {
   margin-bottom: 0em;
   font-weight: 700;
-  font-family: futura-pt;
+  font-family: Futura PT;
   font-size: calc(16px + 0.6vh);
   }
 }
