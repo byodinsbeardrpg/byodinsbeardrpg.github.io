@@ -31,14 +31,14 @@ body {
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  width: 300px;
+  width: 100%;
   font-size: calc(20px + 3vh);
   color: light-blue;
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  width: 300px;
+  width: 100%;
   font-size: calc(20px + 3vh);
   color: light-blue;
 }
