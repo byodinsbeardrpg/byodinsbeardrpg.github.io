@@ -1,13 +1,13 @@
-/* Uses vh and vm with calc */
-@media screen and (min-width: 25em){
-  html { font-size: calc( 16px + (24 - 16) * (100vw - 400px) / (800 - 400) ); }
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 601px) {
+  div.chargen {
+    font-size: 80px;
+  }
 }
 
-/* Safari <8 and IE <11 */
-@media screen and (min-width: 25em){
-  html { font-size: calc( 16px + (24 - 16) * (100vw - 400px) / (800 - 400) ); }
-}
-
-@media screen and (min-width: 50em){
-html { font-size: calc( 16px + (24 - 16) * (100vw - 400px) / (800 - 400) ); }
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  div.chargen {
+    font-size: 30px;
+  }
 }
