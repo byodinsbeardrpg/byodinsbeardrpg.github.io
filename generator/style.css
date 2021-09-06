@@ -42,15 +42,15 @@ body {
   body {
     background-color: #F5CF8E; /* Yellow */
     font-size: calc(16px + 1.4vh);
-    font-family: minion-pro-display,serif;
+    font-family: Minion Pro Display;
   }
   h2 {
     font-size: calc(16px + 3vh);
-    font-family: futura-pt,sans-serif;
+    font-family: Futura PT Bold;
   }
   h3 {
     font-size: calc(16px + 2vh);
-    font-family: black-beard;
+    font-family: BlackBeard;
   }
 }
 
