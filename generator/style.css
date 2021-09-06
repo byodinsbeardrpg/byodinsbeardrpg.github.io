@@ -17,15 +17,39 @@ h2 {
 h3 {
   margin-bottom: 0em;
   font-weight: 700;
-  font-family: Futura PT,futura-pt;
+  font-family: Futura PT,futura-pt,sans-serif;
   font-size: calc(16px + 0.6vh);
 }
 body {
-  width: 50%;
+  width: 800px;
   margin: auto;
   padding:14px;
-  font-family: Minion Pro,minion-pro;
+  font-family: Minion Pro,minion-pro,serif;
   font-weight: 400;
   font-size: calc(16px + 0.3vh);
   word-wrap: break-word;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  width: 300px;
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  width: 300px;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
 }
