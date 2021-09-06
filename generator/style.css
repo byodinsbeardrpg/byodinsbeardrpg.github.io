@@ -1,11 +1,3 @@
-h2 {
-  margin-bottom: 0em;
-  font-family: BlackBeard;
-  font-size: 250%;
-  font-weight: 400;
-  font-size: calc(16px + 3vh);
-}
-
 @media screen and (min-width: 600px) {
   h2 {
     margin-bottom: 0em;
@@ -15,13 +7,6 @@ h2 {
     font-size: calc(16px + 3vh);
   }
 }
-h3 {
-margin-bottom: 0em;
-font-weight: 700;
-font-family: Futura PT;
-font-size: calc(16px + 0.6vh);
-}
-
 @media screen and (min-width: 600px) {
   h3 {
   margin-bottom: 0em;
@@ -29,14 +14,6 @@ font-size: calc(16px + 0.6vh);
   font-family: futura-pt;
   font-size: calc(16px + 0.6vh);
   }
-}
-body {
-width: 800px;
-margin: auto;
-font-family: Minion Pro Display;
-font-weight: 400; font-size: calc(16px + 0.3vh)
-}
-
 @media screen and (min-width: 600px) {
   body {
   width: 800px;
