@@ -3,6 +3,7 @@
     font-size: calc(16px + 1vh);
   }
   body {
+  width: auto;
   margin: auto;
   font-size: calc(16px + 3vh);
   padding: 14px;
