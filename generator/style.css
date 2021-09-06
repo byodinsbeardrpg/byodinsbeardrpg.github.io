@@ -47,7 +47,7 @@ body {
     font-family: black-beard;
   }
   h3 {
-    font-size: calc(16px + 3vh);
+    font-size: calc(16px + 2vh);
     font-family: futura-pt;
   }
 }
