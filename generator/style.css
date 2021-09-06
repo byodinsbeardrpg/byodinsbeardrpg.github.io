@@ -24,6 +24,7 @@ body {
   width: 800px;
   margin: auto;
   padding-left:20px;
+  padding-right:20px;
   font-family: Minion Pro,minion-pro,serif;
   font-weight: 400;
   font-size: calc(16px + 0.3vh);
@@ -43,7 +44,7 @@ body {
     font-family: minion-pro-display;
   }
   h2 {
-    font-size: calc(16px + 3vh);
+    font-size: calc(16px + 4vh);
     font-family: black-beard;
   }
   h3 {
