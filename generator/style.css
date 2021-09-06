@@ -6,12 +6,12 @@
   margin: auto;
   font-size: calc(16px + 3vh);
   padding: 14px;
-  font-family: minion-pro-display;
+  font-family: minion-pro-display, serif;;
   word-wrap: break-word;
   }
   h3 {
   font-size: calc(16px + 3vh);
-  font-family: futura-pt;
+  font-family: futura-pt-bold, sans-serif;
   }
 }
 a:active {
