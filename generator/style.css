@@ -44,10 +44,10 @@ body {
   }
   h2 {
     font-size: calc(16px + 3vh);
-    font-family: futura-pt;
+    font-family: black-beard;
   }
   h3 {
     font-size: calc(16px + 3vh);
-    font-family: black-beard;
+    font-family: futura-pt;
   }
 }
