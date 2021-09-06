@@ -41,8 +41,8 @@ body {
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   body {
     background-color: #F5CF8E; /* Yellow */
-    font-size: calc(16px + 1vh);
-    font-family: Minion Pro,minion-pro,serif;
+    font-size: calc(16px + 1.4vh);
+    font-family: Minion Pro Display,minion-pro-display,serif;
   }
   h2 {
     font-size: calc(16px + 3vh);
@@ -50,6 +50,7 @@ body {
   }
   h3 {
     font-size: calc(16px + 2vh);
+    font-family: BlackBeard,black-beard;
   }
 }
 
