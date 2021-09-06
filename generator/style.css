@@ -8,6 +8,7 @@
   font-size: calc(16px + 3vh);
   padding: 14px;
   font-family: minion-pro-display;
+  word-wrap: break-word;
   }
   h3 {
   font-size: calc(16px + 3vh);
