@@ -1,6 +1,6 @@
 @media only screen and (max-width: 768px) {
   h2 {
-    font-size: calc(16px + 2vh);
+    font-size: calc(16px + 1vh);
   }
   body {
   margin: auto;
