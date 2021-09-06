@@ -33,12 +33,14 @@ body {
 @media only screen and (max-width: 600px) {
   width: 300px;
   font-size: calc(16px + 3vh);
+  background: light-blue;
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   width: 300px;
-  font-size: calc(16px + 3vh);  
+  font-size: calc(16px + 3vh);
+  background: light-blue;
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
