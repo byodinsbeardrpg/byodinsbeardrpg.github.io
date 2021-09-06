@@ -33,27 +33,27 @@ body {
 @media only screen and (max-width: 600px) {
   width: 300px;
   font-size: calc(16px + 3vh);
-  background: light-blue;
+  color: light-blue;
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   width: 300px;
   font-size: calc(16px + 3vh);
-  background: light-blue;
+  color: light-blue;
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  background: light-green;
+  color: light-green;
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-  background: light-yellow;
+  color: light-yellow;
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-  background: light-red;
+  color: light-red;
 }
