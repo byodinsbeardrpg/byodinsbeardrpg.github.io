@@ -2,6 +2,8 @@
   h2 {
     font-size: calc(16px + 1vh);
   }
+}
+@media screen and (max-width: 400px) {
   body {
   width: 100%;
   margin: auto;
@@ -10,6 +12,8 @@
   font-family: minion-pro-display, serif;
   word-wrap: break-word;
   }
+}
+@media screen and (max-width: 400px) {
   h3 {
   font-size: calc(16px + 3vh);
   font-family: futura-pt-bold, sans-serif;
