@@ -23,7 +23,7 @@ h3 {
 body {
   width: 800px;
   margin: auto;
-  padding:14px;
+  padding-left:20px;
   font-family: Minion Pro,minion-pro,serif;
   font-weight: 400;
   font-size: calc(16px + 0.3vh);
