@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .page {
   display: flex;
   flex-wrap: wrap;
@@ -40,12 +46,6 @@ body {
   font-weight: 400;
   font-size: calc(16px + 0.3vh);
   word-wrap: break-word;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 
 /* Mobile Styles */
