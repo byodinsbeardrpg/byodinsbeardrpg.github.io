@@ -37,7 +37,7 @@ h3 {
   font-size: calc(16px + 0.6vh);
 }
 body {
-  width: 80%;
+  width: 800px;
   margin: auto;
   font-family: Minion Pro,minion-pro;
   font-weight: 400;
