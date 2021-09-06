@@ -8,7 +8,7 @@ a:hover {
   color: #32b865
 }
 h2 {
-  margin-bottom: 0em;
+  margin-bottom: 0.5em;
   font-family: BlackBeard,black-beard;
   font-size: 250%;
   font-weight: 400;
@@ -46,6 +46,7 @@ body {
   }
   h2 {
     font-size: calc(16px + 3vh);
+    font-family: Futura PT,futura-pt,sans-serif;
   }
   h3 {
     font-size: calc(16px + 2vh);
