@@ -1089,9 +1089,8 @@ A few examples:
 
 ### Seer Spells
 
-| Seer Spells      |                                                              |
-| ---------------- | ------------------------------------------------------------ |
-| Spell Name       | Description                                                  |
+| Spell                 | Description                                                  |
+| --------------------- | ------------------------------------------------------------ |
 | All-father’s Eye | You can see through a magical floating eyeball that flies around at your command |
 | Armoured         | Gain 2 points of defence                                     |
 | Beast Form       | You and your possessions transform into a mundane animal     |
@@ -1127,9 +1126,8 @@ A few examples:
 
 ### Skald Spells
 
-| Skald Spells          |                                                              |
-| --------------------- | ------------------------------------------------------------ |
 | Spell                 | Description                                                  |
+| --------------------- | ------------------------------------------------------------ |
 | Charm                 | A creature you can see treats you as a friend                |
 | Command               | A target obeys a single three-word command that does not cause it harm |
 | Control Weather       | You may alter the type of weather at will, but you do not otherwise control it |
