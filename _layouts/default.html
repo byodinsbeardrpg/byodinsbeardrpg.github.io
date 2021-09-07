@@ -4,8 +4,13 @@
   {% include head.html %}
 
   <body class="sidebar-overlay">
+    {% if page.title == "Character Generator" %}
     <script type="text/javascript" src="{{ site.baseurl }}/generator/js/generator.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/generator/js/runecairn_data.js"></script>
+    {% else %}
+
+    {% endif %}
+
     {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
@@ -28,7 +33,12 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script src='{{ site.baseurl }}public/js/script.js'></script>
+    {% if page.title == "Character Generator" %}
     <script type="text/javascript" src="{{ site.baseurl }}/generator/js/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/generator/js/main.js"></script>
+    {% else %}
+
+    {% endif %}
+
   </body>
 </html>
