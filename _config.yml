@@ -8,7 +8,6 @@ paginate:            5
 permalink:           pretty
 include:
     -js
-    -jquery
 # About/contact
 author:
   name:              Colin Le Sueur
