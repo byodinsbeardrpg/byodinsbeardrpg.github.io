@@ -15,7 +15,7 @@ The **PDF** version is available on [DriveThruRPG](https://www.drivethrurpg.com/
 
 **Print** versions are available from the following fine local and international game shops:
 
-**UK:** [By Odin's Beard RPG](https://shop.byodinsbeardrpg.com/product/runecairn-core-rules), [Rook's Press](https://www.rookspress.com/products/runecairn?_pos=1&_sid=f29e00e46&_ss=r)
+**UK:** [By Odin's Beard RPG](https://shop.byodinsbeardrpg.com/product/runecairn-core-rules), [Dungeonland](https://www.dungeonland.co.uk/home/Runecairn-Core-Rules-p374918252), [Rook's Press](https://www.rookspress.com/products/runecairn?_pos=1&_sid=f29e00e46&_ss=r), [Igloo Tree](https://iglootree.com/runecairn-by-colin-le-sueur-1116-p.asp), [Secret Cat Shop](https://thesecretcatshop.co.uk/products/runecairn?_pos=1&_sid=9dcd3301f&_ss=r)
 
 **US:** [Iron Buffalo Gaming](https://www.ironbuffalogaming.com/)
 
