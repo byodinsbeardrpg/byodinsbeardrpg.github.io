@@ -3,7 +3,7 @@ layout: page
 title: SRD
 nav_order: 2
 ---
-## Runecairn System Reference Document
+# Runecairn System Reference Document
 
 Writing and Editing: **Colin Le Sueur**<br>
 [byodinsbeardrpg.com](byodinsbeardrpg.com)<br>
