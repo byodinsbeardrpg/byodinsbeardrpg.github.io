@@ -41,7 +41,8 @@ body {
 }
 
 html {
-  font-family: "Minion Pro Display", Georgia, "Times New Roman", serif;
+  font-family: "Minion Pro", Georgia, "Times New Roman", serif;
+  font-weight: 400;
 }
 
 h2, h3, h4, h5, h6 {
