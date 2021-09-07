@@ -15,13 +15,21 @@ Based on [Cairn](https://cairnrpg.com/) by Yochai Gal<br>
 - [Adventures](#adventures)<br>
 - [Principles](#principles)<br>
 - [Character creation](#character-creation)<br>
+  - [Warrior](#warrior)<br>
+  - [Skald](#skald)<br>
+  - [Scout](#scout)<br>
+  - [Seer](#seer)<br>
 - [Character creation example](#character-creation-example)<br>
 - [Concepts of play](#concepts-of-play)<br>
 - [Items and equipment](#items-and-equipment)<br>
 - [Combat](#combat)<br>
 - [Combat example](#combat-example)<br>
 - [Magic](#magic)<br>
+  - [Relics](#relics)<br>
+  - [Rings](#rings)<br>
 - [Spells](#spells)<br>
+  - [Seer](#seer-spells)<br>
+  - [Skald](#skald-spells)<br>
 - [Monsters](#monsters)<br>
 - [Appendix](#appendix)<br>
 
@@ -1079,7 +1087,7 @@ A few examples:
 
 
 
-### Seer
+### Seer Spells
 
 | Seer Spells      |                                                              |
 | ---------------- | ------------------------------------------------------------ |
@@ -1117,7 +1125,7 @@ A few examples:
 
 
 
-### Skald
+### Skald Spells
 
 | Skald Spells          |                                                              |
 | --------------------- | ------------------------------------------------------------ |
