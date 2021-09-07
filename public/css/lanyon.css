@@ -44,11 +44,16 @@ html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   font-family: "Futura PT", Helvetica, Arial, sans-serif;
   font-weight: 700;
   color: #313131;
-  font-size: 80%;
+}
+
+h1 {
+  font-family: "BlackBeard", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #313131;
 }
 
 
