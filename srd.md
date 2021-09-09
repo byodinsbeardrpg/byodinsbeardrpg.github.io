@@ -1160,7 +1160,7 @@ A few examples:
 
 ## Monsters
 
-##### **Draugr**
+### **Draugr**
 
 8 **RES**, 1 **DEF**, 11 **STR**, 8 **DEX**, 9 **WIT**, 6 **SPI**, 20ft, spear/axe (d6)
 
@@ -1170,7 +1170,7 @@ A few examples:
 
 
 
-##### **Dwarf**
+### **Dwarf**
 
 10 **RES**, 2 **DEF**, 13 **STR**, 10 **DEX**, 10 **WIT**, 12 **SPI**, 25ft, hammer (d8)
 
@@ -1180,7 +1180,7 @@ A few examples:
 
 
 
-##### **Elf**
+### **Elf**
 
 8 **RES**, 1 **DEF**, 8 **STR**, 14 **DEX**, 14 **WIT**, 12 **SPI**, 40ft, dual swords (d6)
 
@@ -1190,7 +1190,7 @@ A few examples:
 
 
 
-##### **Jotunn, fire**
+### **Jotunn, fire**
 
 20 **RES**, 4 **DEF**, 18 **STR**, 12 **DEX**, 13 **WIT**, 14 **SPI**, 25ft, flaming sword (d10)
 
@@ -1200,7 +1200,7 @@ A few examples:
 
 
 
-##### **Jotunn, forest**
+### **Jotunn, forest**
 
 18 **RES**, 3 **DEF**, 16 **STR**, 12 **DEX**, 10 **WIT**, 14 **SPI**, 20ft, broad axe (d10)
 
@@ -1210,7 +1210,7 @@ A few examples:
 
 
 
-##### **Lindworm**
+### **Lindworm**
 
 20 **RES**, 2 **DEF**, 16 **STR**, 16 **DEX**, 16 **WIT**, 14 **SPI**, 40ft, bite (d8)
 
@@ -1220,7 +1220,7 @@ A few examples:
 
 
 
-##### **Rock troll**
+### **Rock troll**
 
 4 **RES**, 2 **DEF**, 12 **STR**, 6 **DEX**, 6 **WIT**, 10 **SPI**, 20ft, claw (d4)
 
@@ -1230,7 +1230,7 @@ A few examples:
 
 
 
-##### **Shade**
+### **Shade**
 
 3 **RES**, 10 **STR**, 8 **DEX**, 9 **WIT**, 4 **SPI**, 20ft, claw (d4)
 
@@ -1239,7 +1239,7 @@ A few examples:
 
 
 
-##### **Skeleton**
+### **Skeleton**
 
 8 **RES**, 10 **STR**, 8 **DEX**, 4 **WIT**, 4 **SPI**, 30ft, spear (d6)
 
@@ -1249,7 +1249,7 @@ A few examples:
 
 
 
-##### **Skeleton, bonewheel**
+### **Skeleton, bonewheel**
 
 6 **RES**, 8 **STR**, 12 **DEX**, 4 **WIT**, 4 **SPI**, 40ft, spikes (d6), roll
 
@@ -1259,7 +1259,7 @@ A few examples:
 
 
 
-##### **Skeleton, giant**
+### **Skeleton, giant**
 
 16 **RES**, 14 **STR**, 10 **DEX**, 4 **WIT**, 4 **SPI**, 20ft, greatsword (d10)
 
@@ -1269,7 +1269,7 @@ A few examples:
 
 
 
-##### **Treant**
+### **Treant**
 
 10 **RES**, 1 **DEF**, 12 **STR**, 6 **DEX**, 5 **WIT**, 12 **SPI**, 15ft, slam (d6)
 
@@ -1279,7 +1279,7 @@ A few examples:
 
 
 
-##### **Troll**
+### **Troll**
 
 12 **RES**, 1 **DEF**, 14 **STR**, 10 **DEX**, 10 **WIT**, 12 **SPI**, 20ft, club (d8)
 
@@ -1289,7 +1289,7 @@ A few examples:
 
 
 
-##### **Warg**
+### **Warg**
 
 18 **RES**, 14 **STR**, 12 **DEX**, 9 **WIT**, 8 **SPI**, 30ft, bite (d12)
 
@@ -1299,7 +1299,7 @@ A few examples:
 
 
 
-##### **Wolf**
+### **Wolf**
 
 4 **RES**, 9 **STR**, 10 **DEX**, 4 **WIT**, 8 **SPI**, 40ft, bite (d4)
 
