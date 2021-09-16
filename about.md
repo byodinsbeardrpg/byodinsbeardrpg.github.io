@@ -6,7 +6,7 @@ nav_order: 6
 
 
 
-***Runecairn\*** is a Norse fantasy tabletop roleplaying game about slaying fearsome creatures, delving into crumbling ruins, and navigating an untamed wilderness.
+**Runecairn** is a Norse fantasy tabletop roleplaying game about slaying fearsome creatures, delving into crumbling ruins, and navigating an untamed wilderness.
 
 - Simple and fast character creation
 - Intense combat and weapon abilities
@@ -25,5 +25,7 @@ The **PDF** version is available on [DriveThruRPG](https://www.drivethrurpg.com/
 **Canada:** [Ratti Incantati](https://rattiincantati.com/products/runecairn-core-rules-pdf), [Monkey’s Paw](https://monkeyspawgames.com/products/runecairn?_pos=1&_sid=e1d47a5c4&_ss=r), and [Four Rogues Trading Company](https://www.fourroguestrading.co/collections/newest-books/products/runecairn-pdf)
 
 The full text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This website is hosted by **GitHub Pages**. The source is available to view here: https://github.com/byodinsbeardrpg/byodinsbeardrpg.github.io.
 
 <img src="https://runecairn.byodinsbeardrpg.com/public/by_odins_beard_transparent_no_text_200px.png">
