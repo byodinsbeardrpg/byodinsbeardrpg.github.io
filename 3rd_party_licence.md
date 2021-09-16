@@ -40,4 +40,4 @@ By Odin's Beard RPG takes no responsibility for any legal claims against your pr
 
 You are allowed and encouraged (but are not required to) use the “Designed for use with Runecairn” logo in your product, and on the website or storefront where you promote the product.
 
-<img src="C:\Users\colin\OneDrive - By Odin's Beard RPG\OSR\Runecairn\Logos\designed_for_use_with_runecairn.png" alt="designed_for_use_with_runecairn" style="zoom:50%;" />
+<img src="/public/designed_for_use_with_runecairn.png" alt="designed_for_use_with_runecairn" style="zoom:50%;" />
