@@ -6,7 +6,7 @@ nav_order: 5
 
 # Runecairn Third Party Licence
 
-#### This licence allows anyone to make adventures, monsters, spells or hacks for Runecairn and sell or publish for free.
+**This licence allows anyone to make adventures, monsters, spells or hacks for Runecairn and sell or publish for free.**
 
 ### Rules
 
