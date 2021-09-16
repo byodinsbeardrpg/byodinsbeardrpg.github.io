@@ -18,11 +18,9 @@ The **PDF** version is available on [DriveThruRPG](https://www.drivethrurpg.com/
 
 **Print** versions are available from the following fine local and international game shops:
 
-**UK:** [By Odin’s Beard RPG](https://shop.byodinsbeardrpg.com/product/runecairn-core-rules), [Dungeonland](https://www.dungeonland.co.uk/home/Runecairn-Core-Rules-p374918252), [Rook’s Press](https://www.rookspress.com/products/runecairn?_pos=1&_sid=f29e00e46&_ss=r), [Igloo Tree](https://iglootree.com/runecairn-by-colin-le-sueur-1116-p.asp), [Secret Cat Shop](https://thesecretcatshop.co.uk/products/runecairn?_pos=1&_sid=9dcd3301f&_ss=r)
-
-**US:** [Iron Buffalo Gaming](https://www.ironbuffalogaming.com/)
-
-**Canada:** [Ratti Incantati](https://rattiincantati.com/products/runecairn-core-rules-pdf), [Monkey’s Paw](https://monkeyspawgames.com/products/runecairn?_pos=1&_sid=e1d47a5c4&_ss=r), and [Four Rogues Trading Company](https://www.fourroguestrading.co/collections/newest-books/products/runecairn-pdf)
+- **UK:** [By Odin’s Beard RPG](https://shop.byodinsbeardrpg.com/product/runecairn-core-rules), [Dungeonland](https://www.dungeonland.co.uk/home/Runecairn-Core-Rules-p374918252), [Rook’s Press](https://www.rookspress.com/products/runecairn?_pos=1&_sid=f29e00e46&_ss=r), [Igloo Tree](https://iglootree.com/runecairn-by-colin-le-sueur-1116-p.asp), [Secret Cat Shop](https://thesecretcatshop.co.uk/products/runecairn?_pos=1&_sid=9dcd3301f&_ss=r)
+- **US:** [Iron Buffalo Gaming](https://www.ironbuffalogaming.com/)
+- **Canada:** [Ratti Incantati](https://rattiincantati.com/products/runecairn-core-rules-pdf), [Monkey’s Paw](https://monkeyspawgames.com/products/runecairn?_pos=1&_sid=e1d47a5c4&_ss=r), and [Four Rogues Trading Company](https://www.fourroguestrading.co/collections/newest-books/products/runecairn-pdf)
 
 The full text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
