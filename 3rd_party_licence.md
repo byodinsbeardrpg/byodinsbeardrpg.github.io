@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Licence
+title: Third Party Licence
 nav_order: 5
 ---
 
@@ -42,5 +42,5 @@ You are allowed and encouraged (but are not required to) use the “Designed for
 
 <img src="/public/designed_for_use_with_runecairn.png" alt="designed_for_use_with_runecairn" style="zoom:50%;" />
 
-**[Download](/public/designed_for_use_with_runecairn.zip)**
+**[Download](/public/3rd_party_logo.zip)**
 
