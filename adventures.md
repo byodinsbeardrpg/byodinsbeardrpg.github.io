@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Adventures
+nav_order: 4
 ---
 
 ### By Odin's Beard RPG
