@@ -19,9 +19,8 @@ The **PDF** version is available on [DriveThruRPG](https://www.drivethrurpg.com/
 
 **US:** [Iron Buffalo Gaming](https://www.ironbuffalogaming.com/)
 
-**Canada:** [Ratti Incantati](https://rattiincantati.com/products/runecairn-core-rules-pdf), [Monkey's Paw](https://monkeyspawgames.com/) (coming soon), and [Four Rogues Trading Company](https://www.fourroguestrading.co/) (coming soon)
+**Canada:** [Ratti Incantati](https://rattiincantati.com/products/runecairn-core-rules-pdf), [Monkey's Paw](https://monkeyspawgames.com/products/runecairn?_pos=1&_sid=e1d47a5c4&_ss=r), and [Four Rogues Trading Company](https://www.fourroguestrading.co/collections/newest-books/products/runecairn-pdf)
 
 The full text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <img width=500 src="https://img.itch.zone/aW1hZ2UvOTQxNTIyLzYxMDg0NTIucG5n/original/SKUPCg.png">
-
