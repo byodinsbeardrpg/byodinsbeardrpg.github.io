@@ -11,3 +11,5 @@ The **Runecairn Character Sheet** is now available for download:
 Print versions are also available:
 
 [Runecairn Character Sheets, Pack of 10](https://shop.byodinsbeardrpg.com/products/runecairn-character-sheets-pack-of-10)
+
+<img src="/public/character_sheet_rough.png" style="zoom: 25%;" />
