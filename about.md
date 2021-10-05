@@ -4,8 +4,6 @@ title: About
 nav_order: 7
 ---
 
-
-
 **Runecairn** is a Norse fantasy tabletop roleplaying game about slaying fearsome creatures, delving into crumbling ruins, and navigating an untamed wilderness.
 
 - Simple and fast character creation
