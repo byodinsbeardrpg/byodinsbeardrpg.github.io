@@ -127,13 +127,13 @@ gen_data['physique'] = [
 
 gen_data['skin'] = [
 'wrinkled'
-, 'dark'
+, 'drawn'
 , 'birthmarked'
 , 'pockmarked'
 , 'rosy'
 , 'rough'
 , 'smooth'
-, 'tanned'
+, 'freckled'
 , 'scarred'
 , 'weathered'
 ]
