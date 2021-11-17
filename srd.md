@@ -1216,7 +1216,7 @@ A few examples:
 
 * Enormous serpent the length of a river, with two powerful forelegs
 * Balances on one leg to slash with the other
-* Dire str ike: Swallow the target,**STR** save to escape
+* **Dire strike:** Swallow the target,**STR** save to escape
 
 
 
@@ -1295,7 +1295,7 @@ A few examples:
 
 * Hill-sized wolf with burning eyes and deadly bite
 * One of the sons of Fenrir, filled with hunger and vengeance towards men
-* Dire str ike: As enormous jaws can easily main, target loses an arm
+* **Dire strike:** As enormous jaws can easily main, target loses an arm
 
 
 
