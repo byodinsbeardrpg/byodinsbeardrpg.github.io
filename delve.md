@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Delve Generator
-nav_order: 7
+nav_order: 6
 ---
 
-**Runecairn: Wardensaga** and **Advanced Rules** include a section on **Runecairn** solo play.
+**[Runecairn: Wardensaga](https://byodinsbeardrpg.itch.io/runecairn-wardensaga)** and **[Advanced Rules](https://byodinsbeardrpg.itch.io/runecairn-advanced-rules)** include a section on **Runecairn** solo play.
 
 Track your progress using the **Runecairn Delve Generator** sheet, now available for download:
 
