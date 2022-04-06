@@ -15,7 +15,9 @@ nav_order: 2
 
 **Online Resources:** [runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
-[TOC]
+```
+{% include toc.html html=content %}
+```
 
 ## OVERVIEW
 
@@ -1224,61 +1226,33 @@ A few examples:
 
 ### Names
 
-| A-Z  |          |      |           |
-| ---- | -------- | ---- | --------- |
-| 1    | Åge      | 26   | Funi      |
-| 2    | Alvar    | 27   | Gertrud   |
-| 3    | Anna     | 28   | Gorm      |
-| 4    | Anri     | 29   | Gro       |
-| 5    | Ari      | 30   | Guðmundr  |
-| 6    | Arne     | 31   | Guðrún    |
-| 7    | Arnkatla | 32   | Gunhild   |
-| 8    | Åse      | 33   | Gunnar    |
-| 9    | Astrid   | 34   | Halfdan   |
-| 10   | Auður    | 35   | Hallbera  |
-| 11   | Birger   | 36   | Harald    |
-| 12   | Bjørn    | 37   | Harpa     |
-| 13   | Bo       | 38   | Hekla     |
-| 14   | Bodil    | 39   | Helgi     |
-| 15   | Darri    | 40   | Hilda     |
-| 16   | Edda     | 41   | Hilmir    |
-| 17   | Einar    | 42   | Hrefna    |
-| 18   | Emil     | 43   | Inga      |
-| 19   | Erik     | 44   | Ingibjörg |
-| 20   | Estrid   | 45   | Ingólfur  |
-| 21   | Flóki    | 46   | Jóhanna   |
-| 22   | Flosi    | 47   | Jón       |
-| 23   | Freyja   | 48   | Kaðlín    |
-| 24   | Frida    | 49   | Kåre      |
-| 25   | Frode    | 50   | Karitas   |
-
-| A-Z  |          |      |           |
-| ---- | -------- | ---- | --------- |
-| 51   | Katla    | 76   | Sigmar    |
-| 52   | Ketill   | 77   | Signe     |
-| 53   | Knud     | 78   | Sigrid    |
-| 54   | Kristín  | 79   | Sigríður  |
-| 55   | Kristján | 80   | Sigrún    |
-| 56   | Leif     | 81   | Skarde    |
-| 57   | Lind     | 82   | Stefán    |
-| 58   | Liv      | 83   | Sten      |
-| 59   | Logi     | 84   | Sune      |
-| 60   | Lukka    | 85   | Sunna     |
-| 61   | Magnús   | 86   | Svend     |
-| 62   | Margrét  | 87   | Thurid    |
-| 63   | María    | 88   | Þuríður   |
-| 64   | Njal     | 89   | Thyra     |
-| 65   | Nói      | 90   | Toke      |
-| 66   | Ødger    | 91   | Tora      |
-| 67   | Ólafur   | 92   | Torsten   |
-| 68   | Orri     | 93   | Tove      |
-| 69   | Randi    | 94   | Troels    |
-| 70   | Revna    | 95   | Trygve    |
-| 71   | Roar     | 96   | Ulfhild   |
-| 72   | Rune     | 97   | Valgerður |
-| 73   | Saga     | 98   | Vilmar    |
-| 74   | Salvar   | 99   | Von       |
-| 75   | Sif      | 100  | Yrsa      |
+| d100 | A-Z      |      |           |      |          |      |           |
+| ---- | -------- | ---- | --------- | ---- | -------- | ---- | --------- |
+| 1    | Åge      | 26   | Funi      | 51   | Katla    | 76   | Sigmar    |
+| 2    | Alvar    | 27   | Gertrud   | 52   | Ketill   | 77   | Signe     |
+| 3    | Anna     | 28   | Gorm      | 53   | Knud     | 78   | Sigrid    |
+| 4    | Anri     | 29   | Gro       | 54   | Kristín  | 79   | Sigríður  |
+| 5    | Ari      | 30   | Guðmundr  | 55   | Kristján | 80   | Sigrún    |
+| 6    | Arne     | 31   | Guðrún    | 56   | Leif     | 81   | Skarde    |
+| 7    | Arnkatla | 32   | Gunhild   | 57   | Lind     | 82   | Stefán    |
+| 8    | Åse      | 33   | Gunnar    | 58   | Liv      | 83   | Sten      |
+| 9    | Astrid   | 34   | Halfdan   | 59   | Logi     | 84   | Sune      |
+| 10   | Auður    | 35   | Hallbera  | 60   | Lukka    | 85   | Sunna     |
+| 11   | Birger   | 36   | Harald    | 61   | Magnús   | 86   | Svend     |
+| 12   | Bjørn    | 37   | Harpa     | 62   | Margrét  | 87   | Thurid    |
+| 13   | Bo       | 38   | Hekla     | 63   | María    | 88   | Þuríður   |
+| 14   | Bodil    | 39   | Helgi     | 64   | Njal     | 89   | Thyra     |
+| 15   | Darri    | 40   | Hilda     | 65   | Nói      | 90   | Toke      |
+| 16   | Edda     | 41   | Hilmir    | 66   | Ødger    | 91   | Tora      |
+| 17   | Einar    | 42   | Hrefna    | 67   | Ólafur   | 92   | Torsten   |
+| 18   | Emil     | 43   | Inga      | 68   | Orri     | 93   | Tove      |
+| 19   | Erik     | 44   | Ingibjörg | 69   | Randi    | 94   | Troels    |
+| 20   | Estrid   | 45   | Ingólfur  | 70   | Revna    | 95   | Trygve    |
+| 21   | Flóki    | 46   | Jóhanna   | 71   | Roar     | 96   | Ulfhild   |
+| 22   | Flosi    | 47   | Jón       | 72   | Rune     | 97   | Valgerður |
+| 23   | Freyja   | 48   | Kaðlín    | 73   | Saga     | 98   | Vilmar    |
+| 24   | Frida    | 49   | Kåre      | 74   | Salvar   | 99   | Von       |
+| 25   | Frode    | 50   | Karitas   | 75   | Sif      | 100  | Yrsa      |
 
 ### Adventurer Traits
 
