@@ -17,6 +17,7 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
+  - kramdown
 
 # Custom vars
 version:             1.1.0
