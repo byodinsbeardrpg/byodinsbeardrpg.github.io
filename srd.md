@@ -15,8 +15,27 @@ nav_order: 2
 
 **Online Resources:** [runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
-## CONTENTS
-{:toc}
+- [Overview](#overview)
+- [Adventures](#adventures)
+- [Principles](#principles)
+- [Character creation](#character-creation)
+  - [Warrior](#warrior)
+  - [Skald](#skald)
+  - [Scout](#scout)
+  - [Seer](#seer)
+- [Character creation example](#character-creation-example)
+- [Concepts of play](#concepts-of-play)
+- [Items and equipment](#items-and-equipment)
+- [Combat](#combat)
+- [Combat example](#combat-example)
+- [Magic](#magic)
+  - [Relics](#relics)
+  - [Rings](#rings)
+- [Spells](#spells)
+  - [Seer](#seer-spells)
+  - [Skald](#skald-spells)
+- [Monsters](#monsters)
+- [Appendix](#appendix)
 
 ## OVERVIEW
 
