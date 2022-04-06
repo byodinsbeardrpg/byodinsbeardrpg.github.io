@@ -15,9 +15,7 @@ nav_order: 2
 
 **Online Resources:** [runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
-```
 {% include toc.html h_min=2 h_max=3 %}
-```
 
 ## OVERVIEW
 
