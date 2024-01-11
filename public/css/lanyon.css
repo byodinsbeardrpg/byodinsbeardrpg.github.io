@@ -41,7 +41,7 @@ body {
 }
 
 html {
-  font-family: "Minion Pro-Display", minion-pro-display, Georgia, "Times New Roman", serif;
+  font-family: "adobe-jenson-pro", serif;
   font-weight: 400;
 }
 
@@ -49,7 +49,7 @@ h2, h3, h4, h5, h6 {
   font-family: "gandur-new", sans-serif;
   font-weight: 700;
   color: #1D73BF;
-  font-size: 30px;
+  font-size: 24px;
 }
 
 h3 {
