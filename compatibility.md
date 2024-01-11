@@ -16,7 +16,7 @@ nav_order: 6
 
 - Treat spellbooks the same, though roll SPI rather than WIL.
 
-### Converting Monsters
+## Converting Monsters
 
 #### Ability score guidance
 
