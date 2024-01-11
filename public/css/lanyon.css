@@ -49,12 +49,11 @@ h2, h3, h4, h5, h6 {
   font-family: "gandur-new", sans-serif;
   font-weight: 700;
   color: #1D73BF;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 h3 {
   color: #000000;
-  background-color: #c0cfe1;
   padding-left: 5px;
   line-height: 1.5;
 }
