@@ -59,16 +59,18 @@ h3 {
 }
 
 h2 {
-  font-family: "BlackBeard", black-beard, Helvetica, Arial, sans-serif;
+  font-family: "gandur-new", sans-serif;
+  text-transform: uppercase;
   font-weight: 400;
-  color: #313131;
+  color: #000000;
   font-size: 36px;
 }
 
 h1 {
-  font-family: "BlackBeard", black-beard, Helvetica, Arial, sans-serif;
+  font-family: "gandur-new", sans-serif;
+  text-transform: uppercase;
   font-weight: 400;
-  color: #313131;
+  color: #000000;
 }
 
 
