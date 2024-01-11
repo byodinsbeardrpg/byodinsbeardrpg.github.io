@@ -10,4 +10,4 @@ nav_order: 4
 
 ### Third Party Adventures
 
-- Coming soon
+- [**Cairn of Njal**](https://chaoclypse.itch.io/cairn-of-njal) by Chaoclypse, a Runecairn pocketmod dungeon.
