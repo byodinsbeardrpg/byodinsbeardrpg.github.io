@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Odd-Like Compatibility
-nav_order: 7
+nav_order: 6
 ---
-
-## Odd-Like Compatibility
 
 **Runecairn** is based on **Into the Odd** and **Cairn**, sharing many similar rules and mechanics. You can run adventures designed for **Cairn** and **Into the Odd** (along with other Odd descendants like **Mausritter**, **Liminal Horror**, and **We Deal in Lead**) with Runecairn adventurers, though there are some guidelines to bear in mind.
 
