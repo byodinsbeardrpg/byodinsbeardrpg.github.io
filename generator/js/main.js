@@ -2,6 +2,7 @@ roll = (d) => {
   return Math.floor(Math.random()*d)+1;
 };
 $("#adventurer").html(generate_text("adventurer"));
+$("#class").html(generate_text("class"));
 $("#vit").html(roll(6));
 $("#vig").html(roll(6));
 var vit = $("#vit").text();
