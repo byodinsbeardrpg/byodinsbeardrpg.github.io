@@ -31,8 +31,8 @@ body {
   word-wrap: break-word;
 }
 
-p {
-  line-height: 0.5px;	
+li {
+  margin-top: 50%;	
 }
 
 /* Mobile Styles */
