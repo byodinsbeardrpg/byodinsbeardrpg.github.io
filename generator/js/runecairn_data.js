@@ -3,7 +3,7 @@ gen_data['adventurer'] = [
 ]
 
 gen_data['class'] = [
-  '{warrior},{skald},{scout},{seer}'
+  '{warrior}','{skald}','{scout}','{seer}'
 ]
 
 gen_data['warrior'] = [
