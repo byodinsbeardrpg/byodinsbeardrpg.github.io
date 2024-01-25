@@ -31,6 +31,10 @@ body {
   word-wrap: break-word;
 }
 
+p {
+  line-height: 0.5px;	
+}
+
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
