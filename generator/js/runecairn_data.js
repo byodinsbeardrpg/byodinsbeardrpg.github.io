@@ -1,5 +1,5 @@
 gen_data['adventurer'] = [
-  'You are <i> {name}</i>. You have {physique} physique, {skin} skin, {hair} hair, and {face} face. You speak in a {speech} manner. You are {vice} yet {virtue}.<p>In another life, you were a {class}'
+  'You are <i> {name}</i>. You have {physique} physique, {skin} skin, {hair} hair, and {face} face. You speak in a {speech} manner. You are {vice} yet {virtue}.<p>In another life, you were a'
 ]
 
 gen_data['class'] = [
