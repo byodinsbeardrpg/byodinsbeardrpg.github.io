@@ -31,10 +31,6 @@ body {
   word-wrap: break-word;
 }
 
-li {
-  margin-top: 50%;	
-}
-
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
