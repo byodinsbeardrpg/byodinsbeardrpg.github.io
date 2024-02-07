@@ -5,540 +5,599 @@ nav_order: 2
 ---
 # Runecairn System Reference Document
 
-**Version:** 2.0
+- **Version**: 3.0
+- **Writing and Design:** Colin Le Sueur
+- Text © Colin Le Sueur 2024, licensed under **CC BY-SA 4.0**.
 
-**Writing:** Colin Le Sueur
+- **Runecairn** is based on **Cairn** by **Yochai Gal**.
 
-**Text © Colin Le Sueur 2022**, licensed under **CC BY-SA 4.0**.
+Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
-**Runecairn** is based on **Cairn** by **Yochai Gal**
+[TOC]
 
-**Online Resources:** [runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
-
-- [Overview](#overview)
-- [Adventures](#adventures)
-- [Principles](#principles)
-- [Character creation](#character-creation)
-  - [Warrior](#warrior)
-  - [Skald](#skald)
-  - [Scout](#scout)
-  - [Seer](#seer)
-- [Character creation example](#character-creation-example)
-- [Concepts of play](#concepts-of-play)
-- [Items and equipment](#items-and-equipment)
-- [Combat](#combat)
-- [Combat example](#combat-example)
-- [Magic](#magic)
-  - [Relics](#relics)
-  - [Rings](#rings)
-- [Spells](#spells)
-  - [Seer](#seer-spells)
-  - [Skald](#skald-spells)
-- [Monsters](#monsters)
-- [Appendix](#appendix)
-
-## OVERVIEW
+##  Overview
 
 ### What is Runecairn?
 
 **Runecairn** is a Norse fantasy tabletop roleplaying game intended for two players, the **Warden** (the facilitator or game master) and the **Adventurer**.
 
-For **solo play** or two or more Adventurers, please see the **Runecairn: Advanced Rules** book.
+For **solo play** or for two or more Adventurers, please see **Advanced Rules**.
 
 ### Design Philosophy
 
-**Neutrality.** The Warden’s role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+***Neutrality.*** The Warden’s role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
-**Classless.** An Adventurer’s role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+***Classless*.** An Adventurer’s role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
 
-**Death.** An Adventurer may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+***Death*.** An Adventurer may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
-**Fiction first.** Dice do not always reflect an obstacle’s difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the player, based on in-world elements.
+***Fiction first*.** Dice do not always reflect an obstacle’s difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the player, based on in-world elements.
 
-**Growth.** An Adventurer is changed through in-world advancement, gaining new skills and abilities by surviving hazards and overcoming obstacles.
+***Growth*.** An Adventurer is changed through in-world advancement, gaining new skills and abilities by surviving hazards and overcoming obstacles.
 
-**Player choice.** A player should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently.
+***Player choice*.** A player should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently.
 
-**Principles.** The Warden and Adventurer each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+***Principles.*** The Warden and Adventurer each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
 
-#### Adventures
+### Adventures
 
 What type of adventures can a player character expect?
 
-- **Defend** a village against roving invaders
-- **Hunt** a monstrous creature stealing children
-- **Reclaim** a family cairn overwhelmed by the dead
-- **Retrieve** a powerful relic lost in the mountains
-- **Confront** a raging jotunn blocking supplies reaching an isolated settlement
-- **Broker** peace between two warring clans
-- **Protect** a caravan journey travelling through dangerous territory
-- **Infiltrate** a secretive cult worshipping forgotten gods
-- **Explore** newly discovered lands in search of a mythical beast
+- **Defend** an isolated village against roving invaders.
 
-## PRINCIPLES
+- **Hunt** a monstrous creature stealing lost children.
 
-### Principles for Wardens
+- **Reclaim** a family cairn overwhelmed by the hungry dead.
 
-#### Information
+- **Retrieve** a powerful relic lost in the frozen mountains.
 
-- Provide useful information about the game world as the Adventurer explores
-- A player does not need to roll dice to learn about their circumstances
-- Be helpful and direct with your answers to their questions
-- Respond honestly, describe consistently, and always let them know they can keep asking questions
+- **Confront** a raging jotunn blocking supplies reaching a remote settlement.
 
-#### Difficulty
+- **Broker** peace between warring clans.
 
-- Default to context and realism rather than numbers and mechanics
-- If something the player wants to do is sincerely impossible, no roll will allow them to do it
-- Is what the player describes and how they leverage the situation sensible? Let it happen
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions
+- **Protect** a caravan journey travelling through dangerous territory.
 
-#### Preparation
+- **Infiltrate** a secretive cult worshipping forgotten gods.
 
-- The game world is organic, malleable and random - it intuits and turns sharply
-- Use random tables and generators to develop situations, not stories or plots
-- NPCs remember what the Adventurers says and does, and how they affect the world
-- NPCs don’t want to die - infuse their own self-interest and will to live into every personality
+- **Explore** newly discovered lands in search of a mythical beast.
 
-#### Narrative Focus
 
-- Emergent experience of play is what matters, not math or Adventurer abilities - give the player weapon trainers and personal quests to facilitate improvement and specialisation
-- Pay attention to the needs and wants of the player, then put realistic opportunities in their path
-- A dagger to your throat will kill you, regardless of your heavy armour and impressive training
 
-#### Danger
+## Principles of the Warden
 
-- The game world produces real risk of pain and death for the Adventurer
-- Telegraph serious danger to the player when it is present - the more dangerous, the more obvious
-- Put traps in plain sight and let the player take time to discover a solution
-- Give the player opportunities to solve problems and interact with the world
+**Information**
 
-#### Choice
+- Provide useful information about the game world as characters explore.
 
-- Give the player a solid choice to force outcomes when the situation lulls
-- Use binary “so, A or B?” responses when their intentions are vague
-- Work together with this conversational progress to keep the game moving
-- Ensure that the Adventurer’s actions leave their mark on the game world
+- The player doesn’t need to roll dice to learn about their circumstances.
 
-#### Die of Fate
+- Be helpful and direct when answering player questions.
 
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.)
-- At these times, roll d6 - 4 or more favours the player while 3 or under means bad luck
+- Respond honestly, describe consistently, and let them know they can ask questions.
 
-### Principles for Players
+**Difficulty**
 
-#### Agency
+- Default to context and realism rather than numbers and mechanics.
 
-- Attributes and related saves do not define your Adventurer - they are tools
-- Don’t ask only what your character would do, ask what you would do, too
-- Be creative with your intuition, items, and connections
+- If something the player wants to do is impossible, no roll can change this.
 
-#### Exploration
+- Does the player’s approach to a situation make sense? Let it happen.
 
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have
-- Take the Warden’s description without suspicion, but don’t shy away from seeking more information
-- There is no single correct way forward
+- Saves cover many uncertain situations and are often all that is necessary for risky actions.
 
-#### Talking
+**Preparation**
 
-- Treat NPCs as if they were real people and rely on your curiosity to safely gain information and solve problems
-- You’ll find that most people are interesting and will want to talk things through before getting violent
+- The world is malleable and random— it intuits and makes sharp turns.
 
-#### Caution
+- Use random tables and generators to develop choices, not stories or plots.
 
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals
-- Try to stack the odds in your favour and retreat when things seem unfavourable
+- NPCs remember what the Adventurers say and do.
 
-#### Planning
+- Infuse NPCs’ self-interest and will to live into their personality.
 
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding
-- Do some research and ask around about your objectives
+**Narrative Focus**
 
-#### Ambition
+- Emergent experience matters, not maths or Adventurer skills. Provide weapon trainers and personal quests to foster improvement and specialisation.
 
-- Set goals and use your meagre means to take steps forward
-- Expect nothing - earn your reputation
-- Keep things moving forward and play to see what happens
+- Observe player needs and wants, then provide realistic opportunities.
 
-### Principles of the World
+- A dagger to the throat is fatal, regardless of armour or training.
 
-#### The Nine Realms
+**Danger**
 
-- The battle of Ragnarok is done and the world is broken
-- The realms are full of danger and wonder
-- There are echoes of the old world everywhere
-- Travel between the realms is perilous and rare
+- The game world produces real risk of pain and death.
 
-#### The Gods
+- Telegraph danger when present. The more dangerous, the more obvious.
 
-- The Aesir and the Vanir are all dead or missing
-- Mjölnir is lost and Gungnir is broken
-- The Jotunn are scattered, most fled to Jotunheim
+- Put traps in plain sight and let players generate a solution.
 
-#### The Titans
+- Provide chances to solve problems and interact with the world.
 
-- The Sons of Fenrir wander hungry and feral
-- Jörmungandr is dead, their skeleton long picked clean
-- Strange new titans roam unchallenged and dominant
+**Choice**
 
-#### Bonfires
+- Provide a solid choice forcing outcomes when the situation lulls.
 
-- The light of a bonfire will always lead you to safety
-- Bonfires link the Nine Realms
-- The flames of a bonfire never dwindle
+- Use binary “so, A or B?” questions responding to vague intentions.
 
-#### Secrets
+- Collaborate the conversational progress, keeping the game moving.
 
-- Secrets are worth seeking out but all are well guarded and dangerous
-- Some mysteries will never be solved
+- Ensure Adventurer actions leave their mark on the world.
 
-#### Magic
+### Die of Fate
 
-- Magic is wild and unpredictable, with behaviour changing from one realm to another
-- The use of magic draws unwanted attention
+- Occasionally you want an element of randomness (for changing weather, unique character knowledge, roadside encounters, etc.):
 
-#### Defeat
+- Roll d6: 3 or less favours the player, 4 or more means bad luck.
 
-- If one path leads to defeat, try another
-- Some obstacles cannot be overcome immediately
-- With every defeat comes new knowledge and opportunities
 
-#### Death
 
-- Spirits gather in places of the dead
-- Remnants of the wars wander as shades, all humanity and vigour lost
-- Death is not the end
+## Principles for the Player
 
-##### Viking Age
+**Agency**
 
-Though inspired by the historical Viking Age (roughly 8th-11th century BCE), the realms of Runecairn exist in a Norse fantasy world brimming with mythology and folklore, ever changing and evolving.
+- Attributes and saves do not define your Adventurer—they’re tools.
+- Don’t only ask what your character would do but what you would do.
+- Be creative with your intuition, items, and connections.
 
-## ADVENTURER CREATION
+**Exploration**
 
-### Creating a new Adventurer
+- Asking questions and listening is more useful than stats, or skills.
+- Take the Warden’s description without suspicion but don’t be afraid to seek more information.
+- There is no single right way forward.
 
-#### Name
+**Talking**
 
-Choose or roll to find a name for your Adventurer from the **Names** table.
+- Treat NPCs as real people, relying on your curiosity to safely gain information and solve problems.
+- Most people are interesting and want to talk things through before getting violent.
 
-Next, roll for your Adventurer’s traits (appearance, speech, personality, etc.) on the **Adventurer Traits** tables.
+**Caution**
 
-#### Ability scores
+- Fighting is a choice and rarely a wise one; consider whether violence helps reach your goals.
+- Try to stack the odds in your favour and retreat from adverse situations.
 
-Roll **3d6** for each ability in order, swap any two.
+**Planning**
 
-**Strength (Str)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+- Avoid obstacles through reconnaissance, subtlety, and fact-finding.
+- Do some research and ask around about your objectives.
 
-**Dexterity (Dex)**: Used for saves requiring agility, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Ambition**
 
-**Wits (Wit)**: Used for saves to interrogate, investigate, provoke, manipulate spells, etc.
+- Set goals and use your meagre means to take steps forward.
+- Expect nothing—earn your reputation.
+- Keep things moving forward and play to see what happens.
 
-**Spirit (Spi)**: Used for saves to charm, self-control, intimidate, persuade, belief, etc.
 
-#### Vigour
 
-Roll **d6** for your starting **Vigour** score.
+## Principles of the World
 
-Vigour determines your self-determination, drive, and focus and is what stands between you and the hollow void.
+**The Nine Realms**
 
-You lose one point of vigour at death. If your vigour drops to 0, you become a **shade**, a hollow being neither dead nor alive, and are lost to the darkness.
+- The battle of Ragnarok is over, the worlds long broken.
 
-#### Vitality
+- Danger and wonder is everywhere.
+
+- Echoes of the old world remain.
+
+- Travel into other realms is perilous.
+
+**The Gods**
+
+- The Aesir and the Vanir are dead or missing.
+
+- Mjölnir is lost and Gungnir is broken.
+
+- The Jotunn are scattered, most fled to Jotunheim or realms unknown.
+
+**The Titans**
+
+- The Sons of Fenrir wander hungry and feral.
+
+- Jörmungandr is dead, their skeleton long picked clean.
+
+- Strange new titans roam unchallenged and dominant.
+
+**Magic**
+
+- Magic is wild and unpredictable, with behaviour changing from one realm to another.
+
+- The use of magic draws unwanted attention.
+
+**Bonfires**
+
+- The light of a bonfire always leads you to safety.
+
+- Bonfires link the Nine Realms.
+
+- The flames of a bonfire never dwindle.
+
+- Bonfires are kindled by the dead.
+
+**Secrets**
+
+- Secrets are worth seeking out but all are well guarded and dangerous.
+
+- Each secret reveals more of the world.
+
+- Some mysteries can never be solved.
+
+**Defeat**
+
+- When one path leads to defeat, try another.
+
+- Some obstacles cannot be overcome immediately.
+
+- With every failure comes new knowledge and opportunities.
+
+**Death**
+
+- Spirits gather in places of the dead.
+
+- Remnants of the wars wander as shades, all humanity lost.
+
+- Death is not the end.
+
+### The Viking Age
+
+Though inspired by the actual Viking Age (roughly 800-1200 CE), the realms of Runecairn exist in a Norse fantasy world brimming with mythology and folklore, ever changing and evolving.
+
+
+
+## Adventurer Creation
+
+**Name & traits**
+
+Choose or roll your Adventurer’s **name** and determine pronouns.
+
+Next, roll your **traits** (appearance, personality, etc.).
+
+**Ability scores**
+
+| Strength  | Brawn,  toughness, and resistance.  |
+| --------- | ----------------------------------- |
+| Dexterity | Agility,  sneaking, and reflexes.   |
+| Wits      | Intellect,  memory, and cunning.    |
+| Spirit    | Resolve,  charm, and force of will. |
+
+Roll **3d6** for each in order, swap any two.
+
+**Vigour**
+
+Roll **d6** for your **Vigour**, which is your drive, self- determination, and focus and is what stands between you and the hollow void.
+
+You lose 1 point of vigour at death. At 0 Vigour, you become a **shade**, a hollow being neither dead nor alive lost to the darkness.
+
+**Vitality**
 
 Roll **d6** to determine your **Vitality**, how hale and hearty you are.
 
 **Resilience (Res)**
 
-**Resilience** is your ability to avoid damage in combat. **Resilience** is made up of **Vitality** and **Vigour**. Add the two stats together to get your **Resilience**.
+**Resilience** is your ability to avoid damage in combat. Add **Vitality** and **Vigour** to get **Resilience**.
 
 If your **Resilience** drops below 0, you start taking **Str** damage. If that happens, prepare to die.
 
-#### Starting class
+**Background**
 
-Determines **initial equipment** and **skills.**
+Provides **initial equipment** and **skills.**
 
-Each background has a **key ability** and **key item**. Your key item adds new **skills**. Change your class by picking up a new key item, if you meet the requirements.
+Each background has a **key ability** and **key item**. Your key item adds new **skills**. Change your playstyle by picking up a new key item, if you meet the requirements.
 
-You can only carry **one** key item at a time.
+You can only carry **1** key item at a time.
 
-Your starting class does not determine what type of Adventurer you are.
 
-What you were does not dictate who you can be.
 
-### Starting Classes
+##  Backgrounds
 
-#### WARRIOR
+### Warrior
 
-*In another life you might have been a soldier, a guardsman, a shieldmaiden, or a raider. Your shield was always strapped to your arm and your axe and spear always to hand.*
+In another life you might have been a soldier, a guardsman, a shieldmaiden, or a raider. Your shield was always strapped to your arm and your axe and spear always to hand.
 
-*You sang the songs of battle and drank to victory and defeat in smoke-filled halls.*
+You sang the songs of battle and drank to victory and defeat in smoke-filled halls.
 
-*In combat, you favoured the direct approach, relying on your sturdy armour to deflect any blows while giving you time to land your own.*
+In combat, you favoured the direct approach, relying on your sturdy armour to deflect any blows while giving you time to land your own.
 
-*In the time before you prayed to Oðinn for a glorious death but now your fate is your own to choose.*
+In the time before you prayed to Oðinn for a glorious death but now your fate is your own to choose.
 
-| Warrior (Str, 3 Def) |              |
-| -------------------- | ------------ |
-| Linden wood shield   | key, +1 Def  |
-| Chain mail           | bulky, 2 Def |
-| Bearded axe          | d8           |
-| Ash wood spear       | d6, 20’      |
-| Memento of defeat    |              |
-| Free slots           | 4            |
+**Warrior (Str, 3 Def)**
 
-##### Skills
+| Linden wood shield | key, +1 Def, block, parry |
+| ------------------ | ------------------------- |
+| Chain mail         | bulky, 2 Def              |
+| Bearded axe        | d8, disarm, hack          |
+| Ash wood spear     | d6, 20’, thrust           |
+| Memento of defeat  |                           |
+| Free slots         | 4                         |
 
-**Block (reaction**, **key item)**: Raise shield; **Str** save to avoid all **physical damage** (**Fatigue**)
+**Skills**
 
-**Parry (reaction**, **key item)**: Deflect attack and riposte; **Str** save to avoid all **physical damage** and retaliate with **damage advantage** - failure results in the attack against you gaining **damage advantage**
+***Block (reaction)***. Raise shield; **Str** save to avoid all **physical damage** (**Fatigue**).
 
-**Disarm (axe):** Hook your opponent’s weapon hand; target needs to make a **Dex** save or be disarmed (**Fatigue**)
+***Disarm*.** Hook your opponent’s weapon hand; target needs to make a **Dex** save or be disarmed (**Fatigue**).
 
-**Hack (axe):** Attack your opponent in a frenzy for **double damage** (**Fatigue**)
+***Hack*.** Attack your opponent in a frenzy for **double damage** (**Fatigue**).
 
-- **Dire strike**: Your opponent needs to make a **Str** save or stagger back from the ferocity of the attack, moving back 5 feet and losing their next turn
+- **Dire strike**: Your opponent must make a **Str** save or stagger from the ferocity of the attack, moving back 5’ and losing their next turn.
 
-**Thrust (spear):** Lunge forward to extend the range of your weapon and strike targets up to **10 feet** away (**Fatigue**)
+***Parry (reaction)*.** Deflect an incoming attack and riposte (**Str**):
 
-#### SKALD
+- **Success:** Avoid all **physical damage** and retaliate for **damage advantage.**
 
-*In another life you might have spoken for the dead, burned sweet sacrifices to the gods, wandered the land weaving tales of myth and legend.*
+- **Failure:** Retaliatory attack from the target at **damage advantage**.
 
-*Your voice spoke for all and none. You deciphered the will of the gods and shone their light on the people of the realms.*
+***Thrust*.** Lunge forward to extend the range of your weapon and strike targets up to **10 feet** away (**Fatigue**).
 
-*In combat, you wielded the fury of the gods, whether thunder or steel. Your toughened reindeer hide helped deflect all but the sharpest spears and your voice itself was said to shake mountains.*
 
-*Although the time of the gods is done, you still work their will and wield their power. How you choose to use it is now in your hands alone.*
 
-| Skald (Spi, 2 Def) |                             |
+### Skald
+
+In another life you might have spoken for the dead, burned sweet sacrifices to the gods, wandered the land weaving tales of myth and legend.
+
+Your voice spoke for all and none. You deciphered the will of the gods and shone their light on the people of the realms.
+
+In combat, you wielded the fury of the gods, whether thunder or steel. Your toughened reindeer hide helped deflect all but the sharpest spears and your voice itself was said to shake mountains.
+
+Although the time of the gods is done, you still work their will and wield their power. How you choose to use it is now in your hands alone.
+
+**Skald (Spi, 2 Def)**
+
+| Runic focus        | key, small, scold, shout    |
 | ------------------ | --------------------------- |
-| Runic focus        | key, small                  |
 | Reindeer hide      | 1 Def                       |
 | Leather hood       | +1 Def                      |
-| Steel sword        | d6                          |
+| Steel sword        | d6, sunder                  |
 | Saga               | *Heal* or *Lightning Spear* |
-| Sacred waters      | d10                         |
+| Sacred waters      | d10, blast                  |
 | Sacrificial bundle | small                       |
 | Free slots         | 5                           |
 
-##### Skills
+**Skills**
 
-**Lightning knife (key item):** Manifest and wield or throw a dagger made of lightning for **d4** damage, 20ft range
+***Scold*.** Manifest cutting words to wield as a dagger or throw at opponents for **d4** damage, 20ft range.
 
-**Shout (reaction**, **key item):** Your voice propels a shockwave that staggers a foe within **melee range**; **Spi** save to disrupt an attack and take no damage (**Fatigue**)
+***Shout (reaction)*.** Your voice propels a shockwave that staggers a foe within **melee range**; **Spi** save to disrupt an attack and take no damage (**Fatigue**).
 
-**Heal** **(spell):** Call upon the remaining power of the gods to heal your wounds; restore **d8 Resilience** (**Fatigue**)
+***Sunder*.** Tear through your opponent’s armour for **d4 damage**; first occurrence causes target to lose **1 Def** (**Fatigue**).
 
-**Lightning Spear** **(spell):** Summon a crackling bolt of lightning; strike your foe for **d8 damage**, 60ft range (**Fatigue**)
+***Heal* (saga).** Call upon the remaining power of the gods to heal your wounds; restore **10 Resilience** and clear the **Deprived** condition (**Fatigue**).
 
-**Sunder (sword):** Tear through your opponent’s armour for **d6 damage**; first occurrence causes target to lose **1 Def** (**Fatigue**)
+***Lightning Spear* (saga).** Summon a crackling bolt of lightning; strike your foe for **d8 damage**, 60ft range (**Fatigue**).
 
-#### SCOUT
 
-*In another life you might have been a hunter, an archer, a scoundrel, or an explorer. With a pair of sharp knives and a trusty shortbow, you easily made your way in the world, whether in untamed wilderness or cut-throat civilisation.*
 
-*You found the paths and trails no-one else could, weaving your way through danger and adventure at every turn. Your fast reflexes helped save you in situations where your quick tongue could not.*
+### Scout
 
-*In combat, you either slipped in close, unnoticed, or struck silently from afar with unerring accuracy.*
+In another life you might have been a hunter, an archer, a scoundrel, or an explorer. With a pair of sharp knives and a trusty shortbow, you easily made your way in the world, whether in untamed wilderness or cut-throat civilisation.
 
-*Even in the time before you forged your own path. Now that your fate is truly unwritten, the Nine Realms are yours for the taking.*
+You found the paths and trails no-one else could, weaving
 
-| Scout (Dex, 1 Def) |                |
-| ------------------ | -------------- |
-| Hunting knives     | key, d6        |
-| Quilted cloth      | 1 Def          |
-| Elm shortbow       | bulky, d6, 60’ |
-| Fire oil           | blast, d8      |
-| Skeleton key       | small          |
-| Free slots         | 5              |
+your way through danger and adventure at every turn. Your fast reflexes helped save you in situations where your quick tongue could not.
 
-##### Skills
+In combat, you either slipped in close, unnoticed, or struck silently from afar with unerring accuracy.
 
-**Dash (reaction**, **key item)**: Deftly evade an attack; **Dex** save to avoid all damage – failing the save **impairs** the enemy’s attack, reducing it to **d4** (**Fatigue**)
+Even in the time before you forged your own path. Now that your fate is truly unwritten, the Nine Realms are yours for the taking.
 
-**Backstab (key item):** Dash behind your enemy and inflict a critical strike; **Dex** save to strike for **double** **damage** **(2d6)** - failure results in an attack from the target with **damage advantage**
+**Scout (Dex, 1 Def)**
 
-**Lacerate (knives):** Slice a deep wound in your enemy for an initial **d6 damage;** roll **d4** to determine bleed damage and duration (**Fatigue**)
+| Hunting knives | key, d6, backstab, dash, lacerate |
+| -------------- | --------------------------------- |
+| Quilted cloth  | 1 Def                             |
+| Elm shortbow   | bulky, d6, 60’, volley            |
+| Fire oil       | blast, d8                         |
+| Skeleton key   | small                             |
+| Free slots     | 5                                 |
 
-**Volley (shortbow):** Fire two arrows without hesitation -- roll damage die twice (**Fatigue**)
+**Skills**
 
-- **Dire strike:** Fire another arrow and roll another damage die
+***Backstab***. Duck behind your enemy and inflict a critical strike (**Dex**):
 
-#### SEER
+- **Success:** Strike your target for **double damage.**
 
-*In another life you might have been a wise woman, an augur, a trickster, or a conjurer. The only things you needed were your wits and a hunger for knowledge. You sought to delve the mysteries of the realms and pluck forth the secrets within.*
+- **Failure:** Retaliatory attack from the target at **damage advantage.**
 
-*You stayed in the shadows, called on for your counsel and power. Mistrusted by some, feared by others, and respected by all.*
+- **Dire strike:** Follow up with an extra attack that bypasses defence.
 
-*You were never much for combat, preferring to work your cunning to rain destruction or mischief on your foes from a safe distance.*
+***Dash (reaction)*.** Deftly dodge to evade an attack (**Dex**, **Fatigue**):
 
-*The gods are dead but their secrets are still waiting under ash and weald. You’ve seen your future and it’s filled with endless possibilities.*
+- **Success:** Avoid **all damage.**
 
-| Seer (Wit, 0 Def) |                     |
-| ----------------- | ------------------- |
-| Yew staff         | key, d4             |
-| Stout linen       | 0 Def               |
-| Runestone         | Slow or seiðr spear |
-| Bleached jawbone  |                     |
-| Free slots        | 7                   |
+- **Failure: Impair** the enemy’s attack, reducing to **d4 damage.**
 
-##### Skills
+***Lacerate*.** Slice a deep wound in your enemy for an initial **d6 damage;** roll **d4** to determine bleed damage and duration (**Fatigue**).
 
-**Greystone (key item):** Cast a magical stone as if from a sling for **d4** damage, 30’ range
+***Volley*.** Fire two arrows without hesitation—roll damage die twice (**Fatigue**).
 
-**Barrier (reaction**, **key item):** Cast a barrier spell; **Wit** save to raise a magical shield to negate all damage from the attack – failing the save imposes **damage disadvantage** on the target’s attack (**Fatigue**)
+- **Dire strike:** Fire another arrow and roll another damage die.
 
-**Slow (spell):** Slows nearby enemies (**Fatigue**)
 
-**Seiðr spear (spell):** Propel a spear of pure energy; strike your foe with the spear for **d10** **damage**, 60’ range (**Fatigue**)
 
-**Clobber (staff):** Smash the enemy’s head with **damage advantage**; target needs to make a **Str** save or be dazed, losing their next turn (**Fatigue**)
+### Seer
 
-### Adventurer creation example
+In another life you might have been a wise woman, an augur, a trickster, or a conjurer. The only things you needed were your wits and a hunger for
 
-> New tabletop role-playing gamer Amy wants to create an Adventurer in **Runecairn**.
->
-> Amy starts by rolling on the female names table and gets **54**, *Lind*. Amy likes the sounds so decides to keep it.
->
-> Amy doesn’t know much about Lind at this point, so she rolls on the Adventurer traits tables and gets the following results:
->
-> She’s **brawny**, with **dark skin**, **braided hair**, and a **sharp face**. She’s **eloquent**, **ambitious**, and **deceitful**.
->
-> Lind is starting to take shape in Amy’s mind.
->
-> Amy rolls **3d6** four times and assigns the results to her abilities:
->
-> **Str** 9
->
-> **Dex** 10
->
-> **Wit** 14
->
-> **Spi** 16
->
-> With a Spirit of 16 Lind would make a good **skald**, so Amy chooses that starting class.
->
-> She switches her **Dex** and **Wit** scores to give her Skald more dexterity and ends up with these final abilities:
->
-> **Str** 9
->
-> **Dex** 14
->
-> **Wit** 10
->
-> **Spi** 16
->
-> Amy generates Lind’s **Resilience (Res)** score next. She rolls a **d6** for Lind’s **Vigour** and gets 3.
->
-> Amy then rolls a **d6** for **Vitality** and gets 4.
->
-> Adding the two rolls up, Lind the Skald has **7 Resilience.**
->
-> The Skald class starts with the following equipment:
->
-> - Runic focus (key item) (small)
-> - Reindeer hide armour (1 Defence)
-> - Leather hood (+1 Defence)
-> - Steel sword (d6)
-> - Saga: *heal* or *lightning spear* (choose 1)
-> - Sacred waters
-> - Sacrificial bundle (small)
->
-> Her two pieces of armour (*reindeer hide* and *leather hood*) gives her a total **defence** of **2**.
->
-> Her **key item** is a *runic focus*, which allows her to cast magic in the form of **sagas**. Amy has the choice of either a healing tale (**Heal**) or a tale of Thor the thunder god (**L****ightning Spear**). She thinks that Lind would be a follower of Thor and takes lightning spear.
->
-> Lind wields a *steel sword* that does d6 damage and fills out the rest of her inventory with helpful items like *sacred waters* and a *sacrificial bundle*.
->
-> With her starting equipment stowed or worn, Lind has **5 free inventory** slots that she can use to **loot items**, **cast spells**, or **take reactions** in combat. None of her items are **bulky** so they only take up one slot each. **Small** items don’t take up any space.
->
-> **Sagas** don’t take up physical slots but instead take up space in Lind’s mind as the tales are dense and elaborate.
->
-> Lind also has a flask filled with **Iðunn’s mead**, which heals her injuries and helps to clear fatigue. She starts with **two sips** of mead.
->
-> Amy’s now finished creating her new skald, Lind, who’s equipped and ready to set off into a strange new world.
+knowledge. You sought to delve the mysteries of the realms and pluck forth the secrets within.
 
-## CONCEPTS OF PLAY
+You stayed in the shadows, called on for your counsel and power. Mistrusted by some, feared by others, and respected by all.
 
-### Resilience
+You were never much for combat, preferring to work your cunning to rain destruction or mischief on your foes from a safe distance.
 
-**Resilience** **(RES)** is the ability to avoid damage in combat, representing your personal drive, toughness, instinct and survivability.
+The gods are dead but their secrets are still waiting under ash and weald. You’ve seen your future and it’s filled with endless possibilities.
 
-Resilience is calculated by adding two stats: **Vigour (d6)** and **Vitality (d6).** Damage reduces your **Resilience** and **drinking mead** or **resting at a bonfire** restores it.
+**Seer (Wit, 0 Def)**
 
-If an attack takes your **Resilience** exactly to 0, roll on the **Omens** table (page 21).
+| Yew staff        | key, d4, barrier, clobber, greystone |
+| ---------------- | ------------------------------------ |
+| Stout linen      | small, 0 Def                         |
+| Runestone        | *Slow* or *Seiðr Spear*              |
+| Bleached jawbone | -                                    |
+| Free slots       | 7                                    |
 
-### Defence
+**Skills**
 
-Before calculating damage to **Resilience**, subtract the target’s **Defence** value from the result of **physical damage** rolls. Shields and similar armour provide a bonus (e.g. +1 Defence), but only while the item is held or worn.
+***Barrier (reaction)*.** Cast a barrier spell (Wit, Fatigue):
 
-**Magic** bypasses mundane armour - **Defence** doesn’t reduce **magical damage**.
+- **Success:** Raise a magical shield to negate all damage from the attack.
 
-Wearing heavy armour weighs you down. If you’re wearing **bulky** armour, make all **DEX** saves at **disadvantage** due to the cumbersome nature.
+- **Failure:** Impose **damage disadvantage** on the target’s attack.
 
-### Inventory
+***Clobber*.** Smash the enemy’s head with **damage advantage**; target needs to make a **Str** save or be dazed, losing their next turn (**Fatigue**).
 
-- You start with **10 inventory slots**
-- Most items take up **1 slot** and **small** items don’t take up any
-- **Bulky** items take up **2 slots** and are two-handed or awkward to carry
-- Anyone with a **full inventory** (all slots filled) is reduced to **0 Resilience**
-- You can’t carry more items than your inventory allows
+***Greystone*.** Cast a magical stone as if from a sling for **d4** damage, 30’ range.
+
+***Slow* (spell).** Slows nearby enemies (**Fatigue**).
+
+***Seiðr spear* (spell).** Propel a spear of pure energy; strike your foe with the spear for **d10 damage**, 60’ range (**Fatigue**).
+
+
+
+## Adventurer Creation Example
+
+New tabletop roleplaying gamer Amy wants to create an Adventurer in ***Runecairn***.
+
+Amy starts by rolling on the names table and gets **57**, *Lind*. Amy likes the sound so decides to keep it.
+
+Amy doesn’t know much about Lind at this point, so she rolls on the Adventurer traits tables and gets the following results:
+
+She’s **brawny**, with **smooth skin**, **braided hair**, and a **sharp face**. She’s **eloquent**, **ambitious**, and **deceitful**.
+
+Lind is starting to take shape in Amy’s mind.
+
+Amy rolls **3d6** four times and assigns the results to her abilities:
+
+**Str** 9, **Dex** 10, **Wit** 14, **Spi** 16
+
+With a Spirit of 16 Lind would make a good **skald**, so Amy chooses that background.
+
+She switches her **Dex** and **Wit** scores to give her Skald more dexterity and ends up with these final abilities:
+
+**Str** 9, **Dex** 14, **Wit** 10, **Spi** 16
+
+Amy generates Lind’s **Resilience (Res)** score next. She rolls a **d6** for Lind’s **Vigour** (4).
+
+Amy rolls a **d6** for **Vitality** (5).
+
+Adding the two rolls up, Lind the Skald has **9 Resilience.**
+
+Her two pieces of armour (*reindeer hide* and *leather hood*) give her a total **defence** of **2**.
+
+Her **key item** is a *runic focus*, which allows her to use magic in the form of **sagas**. Amy has the choice of either a healing tale (***Heal***) or one of Thor the thunder god (***Lightning Spear***). She thinks that Lind would be a follower of Thor and takes lightning spear.
+
+Lind wields a *steel sword* that does d6 damage and fills out the rest of her inventory with helpful items like *sacred waters* and a *sacrificial bundle*.
+
+With her starting equipment stowed or worn, Lind has **5 free inventory** slots that she can use to **loot items**, **cast spells**, or **take reactions** in combat. None of her items are **bulky** so they only take up one slot each.
+
+**Small** items don’t take up any space.
+
+**Sagas** don’t take up physical slots but instead take up space in Lind’s mind as the tales are dense and elaborate.
+
+Lind also has a flask filled with **Iðunn’s mead**, which heals her injuries and helps to clear fatigue. She starts with **2 sips** of mead.
+
+Amy’s now finished creating her new skald, Lind, who’s equipped and ready to set off into a strange new world.
+
+
+
+##  Concepts of Play
+
+### Background
+
+What you did in a previous life and what equipment you begin with.
+
+Your **key item** grants unique skills but your new life is yours to carve, so change approach by changing your key item.
 
 ### Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. Roll a d20 for an appropriate ability score. If you roll *equal to or under that ability score*, you pass. Otherwise, you fail. A 1 is always a success, and a 20 is always a failure.
+A roll to avoid bad outcomes from risky choices and circumstances.
 
-In some situations, saves are made with a bonus (**advantage**) or penalty (**disadvantage**). Roll two d20s, take the lower result for **advantage** and the higher for **disadvantage**.
+Roll a d20 against an appropriate ability score. If you roll *equal to or under* the score, you succeed. Otherwise, you fail. A 1 always succeeds, and a 20 always fails.
+
+In some situations, saves are made with a bonus or penalty. Roll two d20s, take the lower result (bonus, **advantage)** or higher (penalty, **disadvantage)**.
+
+### Resilience (Res)
+
+The ability to avoid damage in combat, representing your personal drive, toughness, instinct and survivability.
+
+Resilience is made up of two stats: **Vigour (d6)** and **Vitality (d6).** Damage reduces your **Resilience** and **drinking mead** or **resting at a bonfire** restores it.
+
+If an attack takes your **Resilience** exactly to 0, roll for **Omens**.
+
+### Defence (Def)
+
+Attacks hit automatically, for you and your enemies. Armour determines your Defence and reduces the damage you take.
+
+Shields and similar armour provide a bonus, but only while held or worn.
+
+**Bulky** armour weighs you down and all **Dex** saves have **disadvantage**.
 
 ### Mead flask & healing
 
-Filled with mead brewed by the gods and infused with the Iðunn’s everlasting apples, sipping this mead restores health and heals injuries.
+Filled with mead brewed by the gods and infused with the goddess Iðunn’s everlasting apples.
 
-One sip takes an action and restores **10 RES** and clears **2 points of Fatigue**. The flask is replenished when resting at a bonfire.
+One sip takes an action and restores **10 Res** and clears **2 points of Fatigue**. Resting at a bonfire replenishes all sips.
 
-You start with **2 sips**. The amount of mead in the flask can be increased under the right circumstances.
+You start with **2 sips**. This can be increased by relics or by defeating a powerful enemy or reaching a significant point in a quest.
 
-Your **mead flask** does not take up any inventory slots.
+### Inventory
+
+- You start with **10 inventory slots.**
+
+- **Key items** provide new skills and abilities but you can only carry 1.
+
+- Most items take up **1 slot** and **small** items don’t take up any.
+
+- **Bulky** items take **2 slots** and are two- handed or awkward to carry.
+
+- Anyone with a **full inventory** is reduced to **0 Resilience.**
+
+- You can’t carry more items than your inventory allows.
 
 ### Status effects
 
-- **Cursed**: **Resilience** is halved until the curse is lifted or otherwise dispelled
-- **Deprived:** You can’t **recover Resilience** or take **reactions** until you rest at a bonfire
-- **Poisoned:** Take damage every turn, bypassing **Def**; a successful **Str** save or resting at a **bonfire** cleanses the poison
+***Cursed**.* **Resilience** is halved until the curse is lifted or otherwise dispelled.
+
+***Deprived.*** You can’t **recover Resilience** or take **reactions** until you rest at a bonfire.
+
+***Dismembered.*** Lost arm: Reduce Str by d4, reduce total inventory slots by 1, and wield only one item at a time.
+
+Lost leg: Reduce Dex by d6 and halve movement speed.
+
+Limb loss is not permanent; resting at a bonfire restores lost appendages.
+
+***Poisoned.*** Take damage every turn, bypassing **Def**; a successful **Str** save or resting at a **bonfire** cleanses the poison.
+
+***Toxic.*** Adds toxic (1 slot) to your inventory. For every point of toxic, lose 1 Str damage each turn, bypassing Def. Purge toxin by resting at a bonfire.
 
 ### Fatigue
 
 Your actions and items weigh heavily on you and fatigue can easily overwhelm.
 
-**Fatigue** is caused by casting **spells,** using certain **skills,** and rare **monster abilities**.
+**Fatigue** is gained by casting **spells,** using some **skills,** and **monster attacks**.
 
-Each **Fatigue** occupies **1** **inventory slot** and lasts until the Adventurer rests at a **bonfire**.
+Each **Fatigue** occupies **1 inventory slot** and lasts until you rest at a **bonfire**.
 
 ### Clearing fatigue
 
-During a moment of calm, you can spend **1 soul** to clear **d4** points of **Fatigue (**see **Souls)**.
+During a moment of calm, spend **1 soul** to clear **d4** points of **Fatigue (**see **Souls)**.
 
-You can also attempt to clear **Fatigue** through introspection, such as reflecting on your ancestors, meditating in nature, or singing a song to lift your spirits.
+You can also attempt to clear **Fatigue** by reflecting on your ancestors, meditating in nature, singing a song, or through other forms of introspection.
 
-Roll a **d6** and compare the result to your current **Vigour** score. If you roll under (**success**), clear that many points of **Fatigue**. If you roll over (**failure**), you lose **1 point** of **Vigour.**
+Roll a **d6**. If you roll under your current Vigour (**success**), clear that many points of **Fatigue**. If you roll over (**failure**), you lose **1 point** of **Vigour.**
 
 You can attempt to **clear Fatigue** in this manner once per day.
 
 ### Bonfires
 
-Bonfires link the Nine Realms and offer a beacon of hope to souls lost in the dark.
+Bonfires offer a beacon of hope to souls lost in the dark.
 
-Resting at a bonfire restores all lost **Resilience**, clears all **Fatigue** from your inventory, and resets **ability score loss**.
+Resting at a bonfire restores lost **Resilience**, clears **Fatigue** from your inventory, and resets **ability score loss**.
 
-Resting at a bonfire also causes most slain foes to return to life. Powerful or intelligent foes such as **gods**, **jotunn**, or **dragons** are not reborn in this manner and remain dead when defeated.
+Bonfire rests also return most slain foes to life. Powerful or intelligent foes such as **gods**, **jotunn**, or **dragons** remain dead when defeated.
 
-When resting at a bonfire, you can choose to spend **Souls** to grow your power.
+When sat at a bonfire, you can spend **Souls** to grow your power (see **Spending souls**).
 
 ### Death
 
 Prepare to die often. Upon death, you wake at the last bonfire rested at with all your current items.
 
-**Lose** one point of total **Vigour** for every death. If your total **Vigour** reaches 0, your Adventurer is forever lost to the darkness.
+**Lose** one point of total **Vigour** for every death. If your total **Vigour** reaches 0, you are forever lost to the darkness.
 
 One point of **Vigour** can be restored by a full day communing with a **skald** or by burning a **sacrificial bundle** at a bonfire.
 
@@ -548,50 +607,67 @@ The might of the gods has been scattered across the Nine Realms. Fragments of th
 
 You may discover **Soul remnants** in hidden and secret places, in areas of great power, or under the watch of fearsome guardians. **Soul remnants** are **small** and take up no inventory space.
 
-Powerful beings such as **jotunn**, **dragons**, or **demons** may also be imbued with the scattered essence of the gods. Overcoming these foes, through combat or other means, grants you ephemeral slivers of this power: **souls**.
+Powerful beings such as **jotunn**, **dragons**, or **demons** may also be imbued with the scattered essence of the gods.
 
-Breaking a **soul remnant** will imbue you with the **souls** held within.
+Overcoming these foes, through combat or other means, grants you ephemeral slivers of this power: **souls**.
+
+Breaking a **soul remnant** imbues you with the **souls** held within.
 
 **Souls** are delicate and are discarded when you die. You have one chance to recover dropped **souls** after you wake up at the bonfire. Die again before retrieving them and they’re lost forever.
 
-### Spending souls
+###  Spending souls
 
 As **souls** represent the innate power of the gods, you can absorb this power to grow stronger.
 
 When resting at a bonfire, you can focus on the imbued power and enhance your might.
 
-While resting, spend 1 soul to permanently increase one of the following attributes: **Strength, Dexterity, Wits, Spirit, or Vitality**.
+While resting, spend 1 soul to permanently increase one of your abilities (**Strength, Dexterity, Wits, or Spirit)** or your **Vitality**.
 
-Rare merchants and travellers trade in souls and you can barter for goods and services with **soul remnants**. Certain spells or relics can also coalesce **soul remnants** from imbued **souls**.
+You can only increase each ability to a maximum of 18 using souls.
+
+### Trade & merchants
+
+Rare merchants and travellers trade in souls and you can barter for goods and services with items or **soul remnants**. Certain spells or relics can also coalesce **soul remnants** from imbued **souls**.
+
+Rare items don’t necessarily fetch a higher price, they’re just harder to find, though the value of items changes depending on the merchant.
 
 ### Wealth & treasure
 
-Gold and most coins have little value and most trade is through barter.
+Gold and most coins have little value and most trade is through barter, of either souls or items.
 
 Treasure takes the form of weapons, armour, spells, or relics. It can be a lure, taking Adventurers to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
-## ITEMS & EQUIPMENT
+
+
+##  Items & Equipment
 
 ### Armour
 
-**Chain mail:** Heavy mail shirt made up of riveted rings, worn over thick clothing
+**Chain mail:** Heavy mail shirt made of riveted rings, worn over thick clothing.
 
-**Iron helmet:** Curved helmet made of riveted iron plates; uncomfortable but offers good protection
+**Fur cloak:** Dense, coarse fur treated and sewn into a thick cloak with a fierce bear or wolf headdress.
 
-**Laced iron plate:** Small iron plates laced together over a leather shirt
+**Iron helmet:** Curved helmet made of riveted iron plates; uncomfortable but offers good protection.
 
-**Leather hood:** Fine leather hood with wolfskin cloak
+**Laced iron plate:** Small iron plates laced together over a leather shirt.
 
-**Quilted cloth:** Padded wool defensive jacket helps deflect slashes
+**Leather hood:** Fine leather and wolfskin cloak.
 
-**Reindeer hide:** Cured and toughened leather hide; a symbol of wealth and status
+**Plated leather:** Charred and soot- blackened leather smock, reinforced with sewn iron plates.
 
-**Stout linen:** Comfortable and well-made, allows free movement but offers no protection from attack
+**Quilted cloth:** Padded wool defensive jacket helps deflect slashes.
 
-| Armour           |      |                     |
-| ---------------- | ---- | ------------------- |
+**Reindeer hide:** Cured and toughened leather; symbol of status.
+
+**Stout linen:** Comfortable and well- made, free movement little protection.
+
+#### Armour Table
+
 | Name             | Def  | Qualities           |
+| ---------------- | ---- | ------------------- |
+| Fur cloak        | 0    | rare, small         |
 | Stout linen      | 0    | small               |
+| Plated leather   | 1    | rare                |
 | Quilted cloth    | 1    |                     |
 | Reindeer hide    | 1    | rare                |
 | Chain mail       | 2    | bulky               |
@@ -599,401 +675,480 @@ Treasure takes the form of weapons, armour, spells, or relics. It can be a lure,
 | Iron helmet      | +1   |                     |
 | Leather hood     | +1   | rare                |
 
+
+
 ### Shields
 
-**Buckler:** Small leather-wrapped shield used to protect the weapon hand
+**Buckler:** Small leather-wrapped shield used to protect the weapon hand.
 
-**Kite Shield:** Large, almond-shaped shield made from wood and iron
+**Kite Shield:** Large, almond-shaped shield made from wood and iron.
 
-**Linden wood shield:** Made from dense wood, round shield reinforced with iron
+**Linden wood shield:** Made from dense wood, round shield reinforced with iron.
 
-| Shields            |      |                           |
+#### Shield Table
+
+| Name               | Def  | Qualities                 |
 | ------------------ | ---- | ------------------------- |
-| Name               | DEF  | Qualities                 |
 | Buckler            | +1   | rare                      |
-| Linden wood shield | +1   | key, block, parry, STR 12 |
+| Linden wood shield | +1   | key, block, parry, Str 12 |
 | Kite shield        | +2   | key, bulky, block, parry  |
+
+
 
 ### Weapons
 
-**Ash spear:** Wood shaft fitted with sharp iron head, used for thrusting or throwing
+**Ash spear:** Wood shaft with sharp iron head, for thrusting or throwing.
 
-**Bearded axe:** Wrought iron head with hooked steel cutting edge attached to an oak haft
+**Bearded axe:** Wrought iron head with hooked steel cutting edge attached to an oak haft.
 
-**Breaking maul:** Heavy two-handed maul with dense iron head fixed to reinforced oak shaft
+**Blacksmith hammer:** Short oak haft fitted with dense iron head.
 
-**Broad axe:** Longer version of the bearded axe, held with two hands and requiring great strength
+**Breaking maul:** Heavy two-handed maul with dense iron head fixed to reinforced oak shaft.
 
-**Cudgel:** Stout piece of wood used for clubbing
+**Broad axe:** Longer version of the bearded axe, held with two hands and requiring great strength.
 
-**Elm longbow:** Long curved bow made from elm wood, tied with strong flax
+**Cudgel:** Stout piece of wood used for clubbing.
 
-**Elm shortbow:** Curved bow made from elm wood, tied with strong flax
+**Elm longbow:** Long curved bow made from elm wood, tied with strong flax.
 
-**Hand axe:** Balanced axe, light enough to be thrown or wield in both hands
+**Elm shortbow:** Curved bow made from elm wood, tied with strong flax.
 
-**Hewing spear:** Long oak shaft with curved iron blade
+**Fire grippers**: Leather gloves reinforced with iron plates etched with fiery runes; can be used to bolster unarmed attacks.
 
-**Hunting knives:** A pair of versatile knives, straight blade with sweeping edge sharpened to a fine point
+**Grave sword:** Long, wide double-edged blade, held with two hands; unusual design, extremely heavy.
 
-**Seax:** Broad, single-edged blade fixed to a horn hilt and worn on a belt
+**Hand axe:** Balanced axe, light enough to be thrown or wield in both hands.
 
-**Steel sword:** Double-edged blade, held single-handed; ownership is a matter of high honour
+**Hewing spear:** Long oak shaft with curved iron blade.
 
-**Stone sling:** Rope and leather cup used to propel stones with dangerous accuracy
+**Hunting knives:** A pair of versatile knives, straight blade with sweeping edge sharpened to a fine point.
 
-**Yew staff:** Long, curved wooden staff, carved with intricate runes and figures
+**Seax:** Broad, single-edged blade fixed to a horn hilt and worn on a belt.
 
-| Weapons        |         |                          |                                      |
-| -------------- | ------- | ------------------------ | ------------------------------------ |
-| Name           | **Dmg** | **Qualities**            | **Weapon Skills**                    |
-| Spear, ash     | d6      | ranged, 20’              | thrust 10’                           |
-| Axe, bearded   | d8      | Str 10                   | hack 2d8, disarm                     |
-| Axe, broad     | d10     | key, bulky, Str 16       | shove, cleave, disarm                |
-| Axe, hand      | d6      | dual, ranged, 30’        | hack 2d6                             |
-| Cudgel         | d6      |                          | clobber d6 (adv)                     |
-| Hunting knives | d6      | key, dual                | dash, backstab, lacerate             |
-| Longbow, elm   | d8      | bulky, ranged, 100’      | volley 2d8                           |
-| Maul, breaking | d10     | key, rare, bulky, Str 17 | shove, smash d10 (adv)               |
-| Seax           | d6      |                          | rend                                 |
-| Shortbow, elm  | d6      | bulky, ranged, 60’       | volley 2d6                           |
-| Sling, stone   | d4      | ranged, 30’              | pummel 2d4                           |
-| Spear, hewing  | d10     | key, bulky, Str 14       | shove, cleave, lacerate              |
-| Staff, yew     | d4      | key, Wit 12              | greystone, barrier, clobber d4 (adv) |
-| Sword, steel   | d6      | rare                     | sunder                               |
+**Steel sword:** Double-edged blade, held single-handed; ownership is a matter of high honour.
+
+**Stone sling:** Rope and leather cup used to propel stones with deadly aim.
+
+**Yew staff:** Long, curved wooden staff, carved with intricate runes and figures.
+
+#### Weapon Table
+
+| Name               | Dmg  | Qualities                | Weapon Skills               |
+| ------------------ | ---- | ------------------------ | --------------------------- |
+| Spear, ash         | d6   | ranged, 20’              | thrust 10’                  |
+| Axe, bearded       | d8   | Str 10                   | hack 2d8, disarm            |
+| Axe, broad         | d10  | key, bulky, Str 16       | shove, cleave, disarm       |
+| Axe, hand          | d6   | dual, ranged, 30’        | hack 2d6                    |
+| Cudgel             | d6   |                          | clobber                     |
+| Fire grippers      | d6   | key, rare                | flameshield, ignite         |
+| Hammer, blacksmith | d6   | rare                     | smash                       |
+| Hunting knives     | d6   | key, dual                | dash, backstab, lacerate    |
+| Longbow, elm       | d8   | bulky, ranged, 100’      | volley 2d8                  |
+| Maul, breaking     | d10  | key, rare, bulky, Str 17 | crush, shove                |
+| Seax               | d6   |                          | rend                        |
+| Shortbow, elm      | d6   | bulky, ranged, 60’       | volley 2d6                  |
+| Sling, stone       | d4   | ranged, 30’              | flurry 2d4                  |
+| Spear, hewing      | d10  | key, bulky, Str 14       | shove, cleave, lacerate     |
+| Staff, yew         | d4   | key, Wit 12              | greystone, barrier, clobber |
+| Sword, grave       | d10  | rare, bulky              | frenzy, sunder              |
+| Sword, steel       | d6   | rare                     | sunder                      |
+
+
 
 ### Equipment skills
 
-**Backstab**: Dash behind your enemy and inflict a critical strike (**Dex**)
+***Backstab***. Dash behind your enemy and inflict a critical strike (**Dex**):
 
-- **Success:** Strike your target for **double damage**
+- **Success:** Strike your target for **double damage.**
 
-- Failure: 
+- **Failure:** Retaliatory attack from the target with **damage advantage.**
 
-  Retaliatory attack from the target at double damage
+- **Dire strike:** Follow up with an extra attack that bypasses defence.
 
-  - **Dire strike:** Follow up with an extra attack that bypasses defence
+***Barrier (reaction)*.** Raise a magical shield to negate all **damage** from the attack **(Wit**, **Fatigue).**
 
-**Barrier (reaction):** Raise a magical shield to negate all **damage** from the attack **(Wit**, **Fatigue)**
+***Block (reaction)*.** Raise your shield to block an incoming attack **(Str**, **Fatigue).**
 
-**Block (reaction):** Raise your shield to block an incoming attack **(Str**, **Fatigue)**
+***Charge (reaction)***. Drive your shoulder into your opponent; **Str** save to disrupt the attack and take no damage **(Fatigue).**
 
-**Cleave:** Deliver a devastating sweeping attack **(Str**, **Fatigue)**
+***Cleave*.** Deliver a devastating sweeping attack **(Str**, **Fatigue):**
 
-- **Success:** Strike your target for **double damage**
+- **Success:** Strike for **double damage.**
 
-- Failure: 
+- **Failure:** Retaliatory attack from the target at **double damage.**
 
-  Retaliatory attack from the target at double damage
+- **Dire strike**: Make an extra attack against the nearest target within 10ft.
 
-  - **Dire strike**: Make an extra attack against the nearest target within 10ft
+***Clobber*.** Smash the enemy’s head with **damage advantage**; target needs to make a **Str** save or be dazed, losing their next turn (**Fatigue**).
 
-**Clobber:** Smash the enemy’s head with **damage advantage**; target needs to make a **Str** save or be dazed, losing their next turn (**Fatigue**)
+***Crush*.** Target the enemy’s limb for enhanced damage (**d12**); target needs to make a Dex save or lose d4 **Dex** (**Fatigue**).
 
-**Dash (reaction):** Deftly dodge to evade an attack (**Dex**, **Fatigue**)
+***Dash (reaction*).** Deftly dodge to evade an attack (**Dex**, **Fatigue**):
 
-- **Success:** Avoid **all** **damage**
-- **Failure: Impair** the enemy’s attack, reducing to **d4 damage**
+- **Success:** Avoid **all damage.**
 
-**Disarm:** Hook your opponent’s weapon hand; target needs to make a **Dex** save or be disarmed (**Fatigue**)
+- **Failure: Impair** the enemy’s attack, reducing to **d4 damage.**
 
-**Flurry:** Sling two stones rapidly -- roll **damage** twice (**Fatigue**)
+***Disarm*.** Hook your opponent’s weapon hand; target needs to make a **Dex** save or be disarmed (**Fatigue**).
 
-- **Dire strike:** Sling a third stone and roll an extra damage die
+***Flameshield (reaction)*.** Manifest a fiery shield in your offhand to deflect an attack; **Spi** save to avoid all damage **(Fatigue).**
 
-**Frenzy:** The ferocity of your attack staggers your opponent; non-undead targets need to make a **Spi** save or falter momentarily, allowing you to make an **extra attack (Fatigue)**
+***Flurry*.** Sling two stones rapidly; roll **damage** twice (**Fatigue**).
 
-**Greystone:** Cast a magical stone as if from a sling for **d6** **damage**
+- **Dire strike:** Sling a third stone and roll an extra damage die.
 
-**Hack:** Attack your opponent in a frenzy for **double damage** (**Fatigue**)
+***Frenzy*.** The ferocity of your attack staggers your opponent; non-undead targets need to make a **Spi** save or falter momentarily, allowing you to make an **extra attack (Fatigue).**
 
-- **Dire strike**: Your opponent needs to make a **Str** save or stagger from the ferocity of the attack, moving back 5 ft. and losing their next turn
+***Greystone*.** Cast a magical stone as if from a sling for **d4 damage.**
 
-**Lacerate:** Slice a deep wound in your enemy for an initial **d6 damage;** roll **d4** to determine bleed damage and duration (**Fatigue**)
+***Hack*.** Attack your opponent in a frenzy; roll damage twice (**Fatigue**).
 
-**Parry (reaction):** Deflect an incoming attack and riposte (**Str**)
+- **Dire strike**: Your opponent must make a **Str** save or stagger from the ferocity of the attack, moving back 5’ and losing their next turn.
 
-- **Success:** Avoid all **physical damage** and retaliate for **double damage**
-- **Failure:** Retaliatory attack from the target at **double damage**
+***Ignite*.** Channel ancient magic to ignite your weapon (or gloves) in blazing fire; for the duration of the fight, melee attacks do **double damage** and bypass **mundane armour**, ignoring **Def (Fatigue).**
 
-**Rend**: Inflict a vital wound for **d6** **damage**; target needs to make a **Dex** save or be reduced to **half speed** for the duration of the fight (**Fatigue**)
+***Lacerate*.** Slice a deep wound in the enemy for initial **d6 damage;** roll **d4** for bleed damage and duration (**Fatigue**).
 
-**Shout (reaction):** Your voice propels a shockwave that staggers your foe; you deflect the attack and take no **physical damage** (**Spi**, **Fatigue**)
+***Parry (reaction)*.** Deflect an incoming attack and riposte (**Str**):
 
-**Shove (reaction):** Take your weapon in both hands and push back against an enemy, halting their strike (**Str**, **Fatigue)**
+- **Success:** Avoid all **physical damage** and retaliate for **damage advantage.**
 
-**Smash:** Bludgeon your opponent with **damage advantage**; target needs to make **Str** save or be knocked down (**Fatigue**)
+- **Failure:** Retaliatory attack from the target at **damage advantage.**
 
-**Sunder:** Tear through your opponent’s armour for **d4 damage**; causes target to lose **1 Def** (**Fatigue**)
+***Rage***. Call upon your animal spirit which imbues you with bestial strength; for d4 rounds, gain **3 Def** and make all melee attacks at **double damage**. When the rage ends, make a **Spi** save (you can choose to fail):
 
-**Thrust:** Lunge forward to extend the range of your weapon and strike targets up to 10 feet away (**Fatigue**)
+- **Success**: The animal spirit departs and you regain control; add **2 Fatigue.**
 
-**Volley:** Fire two arrows without hesitation -- roll **damage** twice (**Fatigue**)
+- **Failure**: The beast takes control; lose **1 Spirit** and continue to rage with a **50% chance** to attack **friendly targets.**
 
-- **Dire strike**: Fire another arrow and roll an extra damage die
+***Rend***. Inflict a vital wound for **d6 damage**; target needs to make a **Dex** save or be reduced to **half speed** for the duration of the fight (**Fatigue**).
+
+***Scold.*** Manifest cutting words to wield as a dagger or throw at opponents for **d4** damage, 20ft range.
+
+***Shout (reaction)*.** Your voice propels a shockwave that staggers your foe; you deflect the attack and take no **physical damage** (**Spi**, **Fatigue**).
+
+***Shove (reaction)*.** Take your weapon in both hands and push back against an enemy, halting their strike (**Str**, **Fatigue).**
+
+***Smash*.** Bludgeon your opponent with **damage advantage**; target needs to make **Str** save or be knocked down and miss their next turn (**Fatigue**).
+
+***Sunder*.** Tear through your opponent’s armour for **d4 damage**; causes target to lose **1 Def** (**Fatigue**).
+
+***Thrust*.** Lunge forward to extend the range of your weapon and strike targets up to 10 feet away (**Fatigue**).
+
+***Volley*.** Fire two arrows without hesitation; roll **damage** twice (**Fatigue**).
+
+- **Dire strike**: Fire another arrow and roll an extra damage die.
+
+
 
 ### Items
 
-**Apple, dried:** A slice of one of Iðunn’s apples, dried in the sun. Eating one clears **1 point of Fatigue**
+**Apple, dried:** A slice of one of Iðunn’s apples, dried in the sun. Eating one clears **1 point of Fatigue.**
 
-**Bleached jawbone:** Cleaned human jawbone; low chance to commune with the spirits of your ancestors (**1** on a **d20**) or summon a vengeful spirit (**20** on a **d20**)
+**Beaststone:** Crudely chiselled from black stone, in the form of a bear or wolf; calling upon the spirit of the animal imbues you with bestial rage.
 
-**Fire oil:** Faded glass bottle filled with viscous orange liquid; breaks when thrown and erupts into flame for **d8** blast damage
+**Bleached jawbone:** Cleaned human jawbone; low chance to commune with the spirits of your ancestors (**1** on a **d20**) or summon a vengeful spirit (**20** on a **d20**).
 
-**Memento of defeat:** Broken and rusted sword; by holding and focusing on past failures lose all your held souls and awaken at the last bonfire rested at
+**Effigy stone:** Ornate limestone figure, carved in the likeness of a great hero. Calls to the spirit of a hero to join you in the physical world. Spend a point of **Vigour** to summon a hero to fight by your side.
 
-**Runic focus:** Hand-carved from ash wood, decorated with runes; can be any number of shapes associated with the gods and bestows different powers accordingly
+**Fire oil:** Faded glass bottle filled with viscous orange liquid; breaks when thrown and erupts into flame for **d8** blast damage.
 
-**Sacred waters:** Water from the well of fate; drink to regain **8 Res** or throw to cause **d10** blast damage to undead
+**Kindled bale:** Bones, broken sword, and pine resin wrapped in twine; place and set alight to create a **bonfire.**
 
-**Sacrificial bundle**: Crude figure of a person made from moss, twine, and ash; burn at a bonfire to restore **1 point of Vigour**
+**Memento of defeat:** Broken and rusted sword; by holding and focusing on past failures lose all your held souls and awaken at the last bonfire rested at.
 
-**Skeleton key:** Ancient key crafted from the finger bones of a thief; low chance of opening any locked door (**1-2** on a **d20**, breaks on a **20**)
+**Runic focus:** Hand-carved from ash wood, decorated with runes; can be any number of shapes associated with the gods and bestows different powers accordingly.
 
-| Items              |                      |
-| ------------------ | -------------------- |
+**Sacred stockfish:** Dried cod fished from a sacred river; eat to restore **1 point** of **Spirit** or feed to a wild animal to **befriend** them until sunset.
+
+**Sacred waters:** Water from the well of fate; drink to regain **8 Res** or throw to cause **d10** blast damage to undead.
+
+**Sacrificial bundle**: Crude figure of a person made from moss, twine, and ash; burn at a bonfire to restore **1 point of Vigour.**
+
+**Skeleton key:** Ancient key crafted from the finger bones of a thief; low chance of opening any locked door (**1-2** on a **d20**, breaks on a **20**).
+
+#### Item Table
+
 | Name               | Qualities            |
+| ------------------ | -------------------- |
+| Apple, dried       | small                |
+| Beaststone         | key, rare            |
 | Bleached jawbone   | rare                 |
 | Chalk              | small                |
-| Chisel             |                      |
-| Apple, dried       | small                |
+| Chisel             | -                    |
+| Effigy stone       | rare                 |
 | Face paint         | small                |
 | Fire oil           | rare                 |
-| Horn               |                      |
-| Lantern & oil      |                      |
+| Horn               | -                    |
+| Kindled pyre       | rare                 |
+| Lantern & oil      | -                    |
 | Large trap         | bulky                |
 | Leather rucksack   | rare, bulky, 4 slots |
 | Lockpicks          | small                |
 | Memento of defeat  | rare                 |
-| Net                |                      |
-| Pick               |                      |
+| Net                | -                    |
+| Pick               | -                    |
 | Pole (10ft)        | bulky                |
 | Quill & ink        | small                |
-| Rope (25ft)        |                      |
-| Runic focus        | key, small, SPI 12   |
+| Rope (25ft)        | -                    |
+| Runic focus        | key, small, Spi 12   |
 | Sack               | 2 slots              |
+| Sacred stockfish   | rare                 |
 | Sacred waters      | rare                 |
 | Sacrificial bundle | small                |
-| Saw                |                      |
+| Saw                | -                    |
 | Skeleton key       | rare, small          |
 | Spike              | small                |
-| Tar                |                      |
-| Torch              |                      |
+| Tar                | -                    |
+| Torch              | -                    |
 
-## COMBAT
+
+
+##  Combat
 
 ### Rounds
 
-- Roughly ten seconds of in-game time
-- Comprised of **turns**
+- Roughly 10 sec. of in-game time.
+
+- Comprised of **turns**.
 
 ### Actions
 
-- **Move up to 40ft**, **cast a spell**, **attack**, **move again**, or other reasonable action
-- Declare actions before rolling dice; if risky, the Warden calls for a save
-- All actions, attacks, and movements occur simultaneously
+- On your turn, you can **move** and take an action: **attack, cast a spell**, **move again**, or other reasonable action.
+
+- Standard movement **speed** is 40’.
+
+- Declare actions before rolling dice; if risky, the Warden calls for a save.
+
+- All actions, attacks, and movements occur simultaneously.
 
 ### Reactions
 
-- Adventurers can **react** to an enemy attack and attempt to either **block**, **deflect**, **avoid**, or otherwise mitigate damage
-- Some reactions are only available through **key items** or **relics**
+- You can **react** to an attack and attempt to block, deflect, or avoid damage.
 
-All Adventurers have the following reactions:
+- You must choose to react before the Warden rolls damage.
 
-- **Roll**: Make a **Dex** save to roll away from an enemy’s attack, **avoiding all damage** (causes **Fatigue**)
-- **Withdraw**: Make a **Dex** save to disengage from combat and retreat, **avoiding all damage**; failing the save means you escape but still take damage from the attack
+- Some reactions are only available through **key items** or **relics.**
+
+
+Reactions available to all adventurers:
+
+***Roll***. Attempt to roll away, avoiding **all physical damage** (**Dex**, **Fatigue**).
+
+***Withdraw***. Attempt to disengage and retreat (**Dex**):
+
+- Success: **Avoid all damage**.
+
+- Failure: Escape but take damage.
+
+- Enemies may continue to attack.
 
 ### Turns
 
 The Warden telegraphs the actions taken by NPCs or monsters.
 
-If surprised at the start of combat, the Adventurer makes a **Dex save** to act before their opponents.
-
-Failing this save also means Adventurers can’t use a **Reaction** in their first turn.
+If surprised at the start of combat, make a **Dex save** to act first. Failure also means you can’t use a **Reaction** in your first turn.
 
 ### Attacking & damage
 
-- Attacks lower **Resilience** but damage is reduced by **Defence (Def)**
-- Roll weapon die and subtract **Def**; deal remaining to the target’s **Resilience**
-- **Magic** bypasses **mundane armour** but not **magical armour**
-- Unarmed attacks always do **1d4** damage.
+- Attacks hit automatically but armour reduces incoming damage.
+
+- Subtract Def from damage rolls before reducing Resilience.
+
+- **Magic** ignores **mundane armour** but not **magical armour**.
+
+- Unarmed attacks do **d4** damage.
 
 ### Attack modifiers
 
-**Damage advantage.** Attacks from a position of strength (against a helpless foe or through a daring manoeuvre). **R**oll for damage twice and take the **higher result**.
+***Damage advantage.*** Attacks from a position of strength (against a helpless foe or through a daring manoeuvre).
 
-**Damage disadvantage.** Attacks from a position of weakness (through cover or with bound hands). Roll for damage twice and take the **lower result**.
+***Damage disadvantage.*** Attacks from a position of weakness (through cover or with bound hands).
 
-Certain skills or items can also grant **damage advantage** or **disadvantage**.
+***Multiple attackers.*** Attackers targeting the same foe all roll damage dice, keeping the single best result.
 
-**Multiple attackers.** If multiple attackers target the same foe, roll all damage dice and keep the single highest result (**damage advantage**).
+***Dual and 2-handed weapons.*** Attacks with two weapons or with a 2-handed weapon grant damage advantage.
 
-**Dual and 2-handed weapons.** If attacking with two weapons at the same time or one weapon held in both hands, gain damage advantage.
+### Damage modifiers
+
+Some foes are vulnerable to types of magic, strong against certain attacks, or wholly immune to damage.
+
+***Weak.*** Gain ***damage advantage***. ***Resistant.*** Gain ***damage disadvantage***. ***Immune.*** Attack causes ***no damage***.
 
 ### Dire strike
 
-Some weapons or enemies have special abilities that are triggered when rolling **max damage**, such as rolling 10 on a d10.
+Some weapons or enemies have special skills that trigger when rolling **max damage** (i.e. rolling 10 on a d10).
 
 The Warden can also decide the effect of a **dire strike**.
 
 ### Blast
 
-**Blast attacks** affect all targets in the area, rolling separately for each affected target. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
+Refers to anything from explosions to cleaving onslaughts to a meteor impact.
 
-If unsure how many targets can be affected, roll the damage die for a result.
+Strikes all targets in the area; roll separate damage for each target. Roll damage die for the number of targets.
 
 ### Ability score loss
 
-If any of a Adventurer’s **ability scores** are reduced to 0, they die.
-
-**Ability loss** is reset when resting at a bonfire or by certain magic or items.
+If any **ability scores** are reduced to 0, you die. Abilities reset when resting at a bonfire or through magic.
 
 ### Critical damage
 
-- Once a target reaches **0 Res**, any additional damage reduces **Str** directly and triggers a **critical damage** save
-- The target must roll under **Str** to avoid **critical damage (**this includes Adventurers, NPCs, and monsters); any target that fails a **critical damage** save **dies**
+- Once weakened to **0 Res**, any additional damage reduces **Str** directly and triggers **critical damage.**
 
-### Death
+- Make a **Str** save to avoid **critical damage**; fail the save and **die.**
 
-On death, Adventurers wake up at the last bonfire rested at. They keep all inventory items but drop unspent **souls** at the location of their death.
+- Adventurers, NPCs, and monsters are all subject to critical damage.
 
-Resurrected Adventurers can retrieve these dropped **souls** if they reach this location without dying again. Dropped **souls** are permanently lost at death if not retrieved.
+###  Death
+
+On death, you wake up at the last bonfire rested at. You keep all inventory items but drop **souls** where you died.
+
+Once resurrected, you can retrieve dropped **souls** if you reach this location without dying again. At death, dropped **souls** are permanently lost.
 
 ### Omens
 
-Omens are messages from spirits, the gods, or the land and can represent fortune or favour.
+Messages from spirits, the gods, or the land, and can represent fortune or favour.
 
-When an attack reduces a Adventurer’s **Resilience** to exactly 0, this triggers an omen. Roll a d8 on the Omens table to determine the event and outcome.
+When an attack reduces your **Resilience** to exactly 0, this triggers an omen. Roll a d8 on the Omens table to determine the event and outcome.
 
-| Omens |                                                              |
-| ----- | ------------------------------------------------------------ |
-| 1     | A spirit appears to you in the form of an animal. Make a **SPI** save. If you pass, the animal accompanies you until dawn of the next day. |
-| 2     | Roiling storm clouds gather overhead and a you glimpse a winged shape within. Make an **INT** save. If you fail, you flee from the shape in terror. |
-| 3     | The ground trembles and shakes as if a titan approaches. Make a **DEX** save. If you fail, you're knocked to the ground. |
-| 4     | A ghostly figure emerges from the wilderness and shrieks before fading away. Make a **STR** save. If you fail, you lose most of your hearing until the next day. |
-| 5     | You hear the hushed murmur of a thousand voices whispering in unknown tongues. Make an **INT** save. If you pass, you gain insight into the future. |
-| 6     | As if the dead of winter, you see your breath billow in a misty cloud as the heat drains from your body. Make a **STR** save. If you fail, gain 2 points of fatigue from the cold. |
-| 7     | A lank hooded man in a wide-brimmed hat appears on the horizon, beckoning you forward. Make a **SPI** save. If you fail, you follow the hooded man into a trap. |
-| 8     | You hear the howl of an enormous wolf rolling across the landscape, followed by echoing calls in response. Make a **DEX** save. If you pass, the wolves can’t find you. |
+#### Omens Table
 
-### Combat example
+| 1    | A spirit appears to you in the form of an animal. Make a **Spi** save. If you succeed, the animal accompanies you until dawn of the next day. |
+| ---- | ------------------------------------------------------------ |
+| 2    | Roiling storm clouds gather overhead and a you glimpse a winged shape within. Make a **Wit** save. If you fail, you flee from the shape in terror. |
+| 3    | The ground trembles and shakes as if a titan approaches. Make a **Dex** save. If you fail, you're knocked to the ground. |
+| 4    | A ghostly figure emerges from the wilderness and shrieks before fading away. Make a **Str** save. If you fail, you lose your hearing until the next day. |
+| 5    | You hear the hushed murmur of a thousand voices whispering in unknown tongues. Make a **Wit** save. If you succeed, you gain insight into the future. |
+| 6    | As if the dead of winter, your breath billows in a misty cloud as the heat drains from your body. Make a **Str** save. If you fail, gain 2 points of fatigue from the cold. |
+| 7    | A lank hooded man in a wide-brimmed hat appears on the horizon, beckoning you forward. Make a **Spi** save. If you fail, you follow the hooded man into a trap. |
+| 8    | You hear the howl of an enormous wolf rolling across the landscape, followed by echoing calls in response. Make a **Dex** save. If you pass, the wolves can’t find you. |
 
-> **Lind the skald** *enters a darkened ruin, overgrown and ancient. The corridor leads north and figures are heard shuffling.*
->
-> **Amy:** I walk further down the corridor, *steel sword* in one hand and *runic focus* in the other.
->
-> **Warden:** Further down the ruin you see an armoured form wandering aimlessly. Its skin is decayed and drawn and it’s holding a rusted spear. It’s a **draugr** and it hasn’t spotted you yet.
->
-> **Amy:** I’m going to run up and cut it down with my sword!
->
-> **Warden:** OK, you rush forward and slash at the undead warrior. Roll your damage.
->
-> *Amy rolls a 5 on her* **d6***.*
->
-> **Warden:** The draugr has 1 **defence** from its armour so it takes 4 damage. The draugr turns and raises its spear to attack!
->
-> **Amy:** I gather my will and unleash the power of the gods through my voice! I shout NO!
->
-> *Choosing to use Lind’s* **shout** *skill as a* **reaction** *to avoid the attack, Amy rolls a* **d20** *and attempts to roll under her* **Spi** *of 16. She gets 5, a success!*
->
-> **Warden:** You emit a shockwave and knock the draugr off balance, deflecting the attack! Tick one **fatigue** for the shout.
->
-> *Amy does and she now has* **4** *slots left.*
->
-> **Amy:** This thing’s not so tough. I strike out with my sword!
->
-> *Amy rolls a 4 on her* **d6** *for the attack.*
->
-> **Warden:** The draugr takes 3 damage -- it’s not looking very good! It snarls and thrusts its spear.
->
-> **Amy:** I’ll take the hit since I’ve got decent **defence**.
->
-> *The Warden rolls a 5 on their* **d6** *for damage. They subtract Lind’s* **defence** *rating of 2 from the damage.*
->
-> **Warden:** Oof! You take 3 points of damage.
->
-> **Amy:** Grr, that’s it. I clutch the *runic focus* tightly and weave a tale of Thor the thunderer. **Lightning spear**!
->
-> *Amy rolls a* **d8** *for damage for her spell and gets a 5. She marks another point of fatigue for the spell.*
->
-> **Warden:** **Magic** bypasses the draugr’s armour therefore it takes full damage. Because the attack reduces its **Res** below 0, it takes the remaining 4 damage to its **Str**. The draugr now needs to make a **critical damage** Str save or die!
->
-> *The warden rolls 16 on a d20, failing to roll under the draugr’s new Str score of 7.*
->
-> **Warden:** It crumples to the ground, a blackened husk from the lightning strike. You’ve defeated it!
->
-> **Amy:** Yes! Does the body have anything on it?
->
-> **Warden:** Before you can search, the spell you just cast draws the attention of another **draugr**. It shuffles out of the darkness, holding a rotted **shortbow**. Roll a **Dex** save to see if you can react quick enough to avoid it!
->
-> *Amy rolls a 16 on her* **d20***. Failure, since her* **Dex** *is 14!*
->
-> **Warden:** You try to step back but aren’t quick enough and the arrow strikes you in the arm.
->
-> *The warden rolls a d6 for damage and gets 4. They subtract Lind’s* **defence***.*
->
-> **Warden:** You take **2 damage**. A second draugr shambles out next to the first, spear in hand. What do you do?
->
-> **Amy:** They’re undead right? I throw my bottle of *sacred waters* at them!
->
-> *Amy rolls a* **d10** *twice for damage, one for each draugr, and gets 9 and 4. Amy updates her character sheet to remove the sacred waters from her* **inventory***, freeing up a* **slot***.*
->
-> **Warden:** The bottle breaks on the first draugr’s armour and splashes over them both for magic **blast** damage. The first takes 9 points, bringing it under 0 and reducing its **Str** by 1.
->
-> *The warden rolls a 1 on the draugr’s critical damage save.*
->
-> **Warden:** A critical success! The first draugr is still up but at -1 Res. The second sizzles as it takes 4 points of damage. Both lurch forward, spears raised! Unless you avoid it, they’ll hit with **damage advantage** since its two on one.
->
-> **Amy:** I grip the *runic focus* and scream a curse from the gods, using my **shout** to deflect the attacks.
->
-> *Amy makes a* **Spirit** *save by rolling a* **d20***. A failure at 18! She ticks another fatigue.*
->
-> **Warden:** You struggle to remember the tale and the shout fails to deflect the attack.
->
-> *The warden rolls a d6 twice* *for the spear attacks and gets 6 and* **6***.*
->
-> **Warden**: Bad luck, a **dire strike**! One of the spears strikes your abdomen and the other pins you to the ground. You can’t move for one turn.
->
-> *They subtract Lind’s defence.*
->
-> **Warden:** You take 10 damage.
->
-> **Amy:** I’m at -8!
->
-> **Warden:** You lose **8** points of **Strength**. Make a **critical damage** save to see if you stay on your feet!
->
-> *Amy rolls a* **d20***, hoping to beat her newly reduced* **Str** *score of* **1***.* **Natural 20***! A critical failure!*
->
-> **Warden:** You died! The draugr watches your lifeless body collapse to the ground and it slowly lurches away. The world fades to black…
->
-> …
->
-> …You awaken at a roaring bonfire. Your wounds are healed but you lose **1** point of **Vigour**.
->
-> *Amy marks her sheet, cursing her bad luck. She has* **3 Vigour** *left. Her total* **Resilience** *is now reduced to* **6***.*
->
-> **Amy:** This means the draugr I killed are back alive – er, on their feet again, doesn’t it?
->
-> **Warden:** That’s right. But at least now you have a better idea what to expect.
->
-> *Amy furrows her brow and grips her pencil tighter.*
->
-> **Amy:** Let’s do this!
 
-## MAGIC
 
-Magic is a remnant of the gods and draws attention when used. Some see magic as proof the gods live on in the new world.
+## Combat Example
 
-**Runestones***.* Smooth and delicately polished stones with an inscribed spell hand-etched in runes. Used by **seers** to affect magical change in the world.
+*Lind the skald enters a darkened ruin, overgrown and ancient. The corridor leads north and she hears shuffling.*
 
-**Sagas.** Not a physical object, but a learned and memorised tale passed down from the gods. Skalds can recite sagas to channel the power of the gods through speech.
+Amy: I walk further down the corridor, steel sword in one hand and runic focus in the other.
 
-**Runestones** and **sagas** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and ruins.
+Warden: Further down the ruin an armoured form wanders aimlessly, skin decayed and holding a rusted spear. It’s a draugr but hasn’t spotted you.
 
-Scrolls are similar to runestones and sagas, however:
+Amy: I’m going to run up and cut it down with my sword!
+
+Warden: You rush forward and slash the undead thing. Roll damage.
+
+*Amy rolls d6 for her sword (5).*
+
+Warden: The draugr has 1 defence from its armour so it takes 4 damage. The draugr turns and raises its spear!
+
+Amy: I gather my will and unleash the power of the gods through my voice! I shout NO!
+
+*Amy chooses to use Lind’s shout reaction to avoid the attack and rolls d20, looking to roll under 16 Spi (5).*
+
+Warden: A success! Your voice knocks the draugr off balance, deflecting the attack! Gain one fatigue for the shout.
+
+*Amy does and she now has 4 slots left.*
+
+Amy: This thing’s not so tough. I strike out with my sword!
+
+*Amy rolls a d6 for the attack (4).*
+
+Warden: The draugr takes 3 damage—it’s not looking very good! It snarls and thrusts its spear.
+
+Amy: I’ll take the hit since I’ve got decent defence.
+
+*The Warden rolls d6 for damage (5). They subtract Lind’s defence (2).*
+
+Warden: Oof! You take 3 damage.
+
+Amy: Grr, that’s it. I clutch the runic focus tightly and weave a tale of Thor the thunderer. Lightning spear!
+
+*Amy rolls a d8 for her spell (5). She marks another fatigue.*
+
+Warden: Magic bypasses the draugr’s armour for full damage. The attack reduces its Res below 0, so it takes the remaining 4 damage to Str. The draugr needs to make a critical damage Str save or die!
+
+*The warden rolls a d20 (16), failing to roll under the new Str score (7).*
+
+Warden: It crumples to the ground, a blackened husk. You’ve defeated it!
+
+Amy: Yes! Does the body have anything on it?
+
+Warden: Before you can search, your spell draws the attention of another draugr. It shuffles out of the darkness, holding a rotted bow. Roll a Dex save to see if you can react to avoid it!
+
+*Amy rolls her d20 (16). Failure, since her Dex is 14!*
+
+Warden: You try to step back but aren’t quick enough and the arrow strikes you in the arm.
+
+*The warden rolls a d6 for damage (4). They subtract Lind’s defence (2).*
+
+Warden: You take 2 damage. A second draugr shambles beside the first, spear in hand. What do you do?
+
+Amy: They’re undead right? I throw my bottle of sacred waters!
+
+*Amy rolls a d10 twice for damage, one for each draugr (9,4). Amy remove the sacred waters from her inventory, freeing up a slot.*
+
+Warden: The bottle breaks on the first draugr’s armour and splashes over them both for magic blast damage. The first takes 9, bringing it under 0 and reducing its Str by 1.
+
+*The warden rolls a d20 for the draugr’s critical damage save (1).*
+
+Warden: A critical success! The first draugr is still up but at -1 Res. The second sizzles as it takes 4 damage.
+
+Both lurch forward, spears raised! Unless you avoid it, they’ll hit with damage advantage.
+
+Amy: I grip the runic focus and scream a curse from the gods, using my shout to deflect the attacks.
+
+*Amy makes a Spi save by rolling a d20*
+
+*(18). Failure! She gains another fatigue.*
+
+Warden: You struggle to remember the tale and the shout fails to deflect the attack.
+
+*The warden rolls a d6 twice for the spear attacks (4,6). They take the higher number (6), because both draugr are attacking the same target.*
+
+Warden: Bad luck, a dire strike! One of the spears strikes your chest and the other pins you to the ground. You can’t move for one turn.
+
+*They subtract Lind’s defence.* Warden: You take 4 damage. Amy: I’m at -2!
+
+Warden: You lose 2 Strength. Make a critical damage save to see if you stay on your feet!
+
+*Amy rolls a d20, hoping to beat her newly reduced Str score of 7 (20). A critical failure!*
+
+Warden: You died! The draugr watches your lifeless body collapse to the ground and it slowly lurches away. The world fades to black…
+
+…You awaken at a roaring bonfire. Your wounds are healed but you lose 1 Vigour.
+
+*Amy marks her sheet, cursing her bad luck. She has 3 Vigour left. Her total Resilience is now 6.*
+
+Amy: This means the draugr I killed are back alive—er, on their feet again, doesn’t it?
+
+Warden: That’s right. But at least now you have an idea what to expect.
+
+*Amy furrows her brow and grips her pencil tighter.*
+
+Amy: Let’s do this!
+
+
+
+## Magic
+
+Magic is a remnant of the gods and draws attention when used. There are some who see magic as proof the gods live on in the new world.
+
+***Runestones**.* Smooth and delicately polished stones with an inscribed spell hand-etched in runes. Used by seers to affect magical change in the world.
+
+***Sagas.*** Not a physical object, but a learned and memorised tale passed down from the gods. Skalds can recite sagas to channel the power of the gods through speech.
+
+***Flame runes*.** Words of power inscribed on fire grippers that allow pyres to shape and control flame.
+
+**Runestones** and **sagas** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and ruins. **Fire grippers** can only store one flame rune at a time and they are exceedingly rare.
+
+### Scrolls
+
+Similar to runestones and sagas, however:
 
 - They do not take up inventory slots.
+
 - They do not cause fatigue.
+
 - They disappear after one use.
 
 ### Casting spells
@@ -1002,7 +1157,9 @@ Scrolls are similar to runestones and sagas, however:
 
 **Skalds** cast spells by holding a **runic focus** and speaking the **saga** aloud.
 
-Casting all types of magic takes a toll. After every spell, add a **Fatigue** to inventory, occupying one slot.
+**Pyres** cast spells by channelling fire through their **grippers**.
+
+Casting all types of magic takes a toll. After every spell, add a **Fatigue** to inventory, occupying 1 slot.
 
 Given time and safety, you can *enhance* a spell (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost.
 
@@ -1014,9 +1171,7 @@ Only spells that cause **Fatigue** are subject to ill effects.
 
 ### Relics
 
-Items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition.
-
-A few examples:
+Items imbued with a magical spell or power. They do not cause fatigue. Relics usually have a limited use, as well as a recharge condition.
 
 **Eye of Oðinn**, *1 charge*. Crystalline orb with brilliant red flaw. Grants a glimpse into a chosen realm. **Recharge**: Bathe the Eye in the tears of a god.
 
@@ -1028,269 +1183,668 @@ A few examples:
 
 **Staff of Walking Weald**, *1 charge*. Crooked staff speckled with soft moss. Temporarily animates a plant or tree. **Recharge**: bury underneath the oldest tree in the forest for one week.
 
-### Rings
+###  Rings
 
 Many magical rings may be found but none of them should be used lightly.
 
 Adventurers can wear up to two rings at a time, one on each hand.
 
-A few examples:
+***Iron Ring.*** Dense ring wrought from blackened iron. Gain 1 additional defence but lose 10 speed.
 
-**Iron Ring.** Dense ring wrought from blackened iron. Gain 1 additional defence but lose 10 speed.
+***Red Berserkr Ring.*** Crudely shaped bone ring with a glinting rough cut ruby. Re-roll 1s on damage dice for melee attacks but lose all defence bonus from armour.
 
-**Red Berserkr Ring.** Crudely shaped bone ring with a glinting rough cut ruby. Re-roll 1s on damage dice for melee attacks but lose all defence bonus from armour.
+***Ring of the Mists.*** Exquisite Dwarven-crafted silver ring carved with undecipherable runes. Allows the bearer to travel between the realms of the living and the dead but draws the attention of untold horrors.
 
-**Ring of the Mists.** Exquisite Dwarven-crafted silver ring carved with undecipherable runes. Allows the bearer to travel between the realms of the living and the dead but draws the attention of untold horrors.
+***Sylva’s Ring.*** Delicate wooden ring entwined by sharp thorns. Gain **2** extra **inventory slots** but lose **1 vigour**.
 
-**Sylva’s Ring.** Delicate wooden ring entwined by sharp thorns. Gain **2** extra **inventory slots** but lose **1 vigour**.
 
-## SPELL LISTS
+
+## Spell Lists
 
 ### Seer Spells
 
-| Seer Spells      |                                                              |
-| ---------------- | ------------------------------------------------------------ |
 | Spell Name       | Description                                                  |
-| All-father’s Eye | You can see through a magical floating eyeball that flies at your command |
-| Armoured         | Gain 2 points of defence                                     |
-| Beast Form       | You and your possessions transform into a mundane animal     |
-| Cloak of Knives  | Dozens of knives rotate around you, slashing anything that approaches for d8 damage; on your word they fly at a chosen target for 3d6 damage |
-| Decoy            | Manifest a spectral sound at a location of your choice       |
-| Detect Magic     | Detect beings or objects imbued with magic                   |
-| Disappear        | Fade from normal sight                                       |
-| Elemental Wall   | A straight wall of ice or fire 50ft long and 10ft high rises from the ground |
-| Fade             | Blend into the landscape, making detection more difficult    |
-| Fireball         | Throw a ball of fire that causes d12 blast damage in a 30ft area |
-| Gravity Shift    | You can change the direction of gravity, but only for yourself |
-| Haste            | Move at double your normal speed and gain an extra action each turn |
-| Illuminate       | A floating light moves as you command                        |
-| Knock            | A nearby mundane or magical lock unlocks loudly              |
-| Mirror           | Conjure a duplicate of yourself who mirrors your actions and movement |
-| Poison Cloud     | Dense green fog spreads from a chosen point, causing d4 damage to any living creature entering it |
-| Read Mind        | You can hear the surface thoughts of nearby creatures        |
-| Reveal           | See invisible creatures or objects                           |
-| Scry             | You can see through the eyes of a creature touched earlier that day |
-| Seiðr Shield     | Raise a magical shield to negate all physical damage from the next attack |
-| Seiðr Spear      | Propel a spear of pure energy that strikes for d10 damage    |
-| Seiðr Volley     | Flurry of magical arrows, striking creatures within 10ft for d6 blast damage |
-| Shield Wall      | A magical 30 ft dome of shields appears at a point you can see |
-| Sleep            | A creature you can see falls into a light sleep              |
-| Slow             | Slows nearby enemies                                         |
-| Slow Fall        | Slow your rate of fall and reduce fall damage                |
-| Spectacle        | A clearly false but impressive illusion of your choice appears, under your control, up to the size of a palace and has full motion and sound |
-| Swarm            | You become a swarm of ravens, rats, or fish and can only be harmed by blast attacks |
-| Ward             | A silver circle 50ft across appears on the ground; one species of your choice cannot cross |
-| Web              | Your wrists shoot thick webbing                              |
-
-### Skald Spells
-
-| Skald Spells     |                                                              |
 | ---------------- | ------------------------------------------------------------ |
-| Spell            | Description                                                  |
-| Charm            | A creature you can see treats you as a friend                |
-| Command          | A target obeys a single three-word command that does not cause it harm |
-| Control Weather  | You may alter the type of weather at will, but you do not otherwise control it |
-| Fortune          | Make your next save with advantage                           |
-| Guidance         | Ask the gods for guidance; they may not answer truthfully or at all |
-| Heal             | Restore 10 Res and clear the deprived condition              |
-| Homeward         | Return to the last bonfire rested at                         |
-| Justice          | The next creature to hit you with a physical attack takes d12 magic damage |
-| Laughter         | Your words cause a creature to double over in uncontrollable laughter |
-| Lightning Spear  | Summon a crackling bolt of lightning that strikes for d8 damage |
-| Magic Protection | Ignore up to 8 points of magic damage and gain advantage on magical saves |
-| Pacify           | A creature near you has an aversion to violence              |
-| Purify           | Purge poison, toxic, or petrify                              |
-| Raise Spirit     | The spirit of a nearby corpse manifests and answers d4 questions |
-| Rebirth          | The next time you fail a critical damage save, regain full Res and clear 2 points of fatigue |
-| Remove Curse     | Purge the curse condition from a person or object            |
-| Replenishment    | Restore 1 Res every turn for 6 turns                         |
-| Resist Magic     | Magical attacks against you are now made at damage disadvantage |
-| Respite          | Restore 1 lost ability point                                 |
-| Sanctuary        | You and an enemy you can see are unable to attack for one turn |
-| Sense Evil       | Detect the presence of evil                                  |
-| Shatter          | Your voice echoes with the sound of an earthquake, causing d8 damage to creatures and shattering delicate objects |
-| Silence          | No spells may be cast, even your own, in a 30ft area         |
-| Swaying Spear    | Thunderous magical spear that strikes a target for d10 damage; attacks against dragons or giants are made with **damage advantage** |
-| Temper Weapon    | Imbue weapon with magic and enhance damage to d12            |
-| Thunderbolt      | A column of magic energy that deflects attacks and does d10 blast damage |
+| All-father’s Eye | See through a magical floating eyeball that flies at your command. |
+| Armoured         | Gain 2 points of defence.                                    |
+| Beast Form       | You and your possessions transform into a mundane animal.    |
+| Cloak of Knives  | Dozens of knives circle you, slashing anything that approaches for d8 damage; on your word they fly at a chosen target for 3d6 damage. |
+| Decoy            | Manifest a spectral sound at a location of your choice.      |
+| Detect Magic     | Detect beings or objects imbued with magic.                  |
+| Disappear        | Fade from normal sight                                       |
+| Elemental Wall   | A wall of ice or fire 50ft long and 10ft high rises from the ground. |
+| Fade             | Blend into the landscape, making detection more difficult.   |
+| Fireball         | Throw a ball of fire that causes d12 blast damage in a 30ft area. |
+| Gravity Shift    | You can change the direction of gravity, but only for yourself. |
+| Haste            | Move at double normal speed and gain an extra action each turn. |
+| Illuminate       | A floating light moves as you command.                       |
+| Knock            | A nearby mundane or magical lock unlocks loudly.             |
+| Mirror           | Conjure a duplicate who mirrors your actions and movement.   |
+| Poison Cloud     | Dense green fog spreads from a chosen point, causing d4 damage to any living creature entering it. |
+| Read Mind        | You can hear the surface thoughts of nearby creatures.       |
+| Reveal           | See invisible creatures or objects.                          |
+| Scry             | You can see through the eyes of a creature touched earlier that day. |
+| Seiðr Shield     | Raise a magical shield to negate physical damage from the next attack. |
+| Seiðr Spear      | Propel a spear of pure energy that strikes for d10 damage.   |
+| Seiðr Volley     | Flurry of magical arrows, strikes all within 10’ for d6 blast damage. |
+| Shield Wall      | A magical 30’ dome of shields appears at a point you can see. |
+| Sleep            | A creature you can see falls into a light sleep.             |
+| Slow             | Slows nearby enemies.                                        |
+| Slow Fall        | Slow your rate of fall and reduce fall damage.               |
+| Spectacle        | A false but impressive illusion of your choice appears, under your control, up to the size of a palace and has full motion and sound. |
+| Swarm            | Become a swarm of ravens, rats, or fish; you can only be harmed by blast attacks. |
+| Ward             | A silver circle 50ft across appears on the ground; one species of your choice cannot cross it. |
+| Web              | Your wrists shoot thick webbing.                             |
 
-## MONSTERS
+### Skald Sagas
 
-### Draugr
+| Spell           | Description                                                  |
+| --------------- | ------------------------------------------------------------ |
+| Charm           | A creature you can see treats you as a friend                |
+| Command         | A target obeys a three-word command that does them no harm   |
+| Control Weather | Alter the type of weather at will, but do not otherwise control it |
+| Fortune         | Make your next save with advantage                           |
+| Guidance        | Ask the gods for guidance; they may not answer truthfully or at all |
+| Heal            | Restore 10 Res and clear the deprived condition              |
+| Homeward        | Return to the last bonfire rested at                         |
+| Justice         | Retaliate against the next physical attack for d12 damage.   |
+| Laughter        | Your words cause a creature to double over in violent laughter |
+| Lightning Spear | Summon a crackling bolt of lightning that strikes for d8 damage |
+| Magic Shield    | Ignore 8 points of magic damage, gain advantage on magical saves |
+| Pacify          | A creature near you has an aversion to violence              |
+| Purify          | Purge poison, toxic, or petrify                              |
+| Raise Spirit    | The spirit of a nearby corpse manifests and answers d4 questions |
+| Rebirth         | The next time you fail a critical damage save, regain full Res and clear 2 points of fatigue |
+| Remove Curse    | Purge the curse condition from a person or object            |
+| Replenishment   | Restore 1 Res every turn for 6 turns                         |
+| Resist Magic    | Magical attacks against you are now made at damage disadvantage |
+| Respite         | Restore 1 lost ability point                                 |
+| Sanctuary       | You and an enemy you can see are unable to attack for one turn |
+| Sense Evil      | Detect the presence of evil                                  |
+| Shatter         | Your voice echoes with the sound of an earthquake, causing d8 damage to creatures and shattering delicate objects |
+| Silence         | No spells may be cast, even your own, in a 30ft area         |
+| Swaying Spear   | Thunderous spear of lightning strikes a target for d10 damage; attacks against dragons or jotunn gain damage advantage |
+| Temper Weapon   | Imbue weapon with magic and enhance damage to d12            |
+| Thunderbolt     | A column of magic energy deflects attacks and does d10 blast damage |
 
-8 **Res**, 1 **Def**, 11 **Str**, 8 **Dex**, 9 **Wit**, 6 **Spi**, 20ft, spear/axe (d6)
+### Flame Runes
 
-- Death-blue corpse driven by hatred for the living, eyes burn with red malice
-- Emit a reeking stench that marks their presence
-- At close range, **Str** save to avoid losing a turn to vomit
+| Spell           | Description                                                  |
+| --------------- | ------------------------------------------------------------ |
+| Inner Fire      | Imbue your body with the strength of fire; gain 1 Def and d6 Res |
+| Muspell’s Child | Become engulfed in living flame; gain immunity to fire and punish melee attacks against you with d6 fire damage; lasts for d4 rounds |
+| Ring of Fire    | A 10’ burning ring surrounds yourself and allies, causing d8 damage to those who enter it |
+| Sear            | Emit blazing stream, burning a target within 60’ for d8 damage |
+| Traverse Flame  | Erupt in an explosion of fire and emerge from any flame within 60’; roll a d20. On a 20 you are adrift in the realm of fire for 1d4 rounds |
+| Warp Flame      | Shape and control mundane fire within 100’                   |
 
-### Dwarf
 
-10 **Res**, 2 **Def**, 13 **Str**, 10 **Dex**, 10 **Wit**, 12 **Spi**, 25ft, hammer (d8)
 
-- Short and stocky with long beards; gruff and stand-offish
-- Strongest in mountains or underground
-- Resistant to most magic and poison
+##  Advanced Rules
 
-### Elf
+### Introduction
 
-8 **Res**, 1 **Def**, 8 **Str**, 14 **Dex**, 14 **Wit**, 12 **Spi**, 40ft, dual swords (d6)
+The **Core Rules** are meant for introductory play and fit best with players new to Runecairn or TTRPGs in general.
 
-- Beautiful, amoral, and long-lived; ruthless and arrogant
-- Rarely reveal themselves to non-elves
-- Resistant to most magic
+The **Advanced Rules** are for more experienced players, or those looking for a different type of challenge or playstyle.
 
-### Jotunn, fire
+### Advanced backgrounds
 
-20 **Res**, 4 **Def**, 18 **Str**, 12 **Dex**, 13 **Wit**, 14 **Spi**, 25ft, flaming sword (d10)
+The **Advanced Rules** introduces two new backgrounds: **berserkr** and **pyre**.
 
-- Tall and broad like other jotunn, with flaming hair and eyes; arrogant and quick to anger
-- Emotions dictate strength and colour of visible flame
+***Berserkr.*** Ferocious and powerful, wade into battle with no armour upon your back, wielding a massive two-handed sword and call upon the power of beasts to strengthen your attacks.
 
-- **Dire strike:** Targets ignites in fire for d6 magic damage
+***Pyre**.* Shape flame as a blacksmith shapes iron, calling upon ravenous fire to burn and purge and channel primal forces through your own two hands.
 
-### Jotunn, forest
+**BEYOND TWO PLAYERS**
 
-18 **Res**, 3 **Def**, 16 **Str**, 12 **Dex**, 10 **Wit**, 14 **Spi**, 20ft, broad axe (d10)
+Although Runecairn was designed for 2 players (one **Warden** and one **Adventurer**), you may also choose to play with 1 (**solo**) or with 3 or more (1 **Warden** and 2 or more **Adventurers**).
 
-- Usually human-like, but much taller and broader; intelligent and peaceful, slow to anger
-- Rarely gather in large numbers, even small settlements are rare
-- Grab blocks all movement and reactions; **Str** save to break free
+#### Solo play
 
-### Lindworm
+Balance favour and sorrow or read the runes to guide your way through a pre- written adventure (such as ***Beneath the Broken Sword***), or conjure a random dungeon crawl with the **delve generator**.
 
-20 **Res**, 2 **Def**, 16 **Str**, 16 **Dex**, 16 **Wit**, 14 **Spi**, 40ft, bite (d8)
+***Oracle.*** Whether you require answers to simple questions or more complex queries, the **Oracle tables** help you along the skein and carve your own fate.
 
-- Enormous serpent the length of a river, with two powerful forelegs
-- Balances on one leg to slash with the other
+### Delve generator
 
-- **Dire strike**: Swallow the target, **Str** save to escape
+Create small, medium, or large dungeons, whether used by solo Adventurers for **one-off dungeon crawls** or by Wardens when populating a **campaign** with new dungeons.
 
-### Rock troll
+#### Cooperation
 
-4 **Res**, 2 **Def**, 12 **Str**, 6 **Dex**, 6 **Wit**, 10 **Spi**, 20ft, claw (d4)
+Navigating the world of Runecairn can be a lonely endeavour, but thankfully there are kindred spirits available to assist with jolly cooperation.
 
-- Hunched form with dragging arms and skin of rocky grey stone
-- Shunned by all for their brutish nature, even their green kin
+Useful if the world proves too difficult for one Adventurer, or if a second player wants to join your game, summon another Adventurer from the world of the dead or a distant realm to fight alongside you.
 
-- **Dire strike:** Red lichen oozes from target’s wounds, **Str** save to avoid moving at half speed
+#### Invasions
 
-### Shade
+Conversely, if the Adventurer seeks a greater challenge or if another player wants to join the game temporarily, vengeful spirits in the form of **black fetches** invade the world of the Adventurer and attempt to defeat them.
 
-3 **Res**, 10 **Str**, 8 **Dex**, 9 **Wit**, 4 **Spi**, 20ft, claw (d4)
+Best used judiciously for greatest impact or effect, as the world is a dangerous enough place even without spectral assassins.
 
-- Hollow dead devoid of humanity; a shadow of the person that was
-- Drawn to the living, gather in hordes
 
-### Skeleton
 
-8 **Res**, 10 **Str**, 8 **Dex**, 4 **Wit**, 4 **Spi**, 30ft, spear (d6)
+## Advanced Backgrounds
 
-- Pale bones picked clean, maniacal grin underneath empty sockets
-- A hollow clatter warns when they’re near
-- Roll d12 when defeated; on a 1, reforms at half max **Res**
+### Berserkr
 
-### Skeleton, bonewheel
+In another life you might have leaped raging into battle, striking fear in friend and foe alike, or hunted the wilderness for death and glory. You refused all armour and blood sang in your ears.
 
-6 **Res**, 8 **Str**, 12 **Dex**, 4 **Wit**, 4 **Spi**, 40ft, spikes (d6), roll
+In combat, none could match your ferocity, you howled like a wild beast and gnashed your teeth while striking down opponents twice your size.
 
-- Laughing skeleton carrying a vicious spiked wheel
-- Rolling attack shreds anything in its path
-- Roll attack: Roll d6 3 times and take the highest result for damage
+In the time before, you were at home on the battlefield but now your home is wherever you wish it to be.
 
-### Skeleton, giant
+**Berserkr (Str, 0 Def)**
 
-16 **Res**, 14 **Str**, 10 **Dex**, 4 **Wit**, 4 **Spi**, 20ft, greatsword (d10)
+| Beaststone       | key, rare, charge, rage    |
+| ---------------- | -------------------------- |
+| Grave sword      | d10, bulky, frenzy, sunder |
+| Fur cloak        | 0 Def, small               |
+| Sacred stockfish | rare                       |
+| Free slots       | 6                          |
 
-- Colossal skeleton towers with slow malice
-- Wind shrieks through hollow bones
-- Roll d12 when defeated; on a 1-2, reforms at half max **Res**
+**Skills**
 
-### Treant
+***Charge (reaction)***. Drive your shoulder into your opponent; **Str** save to disrupt the attack and take no damage **(Fatigue).**
 
-10 **Res**, 1 **Def**, 12 **Str**, 6 **Dex**, 5 **Wit**, 12 **Spi**, 15ft, slam (d6)
+***Frenzy*.** The ferocity of your attack staggers your opponent; non-undead targets need to make a **Spi** save or falter momentarily, allowing you to make an **extra attack (Fatigue).**
 
-- Lumbering and gangly, toughened bark and lush green foliage
-- Watch silently from the forests for those who cut or burn too much
-- Weak to fire but risks drawing the attention of others
+***Rage***. Call upon your animal spirit which imbues you with bestial strength; for d4 rounds, gain **3 Def** and make all melee attacks at **double damage**. When the rage ends, make a **Spi** save (you can choose to fail):
 
-### Troll
+- **Success**: The spirit departs and you regain control; add **2 Fatigue.**
 
-12 **Res**, 1 **Def**, 14 **Str**, 10 **Dex**, 10 **Wit**, 12 **Spi**, 20ft, club (d8)
+- **Failure**: The beast takes control; lose **1 Spirit** and continue to rage with a **50% chance** to attack **friendly targets.**
 
-- Long green hair and pale green skin, larger than most humans; rarely helpful or friendly
-- Live in close families in caves, protect the land around them
-- As an action, recover lost **Res** when standing on rock or stone
+***Sunder*.** Tear through your opponent’s armour for **d4 damage**; first occurrence causes target to lose **1 Def (Fatigue).**
 
-### Warg
 
-18 **Res**, 14 **Str**, 12 **Dex**, 9 **Wit**, 8 **Spi**, 30ft, bite (d12)
 
-- Hill-sized wolf with burning eyes and deadly bite
-- One of the sons of Fenrir, filled with hunger and vengeance towards men
+### Pyre
 
-- **Dire strike:** As enormous jaws can easily main, target loses an arm
+In another life you might have burned spirits from the dead, stoked the smithy’s forge, or battled frost demons in the mountains.
 
-### Wolf
+Your hands channelled the spark of life and the cleansing fire of death. Your magic is the oldest of all, furious and hungry.
 
-4 **Res**, 9 **Str**, 10 **Dex**, 4 **Wit**, 8 **Spi**, 40ft, bite (d4)
+In combat, you sear and scald your foes, madness dancing just behind your eyes. Your charred plated leather marked both your calling and profession.
 
-- Dense black and grey fur, yellow eyes; territorial and dangerous in any number
-- Attuned to the rhythm of nature and can sense those that disrupt the balance
+The age of fire was long ago, but the wheel yet turns. Whether enlightenment or destruction, your path is now yours to forge.
 
-- **Dire strike:** Howl to warn the other wolves in the area; roll d6, on a 6 another wolf appears
+**Pyre (Spi, 1 Def)**
 
-## APPENDIX
+| Fire grippers     | key, rare, bulky, d6, flameshield, ignite |
+| ----------------- | ----------------------------------------- |
+| Plated leather    | 1 Def                                     |
+| Blacksmith hammer | rare, d6, smash                           |
+| Flame rune        | *Sear*                                    |
+| Kindled bale      | rare                                      |
+| Free slots        | 5                                         |
 
-### Names
+**Skills**
 
-| d100 | A-Z      |      |           |      |          |      |           |
-| ---- | -------- | ---- | --------- | ---- | -------- | ---- | --------- |
-| 1    | Åge      | 26   | Funi      | 51   | Katla    | 76   | Sigmar    |
-| 2    | Alvar    | 27   | Gertrud   | 52   | Ketill   | 77   | Signe     |
-| 3    | Anna     | 28   | Gorm      | 53   | Knud     | 78   | Sigrid    |
-| 4    | Anri     | 29   | Gro       | 54   | Kristín  | 79   | Sigríður  |
-| 5    | Ari      | 30   | Guðmundr  | 55   | Kristján | 80   | Sigrún    |
-| 6    | Arne     | 31   | Guðrún    | 56   | Leif     | 81   | Skarde    |
-| 7    | Arnkatla | 32   | Gunhild   | 57   | Lind     | 82   | Stefán    |
-| 8    | Åse      | 33   | Gunnar    | 58   | Liv      | 83   | Sten      |
-| 9    | Astrid   | 34   | Halfdan   | 59   | Logi     | 84   | Sune      |
-| 10   | Auður    | 35   | Hallbera  | 60   | Lukka    | 85   | Sunna     |
-| 11   | Birger   | 36   | Harald    | 61   | Magnús   | 86   | Svend     |
-| 12   | Bjørn    | 37   | Harpa     | 62   | Margrét  | 87   | Thurid    |
-| 13   | Bo       | 38   | Hekla     | 63   | María    | 88   | Þuríður   |
-| 14   | Bodil    | 39   | Helgi     | 64   | Njal     | 89   | Thyra     |
-| 15   | Darri    | 40   | Hilda     | 65   | Nói      | 90   | Toke      |
-| 16   | Edda     | 41   | Hilmir    | 66   | Ødger    | 91   | Tora      |
-| 17   | Einar    | 42   | Hrefna    | 67   | Ólafur   | 92   | Torsten   |
-| 18   | Emil     | 43   | Inga      | 68   | Orri     | 93   | Tove      |
-| 19   | Erik     | 44   | Ingibjörg | 69   | Randi    | 94   | Troels    |
-| 20   | Estrid   | 45   | Ingólfur  | 70   | Revna    | 95   | Trygve    |
-| 21   | Flóki    | 46   | Jóhanna   | 71   | Roar     | 96   | Ulfhild   |
-| 22   | Flosi    | 47   | Jón       | 72   | Rune     | 97   | Valgerður |
-| 23   | Freyja   | 48   | Kaðlín    | 73   | Saga     | 98   | Vilmar    |
-| 24   | Frida    | 49   | Kåre      | 74   | Salvar   | 99   | Von       |
-| 25   | Frode    | 50   | Karitas   | 75   | Sif      | 100  | Yrsa      |
+***Flameshield (reaction)*.** Manifest a fiery shield in your offhand to deflect an attack; **Spi** save to avoid all damage **(Fatigue).**
 
-### Adventurer Traits
+***Ignite*.** Channel ancient magic to ignite your weapon (or gloves) in blazing fire; for the duration of the fight, melee attacks do **double damage** and bypass **mundane armour**, ignoring **Def (Fatigue).**
 
-| Physique |            |      |            |
-| -------- | ---------- | ---- | ---------- |
-| 1        | Athletic   | 6    | Slim       |
-| 2        | Brawny     | 7    | Short      |
-| 3        | Diminutive | 8    | Statuesque |
-| 4        | Lanky      | 9    | Stout      |
-| 5        | Rugged     | 10   | Towering   |
+***Smash*.** Bludgeon your opponent with **damage advantage**; target needs to make **Str** save or be knocked down **(Fatigue).**
 
-| Skin  |            |        |           |
+***Sear* (flame rune).** Emit a blazing stream of violent flame, burning your target for **d8 damage**, 60ft range **(Fatigue).**
+
+
+
+##  Solo Play
+
+### Introduction
+
+Runecairn can also be played solo, with one player acting as both **Warden** and **Adventurer**.
+
+Journey through an existing adventure like ***Beneath the Broken Sword*** or use the **delve generator** to build a dungeon crawl.
+
+When you reach a moment of choice or conflict, a time when you’d normally look to the Warden for the outcome, consider consulting an **Oracle**, a method of deriving meaning from randomness.
+
+An Oracle can be tarot cards, an online resource, or a mobile app.
+
+**Wardensaga** includes a set of random tables that serves as Oracle, offering a way to interpret rolls and the runes of the Younger Futhark into the result of a choice or action.
+
+### Journalling
+
+Chronicle your journey in a journal or diary. Be as brief or descriptive as you like—this is a saga of your Adventurer, translated and retold through the ages.
+
+Use the **Delve Generator** sheet (from the **Runecairn website**) to document encounters and map your delve.
+
+### Favour or Sorrow
+
+If an outcome isn’t immediately clear, ask the Oracle. For a simple yes or no answer (“Does the troll see me?”) or a straight- forward check (“Will the warrior help me?”), roll **2d6** on **Favour or Sorrow** (next page).
+
+An outcome of **favour** is broadly positive while an outcome of **sorrow** is broadly negative. A **complication** adds an extra obstacle or development to the outcome.
+
+For instance, you convince the warrior to help you but they demand one of your weapons as payment.
+
+### Reading the Runes
+
+For complex questions, or more nuanced interactions, read the runes.
+
+First, gather your will and **focus**. Narrow that focus to a singular **emotion** and concentrate on the runes of the Younger Futhark—one **rune** reveals itself.
+
+- Roll **d10** on the **Focus** table.
+
+- Roll **d8** on the **Emotion** table.
+
+- Finally, roll **d20** on the **Rune** table.
+
+Reflect upon the resulting words and turn them over in your mind. Focus your emotion on the name of the rune. Your answer takes shape.
+
+For instance, Amy wants to investigate a severed spectral head floating through crumbling ruins.
+
+She rolls 3 dice: **d10** for **Focus** (4, *Overcome*), **d8** for **Emotion** (6, *Forlorn*), and **d20** for **Rune** (11, *Ice*).
+
+This gives her *Overcome Forlorn Ice*. She interprets this as a sign to ignore the fear in her heart and approach the cursed head with an open mind.
+
+#### Favour or Sorrow
+
+| 2d6  | Outcome                  |
+| ---- | ------------------------ |
+| 2    | Favour                   |
+| 3-6  | Favour with complication |
+| 7    | Complication             |
+| 8-11 | Sorrow                   |
+| 12   | Sorrow with complication |
+
+#### Focus
+
+| d10  | Result    |
+| ---- | --------- |
+| 1    | Delve     |
+| 2    | Protect   |
+| 3    | Ponder    |
+| 4    | Overcome  |
+| 5    | Surrender |
+| 6    | Observe   |
+| 7    | Endure    |
+| 8    | Prepare   |
+| 9    | Mourn     |
+| 10   | Stagger   |
+
+#### Emotion
+
+| d8   | Result        |
+| ---- | ------------- |
+| 1    | Wondrous      |
+| 2    | Hopeful       |
+| 3    | Contemplative |
+| 4    | Melancholy    |
+| 5    | Crestfallen   |
+| 6    | Forlorn       |
+| 7    | Wrathful      |
+| 8    | Bleak         |
+
+#### Rune
+
+| d20   | Rune | Old Norse | Name   |
+| ----- | ---- | --------- | ------ |
+| 1     | ᚠ    | fé        | wealth |
+| 2-3   | ᚢ    | úr        | iron   |
+| 4     | ᚦ    | Thurs     | jötunn |
+| 5-6   | ᚬ    | Aesir     | god    |
+| 7     | ᚱ    | reið      | ride   |
+| 8     | ᚴ    | kaun      | ulcer  |
+| 9     | ᚼ    | hagall    | hail   |
+| 10    | ᚾ    | nauðr     | need   |
+| 11    | ᛁ    | ísa       | ice    |
+| 12    | ᛅ    | ár        | plenty |
+| 13    | ᛋ    | sól       | sun    |
+| 14-15 | ᛏ    | Týr       | magic  |
+| 16    | ᛒ    | bjarkan   | birch  |
+| 17-18 | ᛘ    | maðr      | human  |
+| 19    | ᛚ    | lögr      | sea    |
+| 20    | ᛦ    | yr        | yew    |
+
+
+
+## Delve Generator
+
+Use when playing solo or as a Warden to generate an adventure or campaign.
+
+1.  Roll **d6** on the **Delve** table for dungeon **type**, **size, and bonfires**. Delve size varies but all have at least **10 encounters.** Note **delve size**.
+
+2.  Roll **d6** on the **Objectives** table.
+
+3.  Roll **d12** on the **Encounters** table in each new area.
+
+4.  When you first interact with a monster or NPC, roll **2d6** on **NPC Reactions**.
+
+5.  For dynamic enemies, roll **2d6** on the **Enemy Actions** table. Some enemies fight to the death (i.e. undead) but most flee when in danger.
+
+6.  Clear an area and reduce your **delve size** by 1. At 1, roll **d6** on the **Resolution** table to:
+
+    - Reach your **objective.**
+
+    - Find a **clue** to its location.
+
+    - Encounter a **setback** that halts your progress.
+
+Keep rolling encounters until you locate your objective. For every area cleared, roll on the **Resolution** table, with -1 for every **clue** and +1 for every **setback**. Delves fail after 4 setbacks.
+
+7.  Once you’ve located your objective, the real challenge begins.
+
+**Bonfires**
+
+Place one at the start of the delve and, depending on the dungeon size, 1 or 2 more throughout.
+
+###  Delve Table
+
+| d6   | Type       | Size | Bonfires |
+| ---- | ---------- | ---- | -------- |
+| 1    | Cairn      | 10   | 1        |
+| 2    | Outpost    | +d4  | 1        |
+| 3    | Ruins      | +d6  | 2        |
+| 4    | Village    | +d8  | 2        |
+| 5    | Cave       | +d12 | 3        |
+| 6    | Stronghold | +d20 | 3        |
+
+### Objectives
+
+***Explore.*** Investigate every room and successfully exit.
+
+***Retrieve.*** Locate a particular object and successfully exit with it.
+
+***Escort.*** Guide an individual to a particular location.
+
+***Infiltrate.*** Achieve the goal by stealth or charm and successfully exit.
+
+***Escape.*** Successfully exit the location while avoiding any dangers.
+
+***Rescue.*** Locate an individual and successfully exit with them.
+
+***Defend.*** Locate and protect an area, object, or person from attackers.
+
+***Hunt.*** Locate your target, pursue them through the dungeon, and successfully eliminate or retrieve them.
+
+***Cleanse.*** Locate and eradicate the specified infection or invasive element.
+
+***Slay.*** Defeat the specified target.
+
+Completing an objective rewards you with 1 Soul.
+
+#### Objectives Table
+
+| d6   | Cairn                                                        | Outpost                                                      | Ruins                                                        |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | **Retrieve** your family’s ancestral axe, stolen by a **draugr** and taken to a hostile land | **Escape** from a rival clan who’ve sworn to slay your entire family (**d6 warriors**) | **Explore** snowy ruins recently uncovered during a violent storm |
+| 2    | **Rescue** your nephew from a group of deranged cultists (**d4 scouts**) | **Defend** a solitary outpost from a roving band of d6 **skeletons** | **Infiltrate** and disrupt a hive of cultists binding a **fire jotunn** |
+| 3    | **Defend** your father’s remains from a vengeful rival       | **Hunt** a condemned prisoner escaped from your clan’s keep  | **Retrieve** a lost relic revealed to you in a dream         |
+| 4    | **Hunt** the **rock troll** that’s attacked your kin and fled to the family tomb | **Escort** a pair of travellers heading to exile in a hostile frontier | **Escape** a berserk colossus awoken by a fiend from a lost realm |
+| 5    | **Cleanse** the tomb of d4 forlorn **shades** yearning to rejoin the living | **Cleanse** a corrosive organism slowly absorbing the structure | **Cleanse** a ruined temple tainted by the touch of a mad god |
+| 6    | **Slay** the mad **dwarf** who believes this to be their keep | **Slay** a gang of d6 **scouts** who’ve seized a clan supply point | **Slay** a **stone demon** formed when your clan killed an elemental king |
+
+| d6   | Village                                                      | Cave                                                         | Stronghold                                                   |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | **Explore** a mysterious settlement that suddenly appeared in a nearby valley | **Retrieve** the body of a clan elder, stolen by a group of **draugr** | **Retrieve** the staff stolen from your clan seer and taken to a rival keep |
+| 2    | **Escort** an young **seer** to train under an unruly elder in a village of exiles | **Explore** the depths of a newly discovered cavern under your village | **Infiltrate** a mercenary group and convince them to join your side |
+| 3    | **Infiltrate** and disrupt a wedding ceremony joining two warring clans | **Escort** the spirit of an ancestor to the location of their demise | **Escape** the lost stronghold before the vampires awaken    |
+| 4    | **Rescue** a long-lost daughter now living with a family in a distant village | **Rescue** a group of children kidnapped by d4 dwarves and taken underground | **Rescue** a clan elder who was carried away drunk by the wife of an old rival |
+| 5    | **Defend** a village’s food stores from a starving band of d8 **berserkrs** | **Hunt** a pack of d8 wolves through their sprawling den     | **Hunt** an elf who attacked woodcutters before fleeing      |
+| 6    | **Slay** a **giant skeleton** animated from the remains of a slaughtered village | **Slay** a troll that’s terrorised your clan for decades     | **Slay** the treant worshipped by an enclave of druids       |
+
+#### Encounters Table
+
+| d12   | Encounter |
+| ----- | --------- |
+| 1     | Treasure  |
+| 2-4   | Mystery   |
+| 5-6   | Mundane   |
+| 7-9   | Obstacle  |
+| 10-12 | Conflict  |
+
+#### NPC Reactions Table
+
+| 2d6  | Reaction   |
+| ---- | ---------- |
+| 2    | Helpful    |
+| 3-5  | Talkative  |
+| 6-8  | Unsure     |
+| 9-11 | Unfriendly |
+| 12   | Hostile    |
+
+#### Enemy Actions Table
+
+| 2d6   | Action      | Notes                                                        |
+| ----- | ----------- | ------------------------------------------------------------ |
+| 2     | Disarm      | **Str** save or drop weapon/key item, action to retrieve.    |
+| 3-4   | Grab        | **Dex** save or lose **Reaction** for 1 turn.                |
+| 5-9   | Attack      | -                                                            |
+| 10-11 | Feint       | **Wit** save or waste a **Reaction** on a evading a false attack. |
+| 12    | Wild attack | **Spi** save or falter from ferocious attack, take **double damage.** |
+
+#### Resolution Table
+
+| d6   | Discovery | Roll Adjustment |
+| ---- | --------- | --------------- |
+| 1-2  | Objective | 0               |
+| 3-4  | Clue      | -1              |
+| 5-6  | Setback   | +1              |
+
+#### Delve Flow
+
+![](\public\delve_flowchart.jpg)
+
+
+
+## Encounters
+
+### Cairn Encounters Table
+
+| d6   | Treasure                                         | Mystery                                          | Mundane                               | Obstacle                                      | Conflict                                           |
+| ---- | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------- | --------------------------------------------- | -------------------------------------------------- |
+| 1    | Skull beacon (relic) enclosed in a dusty crevice | Ghost weeping in the corner                      | Yellowed candles melted to the base   | Low ceiling, slows movement                   | Shade stumbles reaching from the darkness          |
+| 2    | Skeleton key sitting atop broken bones           | Grinning skull laughs as you enter               | Broken skull missing jawbone          | Chasm in floor, Dex save to avoid             | Skeleton fallen in the corner rises and approaches |
+| 3    | *Scry* runestone carved into the walls           | Dim light shines from a crack in the stone       | Scattered flowers, faded and wilted   | Flooded passage, slows movement               | Bonewheel skeleton cartwheels near                 |
+| 4    | Bleached jawbone juts from skull                 | Sound of manic laughter from behind you          | Child’s wooden toy covered in cobwebs | Dense roots bar the path, halts movement      | Crouched draugr glares from the corner             |
+| 5    | Grave sword driven deep into the stone ground    | You surprise a grieving merchant                 | Long-rusted axe, blade badly dented   | Foul-smelling air, Str save to avoid retching | Shades (d4) emerge from the shadows                |
+| 6    | Kindled bale prepared in the corner              | Faint pine smell of juniper lingers for a moment | Tidy piles of clothes and beads       | Clustered spores, Dex save to avoid poison    | Two draugr locked in combat                        |
+
+### Outpost Encounters Table
+
+| d6   | Treasure                                         | Mystery                                                | Mundane                                            | Obstacle                                                     | Conflict                                            |
+| ---- | ------------------------------------------------ | ------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| 1    | Iron ring adorns a smashed skeletal arm          | Huddled form hiding in the corner                      | Faded bedrolls and discarded clothing              | Fallen beam halts movement until cleared                     | Startled Warrior sharpens their axe                 |
+| 2    | Weary skald teaches you Hörgr saga (*sanctuary*) | Weary group of exiles take shelter                     | Mud-spattered cloak hangs, tattered and worn       | Starving dogs bark menacingly, Spi save to calm              | Scout re-strings their bow, knives sheathed         |
+| 3    | Fire oil tucked underneath tattered bedroll      | Two armoured ghosts locked in combat                   | Discarded chainmail, rusted and dented             | Floor gives way, Dex save to avoid falling                   | Mad skald screams as you enter                      |
+| 4    | Sacred waters wrapped inside threadbare blanket  | Ancient seer reads by candlelight, eyes glowing white  | Cold fire pit with dried out chicken bones         | Bones strung up crudely, Wit save to untangle without alarm  | Wolves (d4) fight over a fresh deer carcass         |
+| 5    | Dried apple inside a faded leather pouch         | Shimmering blue portal flickers and vanishes           | Scattered spear shafts lying beside dull iron tips | Broken wall reveals sleeping sentry, Dex save to pass unseen | Lone cloaked elf stalks the perimeter, swords drawn |
+| 6    | Ash spear hidden behind a dense door             | Room begins to fill with harmless spectral green flame | Empty mead jugs, sticky and sweet-smelling         | Discarded furniture and debris slows movement                | Warriors (d4) laugh and drink watery ale            |
+
+### Ruins Encounters Table
+
+| d6   | Treasure                                                     | Mystery                                                      | Mundane                                                     | Obstacle                                                     | Conflict                                                 |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 1    | ***Sleep\*** runestone partially covered by human bones      | Hoof prints seared into the stone ground                     | Piles of broken bones and picked carcasses                  | Enormous nest built from debris blocks passage               | Rock troll dozes next to a corpse in a shallow grave     |
+| 2    | Breaking maul discarded with broken haft                     | Spectral arm waves from a stone wall                         | Remains of a crude camp-site, shredded bedroll              | Obvious falling rock trap, Dex save (d10 Dex)                | Dwarf examines ancient carvings on a low wall            |
+| 3    | Leather hood on the corpse of a long-dead hunter             | Your exact double appears, shrieks, and runs away            | Young fox sniffs at a crack in the walls, then flees        | Yawning rock pool slows movement                             | Wolves (d4) protecting cubs in their den                 |
+| 4    | Whispering voice fills your mind with Hlátr saga (*laughter*) | An old man in a broad hat smoking a pipe greets you          | Brilliant wildflowers spread wild from a cracked wall       | Unstable ceiling trembles with motion, Dex save to avoid collapse | Cultists (d4) scry with fresh entrails, seeking answers  |
+| 5    | Leather rucksack buried crudely, contents dust               | Enormous spectral elk bounds into view                       | Wind whistles through a gap in the stone floor              | Hundreds of fat spiders cling to the walls                   | Treant guards green growth, long limbs crossed           |
+| 6    | Mistletoe Dart (relic) embedded in the stone ceiling         | Craggy stone walls fade from sight, replaced with a lush forest | Water drips from a gap in the roof, turning the stone green | Viscous mud slows movement, Str save to navigate             | Troll tears chunks out of the stone walls, forming tools |
+
+### Village Encounters Table
+
+| d6   | Treasure                                                 | Mystery                                                    | Mundane                                           | Obstacle                                                     | Conflict                                             |
+| ---- | -------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 1    | Effigy stone (Bjarn, berserkr) swaddled gently           | Shrouded headless figure turns to face you                 | An old woman knits and eats dried fish            | Hungry dog looks at you with baleful eyes                    | Bandits (scout)roam and pilfer the village           |
+| 2    | Blacksmith hammer resting on an ancient and pitted anvil | The shadow of an enormous wolf falls over you              | Salted meat hanging from the ceiling              | Wandering sheep block the way, slowing movement              | Mad warrior stripped to the waist wields a broad axe |
+| 3    | Sack filled with dried grains and salt                   | Spindly man floats down from the sky                       | Sunken fire pit glows with dull embers            | Group of locals block your path                              | Skeleton pulls itself out of a shallow grave         |
+| 4    | Delicate lockpicks in oiled pouch                        | A longhouse flickers and vanishes                          | Ringing of iron on an anvil and the hiss of water | River burst its banks, flooding the path                     | Pyre blacksmith sits crestfallen beside cold forge   |
+| 5    | Chain mail covered in blood and wrapped in linen         | A luminous, tentacle emerges dripping from a wooden bucket | Two fishermen with cod slung on their shoulders   | Eerie merchant accosts you, offering to show you their wares | Seer with *haste* runestone patrols the area         |
+| 6    | Lifs né dauða saga (*rebirth*), spoken by raven          | A cluster of cats runs by, each one with 3 tails           | Thin, flea-bitten, and well-ridden horse whinnies | Structures blur, Wit save to keep direction                  | Cultists (d6) summon a dread being                   |
+
+### Cave Encounters Table
+
+| d6   | Treasure                                                 | Mystery                                                    | Mundane                                           | Obstacle                                                     | Conflict                                             |
+| ---- | -------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 1    | Effigy stone (Bjarn, berserkr) swaddled gently           | Shrouded headless figure turns to face you                 | An old woman knits and eats dried fish            | Hungry dog looks at you with baleful eyes                    | Bandits (scout)roam and pilfer the village           |
+| 2    | Blacksmith hammer resting on an ancient and pitted anvil | The shadow of an enormous wolf falls over you              | Salted meat hanging from the ceiling              | Wandering sheep block the way, slowing movement              | Mad warrior stripped to the waist wields a broad axe |
+| 3    | Sack filled with dried grains and salt                   | Spindly man floats down from the sky                       | Sunken fire pit glows with dull embers            | Group of locals block your path                              | Skeleton pulls itself out of a shallow grave         |
+| 4    | Delicate lockpicks in oiled pouch                        | A longhouse flickers and vanishes                          | Ringing of iron on an anvil and the hiss of water | River burst its banks, flooding the path                     | Pyre blacksmith sits crestfallen beside cold forge   |
+| 5    | Chain mail covered in blood and wrapped in linen         | A luminous, tentacle emerges dripping from a wooden bucket | Two fishermen with cod slung on their shoulders   | Eerie merchant accosts you, offering to show you their wares | Seer with *haste* runestone patrols the area         |
+| 6    | Lifs né dauða saga (*rebirth*), spoken by raven          | A cluster of cats runs by, each one with 3 tails           | Thin, flea-bitten, and well-ridden horse whinnies | Structures blur, Wit save to keep direction                  | Cultists (d6) summon a dread being                   |
+
+### Stronghold Encounters Table
+
+| d6   | Treasure                                                 | Mystery                                                    | Mundane                                           | Obstacle                                                     | Conflict                                             |
+| ---- | -------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 1    | Effigy stone (Bjarn, berserkr) swaddled gently           | Shrouded headless figure turns to face you                 | An old woman knits and eats dried fish            | Hungry dog looks at you with baleful eyes                    | Bandits (scout)roam and pilfer the village           |
+| 2    | Blacksmith hammer resting on an ancient and pitted anvil | The shadow of an enormous wolf falls over you              | Salted meat hanging from the ceiling              | Wandering sheep block the way, slowing movement              | Mad warrior stripped to the waist wields a broad axe |
+| 3    | Sack filled with dried grains and salt                   | Spindly man floats down from the sky                       | Sunken fire pit glows with dull embers            | Group of locals block your path                              | Skeleton pulls itself out of a shallow grave         |
+| 4    | Delicate lockpicks in oiled pouch                        | A longhouse flickers and vanishes                          | Ringing of iron on an anvil and the hiss of water | River burst its banks, flooding the path                     | Pyre blacksmith sits crestfallen beside cold forge   |
+| 5    | Chain mail covered in blood and wrapped in linen         | A luminous, tentacle emerges dripping from a wooden bucket | Two fishermen with cod slung on their shoulders   | Eerie merchant accosts you, offering to show you their wares | Seer with *haste* runestone patrols the area         |
+| 6    | Lifs né dauða saga (*rebirth*), spoken by raven          | A cluster of cats runs by, each one with 3 tails           | Thin, flea-bitten, and well-ridden horse whinnies | Structures blur, Wit save to keep direction                  | Cultists (d6) summon a dread being                   |
+
+## Cooperation
+
+The world of **Runecairn** can be a solitary one, but a helping hand can be a ray of hope in even the darkest place.
+
+If you want to traverse the world with a friend by your side, seek out an **effigy stone**.
+
+### Summoning an ally
+
+When resting at a bonfire, you can use an **effigy stone** to call out to a fallen hero and summon them for aid at the cost of **1 Vigour**.
+
+Effigy stones are exceedingly rare and finding one is an adventure itself. Each stone corresponds to a specific hero, as their name and history is carved upon the limestone figure.
+
+The effigy stone reaches out across the realms and summons a physical manifestation of the hero’s spirit, who joins the Adventurer at the bonfire.
+
+Summoned allies can be past or future Adventurers run by a **2nd player** or an additional **hero** controlled by the **player**.
+
+### Combat and healing
+
+The summoned ally fights alongside the Adventurer. When attacking the same target, roll damage for both attackers and take the higher result.
+
+On enemy turns, the Warden states the target for each attack, giving each Adventurer an opportunity for a **Reaction**.
+
+Summoned allies have flasks with **1 sip of mead**, refilled as normal at bonfires.
+
+###  Death and rebirth
+
+Summoned allies are tied to the Adventurer who summoned them. If the **Adventurer** dies, the summoned ally returns to their home.
+
+They can be summoned again in the same manner, but with the same cost.
+
+The ally’s physical body is a mortal shape. If a **summoned ally** dies, their spirit dissipates into mist and they return home.
+
+During combat the Adventurer can cry out to the old gods and **sacrifice** **1 Vigour** to revive their summoned ally.
+
+
+
+## Invasions
+
+Just as there are benevolent heroes across the realms willing to help out an adventurer in need, so are there malevolent forces who seek to sow chaos and destruction.
+
+A **black fetch** invades an adventurer’s world and stalks them, seeking to strip their humanity and vigour.
+
+### Black fetch
+
+Much like summoned allies, a **black fetch** is a physical manifestation of a spectral form, often the crestfallen spirit of a dead adventurer or projection of a powerful figure from another realm.
+
+A black fetch can be a fallen Adventurer run by a **2nd player** or dark spirit controlled by the **Warden**.
+
+Consider confronting a player with a previously slain Adventurer or NPC returned as a black fetch.
+
+### Combat, healing, and death
+
+Fetches follow the same rules as **summoned allies** and also have a mead flask with 1 sip.
+
+Fetches continue to invade in the same area unless defeated. As they are spectral beings and do not fear death, they do not flee from combat.
+
+When a black fetch is defeated, their spectral form dissipates and their spirit is forever banished from the area.
+
+### Repelling an invader
+
+If a black fetch is successfully defeated, they reward **1 Soul** or an important item they held in life, such as a weapon, spell, or relic.
+
+**Safety check**
+
+As with any situation with potential conflict between players, check with everyone at the table first. Is everyone aware of the possible player vs. player scenario and comfortable with combat between players? If not, reconsider Invasions.
+
+
+
+## Adventurer Options
+
+### Names Table
+
+| d100 | Name      | d100 | Name      |
+| ---- | --------- | ---- | --------- |
+| 1    | Åge       | 51   | Katla     |
+| 2    | Alvar     | 52   | Ketill    |
+| 3    | Anna      | 53   | Knud      |
+| 4    | Anri      | 54   | Kristín   |
+| 5    | Ari       | 55   | Kristján  |
+| 6    | Arne      | 56   | Leif      |
+| 7    | Arnkatla  | 57   | Lind      |
+| 8    | Åse       | 58   | Liv       |
+| 9    | Astrid    | 59   | Logi      |
+| 10   | Auður     | 60   | Lukka     |
+| 11   | Birger    | 61   | Magnús    |
+| 12   | Bjørn     | 62   | Margrét   |
+| 13   | Bo        | 63   | María     |
+| 14   | Bodil     | 64   | Njal      |
+| 15   | Darri     | 65   | Nói       |
+| 16   | Edda      | 66   | Ødger     |
+| 17   | Einar     | 67   | Ólafur    |
+| 18   | Emil      | 68   | Orri      |
+| 19   | Erik      | 69   | Randi     |
+| 20   | Estrid    | 70   | Revna     |
+| 21   | Flóki     | 71   | Roar      |
+| 22   | Flosi     | 72   | Rune      |
+| 23   | Freyja    | 73   | Saga      |
+| 24   | Frida     | 74   | Salvar    |
+| 25   | Frode     | 75   | Sif       |
+| 26   | Funi      | 76   | Sigmar    |
+| 27   | Gertrud   | 77   | Signe     |
+| 28   | Gorm      | 78   | Sigrid    |
+| 29   | Gro       | 79   | Sigríður  |
+| 30   | Guðmundr  | 80   | Sigrún    |
+| 31   | Guðrún    | 81   | Skarde    |
+| 32   | Gunhild   | 82   | Stefán    |
+| 33   | Gunnar    | 83   | Sten      |
+| 34   | Halfdan   | 84   | Sune      |
+| 35   | Hallbera  | 85   | Sunna     |
+| 36   | Harald    | 86   | Svend     |
+| 37   | Harpa     | 87   | Thurid    |
+| 38   | Hekla     | 88   | Þuríður   |
+| 39   | Helgi     | 89   | Thyra     |
+| 40   | Hilda     | 90   | Toke      |
+| 41   | Hilmir    | 91   | Tora      |
+| 42   | Hrefna    | 92   | Torsten   |
+| 43   | Inga      | 93   | Tove      |
+| 44   | Ingibjörg | 94   | Troels    |
+| 45   | Ingólfur  | 95   | Trygve    |
+| 46   | Jóhanna   | 96   | Ulfhild   |
+| 47   | Jón       | 97   | Valgerður |
+| 48   | Kaðlín    | 98   | Vilmar    |
+| 49   | Kåre      | 99   | Von       |
+| 50   | Karitas   | 100  | Yrsa      |
+
+**Physique**
+
+| d10  | Physique   | d10  | Physique   |
+| ---- | ---------- | ---- | ---------- |
+| 1    | Athletic   | 6    | Slim       |
+| 2    | Brawny     | 7    | Short      |
+| 3    | Diminutive | 8    | Statuesque |
+| 4    | Lanky      | 9    | Stout      |
+| 5    | Rugged     | 10   | Towering   |
+
+**Skin**
+
+| d10   | Skin       | d10    | Skin      |
 | ----- | ---------- | ------ | --------- |
 | **1** | Birthmark  | **6**  | Rough     |
 | **2** | Drawn      | **7**  | Smooth    |
-| **3** | Elongated  | **8**  | Freckled  |
+| **3** | Mottled    | **8**  | Freckled  |
 | **4** | Pockmarked | **9**  | Scarred   |
 | **5** | Rosy       | **10** | Weathered |
 
-| Hair  |         |        |           |
+**Hair**
+
+| d10   | Hair    | d10    | Hair      |
 | ----- | ------- | ------ | --------- |
 | **1** | Shaved  | **6**  | Flowing   |
 | **2** | Braided | **7**  | Luxurious |
@@ -1298,7 +1852,9 @@ A few examples:
 | **4** | Matted  | **9**  | Wavy      |
 | **5** | Frizzy  | **10** | Wispy     |
 
-| Face  |           |        |             |
+**Face**
+
+| d10   | Face      | d10    | Face        |
 | ----- | --------- | ------ | ----------- |
 | **1** | Bony      | **6**  | Symmetrical |
 | **2** | Damaged   | **7**  | Fierce      |
@@ -1306,43 +1862,51 @@ A few examples:
 | **4** | Elongated | **9**  | Square      |
 | **5** | Pale      | **10** | Sunken      |
 
-| Speech |         |        |          |
-| ------ | ------- | ------ | -------- |
-| **1**  | Blunt   | **6**  | Gravelly |
-| **2**  | Booming | **7**  | Precise  |
-| **3**  | Cryptic | **8**  | Squeaky  |
-| **4**  | Droning | **9**  | Eloquent |
-| **5**  | Formal  | **10** | Whispery |
+**Voice**
 
-| Virtue |             |        |            |
-| ------ | ----------- | ------ | ---------- |
-| **1**  | Ambitious   | **6**  | Honourable |
-| **2**  | Cautious    | **7**  | Humble     |
-| **3**  | Courageous  | **8**  | Merciful   |
-| **4**  | Disciplined | **9**  | Serene     |
-| **5**  | Gregarious  | **10** | Tolerant   |
+| d10   | Voice   | d10    | Voice    |
+| ----- | ------- | ------ | -------- |
+| **1** | Blunt   | **6**  | Gravelly |
+| **2** | Booming | **7**  | Precise  |
+| **3** | Cryptic | **8**  | Squeaky  |
+| **4** | Droning | **9**  | Eloquent |
+| **5** | Formal  | **10** | Whispery |
 
-| Vice  |            |        |          |
-| ----- | ---------- | ------ | -------- |
+**Virtue**
+
+| d10   | Virtue      | d10    | Virtue     |
+| ----- | ----------- | ------ | ---------- |
+| **1** | Ambitious   | **6**  | Honourable |
+| **2** | Cautious    | **7**  | Humble     |
+| **3** | Courageous  | **8**  | Merciful   |
+| **4** | Disciplined | **9**  | Serene     |
+| **5** | Gregarious  | **10** | Tolerant   |
+
+**Vice**
+
+| d10   | Vice       | d10    | Vice     |
+| :---- | ---------- | ------ | -------- |
 | **1** | Aggressive | **6**  | Lazy     |
 | **2** | Bitter     | **7**  | Nervous  |
 | **3** | Craven     | **8**  | Rude     |
 | **4** | Deceitful  | **9**  | Vain     |
 | **5** | Greedy     | **10** | Vengeful |
 
-### Icelandic Pronunciation Guide
+
+
+### Pronunciation Guide
+
+Icelandic is close to Old Norse in structure but different in pronunciation. For simplicity, Icelandic spelling and pronunciation is used for non-English words in this text.
 
 | Letter | Explanation                                                  |
 | ------ | ------------------------------------------------------------ |
-| Á      | is like "ou" in "house", "about" and "shout"                 |
-| Ð      | is like "th" in "feather", "father" and "that", but as the last letter of a word it is like "th" in |
-| É      | same as English "yay"                                        |
-| Í      | like an English "ee" and the "i" in "Maria" and the "y" in "diary" |
-| Ó      | is like "o" in "sole" and like "oa" in "goat" and "soap"     |
-| Ú      | like English "oo" as in "zoo"                                |
-| Ý      | exactly like Icelandic "í", it's only a matter of spelling   |
-| Þ      | like English "th" in "thunder", "theatre" and "thong"        |
-| Æ      | is like the name of the letter "i" in English or the sound of the letters "ai" in the words "Thai food". Hi/hæ & bye/bæ are the same in English and Icelandic. |
-| Ö      | like German "ö" and English "u" in "urgent" or "fur". Equivalent to English "e" as in "bed", but with the lips rounded. |
-
-Please note, modern Icelandic is close to Old Norse in structure but different in pronunciation. For simplicity, the Icelandic spelling and pronunciation is used for non-English words in this text.
+| Á      | “ou” in “house,” “about” and “shout.”                        |
+| Ð      | “th” in “feather,” “father” and “that,” but as the last letter of a word it is like “th” in “thin.” |
+| É      | same as English “yay.”                                       |
+| Í      | an English “ee” and the “i” in “Maria” and the “y” in “diary.” |
+| Ó      | “o” in “sole” and like “oa” in “goat” and “soap.”            |
+| Ú      | English “oo” as in “zoo.”                                    |
+| Ý      | Icelandic “í,” it's only a matter of spelling.               |
+| Þ      | English “th” in “thunder”, “theatre” and “thong.”            |
+| Æ      | the name of the letter “i” in English or the sound of the letters “ai” in the words “Thai food.” Hi/hæ & bye/bæ are the same in English and Icelandic. |
+| Ö      | German “ö” and English “u” in “urgent” or “fur.” Equivalent to English "e" as in “bed,” but with the lips rounded. |
