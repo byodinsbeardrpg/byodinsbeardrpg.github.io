@@ -13,22 +13,30 @@ nav_order: 2
 Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
 **[Runecairn System Reference Document](#runecairn-system-reference-document)**
+
 [Overview](#overview)
 	[What is Runecairn?](#what-is-runecairn?)
 	[Design Philosophy](#design-philosophy)
 	[Adventures](#adventures)
+
 [Principles of the Warden](#principles-of-the-warden)
 	[Die of Fate](#die-of-fate)
+
 [Principles for the Player](#principles-for-the-player)
+
 [Principles of the World](#principles-of-the-world)
 	[The Viking Age](#the-viking-age)
+	
 [Adventurer Creation](#adventurer-creation)
+
 [Backgrounds](#backgrounds)
 	[Warrior](#warrior)
 	[Skald](#skald)
 	[Scout](#scout)
 	[Seer](#seer)
+
 [Adventurer Creation Example](#adventurer-creation-example)
+
 [Concepts of Play](#concepts-of-play)
 	[Background](#background)
 	[Saves](#saves)
@@ -45,6 +53,7 @@ Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byod
 	[Spending souls](#spending-souls)
 	[Trade & merchants](#trade-&-merchants)
 	[Wealth & treasure](#wealth-&-treasure)
+
 [Items & Equipment](#items-&-equipment)
 	[Armour](#armour)
 	[Armour Table](#armour-table)
@@ -55,6 +64,7 @@ Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byod
 	[Equipment skills](#equipment-skills)
 	[Items](#items)
 	[Item Table](#item-table)
+
 [Combat](#combat)
 	[Rounds](#rounds)
 	[Actions](#actions)
@@ -70,21 +80,27 @@ Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byod
 	[Death Consequences](#death-consequences)
 	[Omens](#omens)
 	[Omens Table](#omens-table)
+
 [Combat Example](#combat-example)
+
 [Magic](#magic)
 	[Scrolls](#scrolls)
 	[Casting spells](#casting-spells)
 	[Relics](#relics)
 	[Rings](#rings)
+
 [Spell Lists](#spell-lists)
 	[Seer Spells](#seer-spells)
 	[Skald Sagas](#skald-sagas)
 	[Flame Runes](#flame-runes)
+
 [Advanced Rules](#advanced-rules)
 	[Introduction](#introduction)
+
 [Advanced Backgrounds](#advanced-backgrounds)
 	[Berserkr](#berserkr)
 	[Pyre](#pyre)
+
 [Solo Play](#solo-play)
 	[Journalling](#journalling)
 	[Favour or Sorrow](#favour-or-sorrow)
@@ -93,6 +109,7 @@ Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byod
 	[Focus](#focus)
 	[Emotion](#emotion)
 	[Rune](#rune)
+
 [Delve Generator](#delve-generator)
 	[Delve Table](#delve-table)
 	[Objectives](#objectives)
@@ -101,6 +118,7 @@ Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byod
 	[NPC Reactions Table](#npc-reactions-table)
 	[Enemy Actions Table](#enemy-actions-table)
 	[Resolution Table](#resolution-table)
+
 [Encounters](#encounters)
 	[Cairn Encounters Table](#cairn-encounters-table)
 	[Outpost Encounters Table](#outpost-encounters-table)
@@ -108,17 +126,22 @@ Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byod
 	[Village Encounters Table](#village-encounters-table)
 	[Cave Encounters Table](#cave-encounters-table)
 	[Stronghold Encounters Table](#stronghold-encounters-table)
+
 [Cooperation](#cooperation)
 	[Summoning an ally](#summoning-an-ally)
 	[Combat and healing](#combat-and-healing)
 	[Death and rebirth](#death-and-rebirth)
+
 [Invasions](#invasions)
 	[Black fetch](#black-fetch)
 	[Combat, healing, and death](#combat-healing-and-death)
 	[Repelling an invader](#repelling-an-invader)
+
 [Adventurer Options](#adventurer-options)
 	[Names Table](#names-table)
 	[Pronunciation Guide](#pronunciation-guide)
+
+
 
 ##  Overview
 
@@ -149,83 +172,56 @@ For **solo play** or for two or more Adventurers, please see **Advanced Rules**.
 What type of adventures can a player character expect?
 
 - **Defend** an isolated village against roving invaders.
-
 - **Hunt** a monstrous creature stealing lost children.
-
 - **Reclaim** a family cairn overwhelmed by the hungry dead.
-
 - **Retrieve** a powerful relic lost in the frozen mountains.
-
 - **Confront** a raging jotunn blocking supplies reaching a remote settlement.
-
 - **Broker** peace between warring clans.
-
 - **Protect** a caravan journey travelling through dangerous territory.
-
 - **Infiltrate** a secretive cult worshipping forgotten gods.
-
 - **Explore** newly discovered lands in search of a mythical beast.
-
-
 
 ## Principles of the Warden
 
 **Information**
 
 - Provide useful information about the game world as characters explore.
-
 - The player doesn’t need to roll dice to learn about their circumstances.
-
 - Be helpful and direct when answering player questions.
-
 - Respond honestly, describe consistently, and let them know they can ask questions.
 
 **Difficulty**
 
 - Default to context and realism rather than numbers and mechanics.
-
 - If something the player wants to do is impossible, no roll can change this.
-
 - Does the player’s approach to a situation make sense? Let it happen.
-
 - Saves cover many uncertain situations and are often all that is necessary for risky actions.
 
 **Preparation**
 
 - The world is malleable and random— it intuits and makes sharp turns.
-
 - Use random tables and generators to develop choices, not stories or plots.
-
 - NPCs remember what the Adventurers say and do.
-
 - Infuse NPCs’ self-interest and will to live into their personality.
 
 **Narrative Focus**
 
 - Emergent experience matters, not maths or Adventurer skills. Provide weapon trainers and personal quests to foster improvement and specialisation.
-
 - Observe player needs and wants, then provide realistic opportunities.
-
 - A dagger to the throat is fatal, regardless of armour or training.
 
 **Danger**
 
 - The game world produces real risk of pain and death.
-
 - Telegraph danger when present. The more dangerous, the more obvious.
-
 - Put traps in plain sight and let players generate a solution.
-
 - Provide chances to solve problems and interact with the world.
 
 **Choice**
 
 - Provide a solid choice forcing outcomes when the situation lulls.
-
 - Use binary “so, A or B?” questions responding to vague intentions.
-
 - Collaborate the conversational progress, keeping the game moving.
-
 - Ensure Adventurer actions leave their mark on the world.
 
 ### Die of Fate
@@ -233,8 +229,6 @@ What type of adventures can a player character expect?
 - Occasionally you want an element of randomness (for changing weather, unique character knowledge, roadside encounters, etc.):
 
 - Roll d6: 3 or less favours the player, 4 or more means bad luck.
-
-
 
 ## Principles for the Player
 
@@ -278,74 +272,55 @@ What type of adventures can a player character expect?
 **The Nine Realms**
 
 - The battle of Ragnarok is over, the worlds long broken.
-
 - Danger and wonder is everywhere.
-
 - Echoes of the old world remain.
-
 - Travel into other realms is perilous.
 
 **The Gods**
 
 - The Aesir and the Vanir are dead or missing.
-
 - Mjölnir is lost and Gungnir is broken.
-
 - The Jotunn are scattered, most fled to Jotunheim or realms unknown.
 
 **The Titans**
 
 - The Sons of Fenrir wander hungry and feral.
-
 - Jörmungandr is dead, their skeleton long picked clean.
-
 - Strange new titans roam unchallenged and dominant.
 
 **Magic**
 
 - Magic is wild and unpredictable, with behaviour changing from one realm to another.
-
 - The use of magic draws unwanted attention.
 
 **Bonfires**
 
 - The light of a bonfire always leads you to safety.
-
 - Bonfires link the Nine Realms.
-
 - The flames of a bonfire never dwindle.
-
 - Bonfires are kindled by the dead.
 
 **Secrets**
 
 - Secrets are worth seeking out but all are well guarded and dangerous.
-
 - Each secret reveals more of the world.
-
 - Some mysteries can never be solved.
 
 **Defeat**
 
 - When one path leads to defeat, try another.
-
 - Some obstacles cannot be overcome immediately.
-
 - With every failure comes new knowledge and opportunities.
 
 **Death**
 
 - Spirits gather in places of the dead.
-
 - Remnants of the wars wander as shades, all humanity lost.
-
 - Death is not the end.
 
 ### The Viking Age
 
 Though inspired by the actual Viking Age (roughly 800-1200 CE), the realms of Runecairn exist in a Norse fantasy world brimming with mythology and folklore, ever changing and evolving.
-
-
 
 ## Adventurer Creation
 
@@ -388,8 +363,6 @@ Provides **initial equipment** and **skills.**
 Each background has a **key ability** and **key item**. Your key item adds new **skills**. Change your playstyle by picking up a new key item, if you meet the requirements.
 
 You can only carry **1** key item at a time.
-
-
 
 ##  Backgrounds
 
