@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: SRD
 nav_order: 2
 ---
@@ -12,7 +12,7 @@ nav_order: 2
 
 Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
-[toc]
+
 
 ##  Overview
 
