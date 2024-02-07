@@ -10,7 +10,7 @@ nav_order: 2
 - Text © Colin Le Sueur 2024, licensed under **CC BY-SA 4.0**.
 - **Runecairn** is based on **Cairn** by **Yochai Gal**.
 
-Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
+Online resources: [runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
 
 
@@ -1576,7 +1576,7 @@ Completing an objective rewards you with 1 Soul.
 
 ### Delve Flow
 
-![](\public\delve_flowchart.jpg)
+<img style="zoom:50%" src="\public\delve_flowchart.jpg">
 
 
 
