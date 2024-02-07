@@ -8,12 +8,117 @@ nav_order: 2
 - **Version**: 3.0
 - **Writing and Design:** Colin Le Sueur
 - Text © Colin Le Sueur 2024, licensed under **CC BY-SA 4.0**.
-
 - **Runecairn** is based on **Cairn** by **Yochai Gal**.
 
 Online resources: [https://runecairn.byodinsbeardrpg.com](https://runecairn.byodinsbeardrpg.com)
 
-[TOC]
+[**Runecairn System Reference Document**](#runecairn-system-reference-document)
+[Overview](#overview)
+	[What is Runecairn?](#what-is-runecairn?)
+	[Design Philosophy](#design-philosophy)
+	[Adventures](#adventures)
+[Principles of the Warden](#principles-of-the-warden)
+	[Die of Fate](#die-of-fate)
+[Principles for the Player](#principles-for-the-player)
+[Principles of the World](#principles-of-the-world)
+	[The Viking Age](#the-viking-age)
+[Adventurer Creation](#adventurer-creation)
+[Backgrounds](#backgrounds)
+	[Warrior](#warrior)
+	[Skald](#skald)
+	[Scout](#scout)
+	[Seer](#seer)
+[Adventurer Creation Example](#adventurer-creation-example)
+[Concepts of Play](#concepts-of-play)
+	[Background](#background)
+	[Saves](#saves)
+	[Resilience (Res)](#resilience-(res))
+	[Defence (Def)](#defence-(def))
+	[Mead flask & healing](#mead-flask-&-healing)
+	[Inventory](#inventory)
+	[Status effects](#status-effects)
+	[Fatigue](#fatigue)
+	[Clearing fatigue](#clearing-fatigue)
+	[Bonfires](#bonfires)
+	[Death](#death)
+	[Souls](#souls)
+	[Spending souls](#spending-souls)
+	[Trade & merchants](#trade-&-merchants)
+	[Wealth & treasure](#wealth-&-treasure)
+[Items & Equipment](#items-&-equipment)
+	[Armour](#armour)
+	[	Armour Table](#armour-table)
+	[Shields](#shields)
+	[	Shield Table](#shield-table)
+	[Weapons](#weapons)
+	[	Weapon Table](#weapon-table)
+	[Equipment skills](#equipment-skills)
+	[Items](#items)
+	[	Item Table](#item-table)
+[Combat](#combat)
+	[Rounds](#rounds)
+	[Actions](#actions)
+	[Reactions](#reactions)
+	[Turns](#turns)
+	[Attacking & damage](#attacking-&-damage)
+	[Attack modifiers](#attack-modifiers)
+	[Damage modifiers](#damage-modifiers)
+	[Dire strike](#dire-strike)
+	[Blast](#blast)
+	[Ability score loss](#ability-score-loss)
+	[Critical damage](#critical-damage)
+	[Death Consequences](#death-consequences)
+	[Omens](#omens)
+	[	Omens Table](#omens-table)
+[Combat Example](#combat-example)
+[Magic](#magic)
+	[Scrolls](#scrolls)
+	[Casting spells](#casting-spells)
+	[Relics](#relics)
+	[Rings](#rings)
+[Spell Lists](#spell-lists)
+	[Seer Spells](#seer-spells)
+	[Skald Sagas](#skald-sagas)
+	[Flame Runes](#flame-runes)
+[Advanced Rules](#advanced-rules)
+	[Introduction](#introduction)
+[Advanced Backgrounds](#advanced-backgrounds)
+	[Berserkr](#berserkr)
+	[Pyre](#pyre)
+[Solo Play](#solo-play)
+	[Journalling](#journalling)
+	[Favour or Sorrow](#favour-or-sorrow)
+	[Reading the Runes](#reading-the-runes)
+	[	Favour or Sorrow Table](#favour-or-sorrow-table)
+	[	Focus](#focus)
+	[	Emotion](#emotion)
+	[	Rune](#rune)
+[Delve Generator](#delve-generator)
+	[Delve Table](#delve-table)
+	[Objectives](#objectives)
+	[	Objectives Table](#objectives-table)
+	[	Encounters Table](#encounters-table)
+	[	NPC Reactions Table](#npc-reactions-table)
+	[	Enemy Actions Table](#enemy-actions-table)
+	[	Resolution Table](#resolution-table)
+[Encounters](#encounters)
+	[Cairn Encounters Table](#cairn-encounters-table)
+	[Outpost Encounters Table](#outpost-encounters-table)
+	[Ruins Encounters Table](#ruins-encounters-table)
+	[Village Encounters Table](#village-encounters-table)
+	[Cave Encounters Table](#cave-encounters-table)
+	[Stronghold Encounters Table](#stronghold-encounters-table)
+[Cooperation](#cooperation)
+	[Summoning an ally](#summoning-an-ally)
+	[Combat and healing](#combat-and-healing)
+	[Death and rebirth](#death-and-rebirth)
+[Invasions](#invasions)
+	[Black fetch](#black-fetch)
+	[Combat, healing, and death](#combat-healing-and-death)
+	[Repelling an invader](#repelling-an-invader)
+[Adventurer Options](#adventurer-options)
+	[Names Table](#names-table)
+	[Pronunciation Guide](#pronunciation-guide)
 
 ##  Overview
 
@@ -1000,7 +1105,7 @@ If any **ability scores** are reduced to 0, you die. Abilities reset when restin
 
 - Adventurers, NPCs, and monsters are all subject to critical damage.
 
-###  Death
+###  Death Consequences
 
 On death, you wake up at the last bonfire rested at. You keep all inventory items but drop **souls** where you died.
 
@@ -1153,7 +1258,7 @@ Similar to runestones and sagas, however:
 
 - They disappear after one use.
 
-### Casting spells
+### [Casting spells](#casting-spells)
 
 **Seers** cast spells by holding a runestone in one hand and a staff in the other. They read the spell from the runestone and focus the magic through the staff.
 
@@ -1441,7 +1546,7 @@ She rolls 3 dice: **d10** for **Focus** (4, *Overcome*), **d8** for **Emotion** 
 
 This gives her *Overcome Forlorn Ice*. She interprets this as a sign to ignore the fear in her heart and approach the cursed head with an open mind.
 
-#### Favour or Sorrow
+#### Favour or Sorrow Table
 
 | 2d6  | Outcome                  |
 | ---- | ------------------------ |
@@ -1625,7 +1730,7 @@ Completing an objective rewards you with 1 Soul.
 | 3-4  | Clue      | -1              |
 | 5-6  | Setback   | +1              |
 
-#### Delve Flow
+### Delve Flow
 
 ![](\public\delve_flowchart.jpg)
 
