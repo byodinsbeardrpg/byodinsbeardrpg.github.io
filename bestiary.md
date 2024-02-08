@@ -916,7 +916,7 @@ Use the following template for modelling any new monster or NPC:
 
 #### Name
 
-X **Res** | X **Def** | X **Str** | X **Dex** | X **Wit** | X **Spi** | Xft | weapon or special ability (dX, qualities)
+###### X **Res** | X **Def** | X **Str** | X **Dex** | X **Wit** | X **Spi** | Xft | weapon or special ability (dX, qualities)
 
 - Evocative description.
 - Behaviour, location, and/or quirks.
