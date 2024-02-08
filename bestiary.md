@@ -10,7 +10,23 @@ nav_order: 3
 
 
 
-### Monsters
+**Introduction**
+
+- [Stat blocks](https://runecairn.byodinsbeardrpg.com/bestiary/#stat-blocks)
+- [Attack types](https://runecairn.byodinsbeardrpg.com/bestiary/#attack-types)
+- [Status effects](https://runecairn.byodinsbeardrpg.com/bestiary/#status-effects)
+- [Monster types](https://runecairn.byodinsbeardrpg.com/bestiary/#monster-types)
+
+
+
+**Appendix**
+
+- [Creating monsters](https://runecairn.byodinsbeardrpg.com/bestiary/#creating-monsters)
+- [Converting monsters](https://runecairn.byodinsbeardrpg.com/bestiary/#converting-monsters)
+
+
+
+**Monsters**
 
 - [Ant, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#ant-giant)
 - [Auroch](https://runecairn.byodinsbeardrpg.com/bestiary/#auroch)
