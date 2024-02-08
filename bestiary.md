@@ -4,19 +4,130 @@ title: Bestiary
 nav_order: 3
 ---
 
-
-
-# Runecairn Bestiary
-
 - Copyright © 2024 **Colin Le Sueur**, By Odin's Beard RPG.
 - All text licensed under **CC BY-SA 4.0**.
 - **Runecairn** is based on Cairn by **Yochai Gal**.
 
 
 
-## Introduction
+### Monsters
 
-### Stat Blocks
+##### [Ant, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#ant-giant)
+##### [Auroch](https://runecairn.byodinsbeardrpg.com/bestiary/#auroch)
+##### [Bandit](https://runecairn.byodinsbeardrpg.com/bestiary/#bandit)
+##### [Bat, Vampire](https://runecairn.byodinsbeardrpg.com/bestiary/#bat-vampire)
+##### [Bear, Cave](https://runecairn.byodinsbeardrpg.com/bestiary/#bear-cave)
+##### [Bearskin](https://runecairn.byodinsbeardrpg.com/bestiary/#bearskin)
+##### [Bee, Raven](https://runecairn.byodinsbeardrpg.com/bestiary/#bee-raven)
+##### [Beetle, Fire](https://runecairn.byodinsbeardrpg.com/bestiary/#beetle-fire)
+##### [Boarskin](https://runecairn.byodinsbeardrpg.com/bestiary/#boarskin)
+##### [Boar, Wild](https://runecairn.byodinsbeardrpg.com/bestiary/#boar-wild)
+##### [Brigand](https://runecairn.byodinsbeardrpg.com/bestiary/#brigand)
+##### [Brookdweller (Nokken)](https://runecairn.byodinsbeardrpg.com/bestiary/#brookdweller-nokken)
+##### [Bull Of The Stone (Griðungur)](https://runecairn.byodinsbeardrpg.com/bestiary/#bull-of-the-stone-griðungur)
+##### [Cat, Panther](https://runecairn.byodinsbeardrpg.com/bestiary/#cat-panther)
+##### [Cat, Sabre-tooth](https://runecairn.byodinsbeardrpg.com/bestiary/#cat-sabre-tooth)
+##### [Catfish, Spined](https://runecairn.byodinsbeardrpg.com/bestiary/#catfish-spined)
+##### [Cave Locust](https://runecairn.byodinsbeardrpg.com/bestiary/#cave-locust)
+##### [Centipede, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#centipede-giant)
+##### [Colossus, Bone](https://runecairn.byodinsbeardrpg.com/bestiary/#colossus-bone)
+##### [Colossus, Draugr](https://runecairn.byodinsbeardrpg.com/bestiary/#colossus-draugr)
+##### [Colossus, Fire](https://runecairn.byodinsbeardrpg.com/bestiary/#colossus-fire)
+##### [Colossus, Frost](https://runecairn.byodinsbeardrpg.com/bestiary/#colossus-frost)a
+##### [Colossus, Ghost](https://runecairn.byodinsbeardrpg.com/bestiary/#colossus-ghost)
+##### [Colossus, Stone](https://runecairn.byodinsbeardrpg.com/bestiary/#colossus-stone)
+##### [Colossus, Thunder](https://runecairn.byodinsbeardrpg.com/bestiary/#colossus-thunder)
+##### [Cormorant](https://runecairn.byodinsbeardrpg.com/bestiary/#cormorant)
+##### [Corpse, Infested](https://runecairn.byodinsbeardrpg.com/bestiary/#corpse-infested)
+##### [Crab, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#crab-giant)
+##### [Cultist](https://runecairn.byodinsbeardrpg.com/bestiary/#cultist)
+##### [Cultist, Hanged](https://runecairn.byodinsbeardrpg.com/bestiary/#cultist-hanged)
+##### [Deathseer](https://runecairn.byodinsbeardrpg.com/bestiary/#deathseer)
+##### [Death Warden](https://runecairn.byodinsbeardrpg.com/bestiary/#death-warden)
+##### [Demon, Bone](https://runecairn.byodinsbeardrpg.com/bestiary/#demon-bone)
+##### [Demon, Fire](https://runecairn.byodinsbeardrpg.com/bestiary/#demon-fire)
+##### [Demon, Frost](https://runecairn.byodinsbeardrpg.com/bestiary/#demon-frost)
+##### [Demon, Stone](https://runecairn.byodinsbeardrpg.com/bestiary/#demon-stone)
+##### [Dog, Wild](https://runecairn.byodinsbeardrpg.com/bestiary/#dog-wild)
+##### [Dragon of the Mists (Dreki)](https://runecairn.byodinsbeardrpg.com/bestiary/#dragon-of-the-mists-dreki)
+##### [Draugr](https://runecairn.byodinsbeardrpg.com/bestiary/#draugr)
+##### [Duergar](https://runecairn.byodinsbeardrpg.com/bestiary/#duergar)
+##### [Dwarf](https://runecairn.byodinsbeardrpg.com/bestiary/#dwarf)
+##### [Eagle Of The Glacier (Gammur)](https://runecairn.byodinsbeardrpg.com/bestiary/#eagle-of-the-glacier-gammur)
+##### [Elf](https://runecairn.byodinsbeardrpg.com/bestiary/#elf)
+##### [Elf, Dark](https://runecairn.byodinsbeardrpg.com/bestiary/#elf-dark)
+##### [Elk, Thorned](https://runecairn.byodinsbeardrpg.com/bestiary/#elk-thorned)
+##### [Fallsdweller (Fossegrim)](https://runecairn.byodinsbeardrpg.com/bestiary/#fallsdweller-fossegrim)
+##### [Gargoyle](https://runecairn.byodinsbeardrpg.com/bestiary/#gargoyle)
+##### [Ghost](https://runecairn.byodinsbeardrpg.com/bestiary/#ghost)
+##### [Hawk](https://runecairn.byodinsbeardrpg.com/bestiary/#hawk)
+##### [Helworm](https://runecairn.byodinsbeardrpg.com/bestiary/#helworm)
+##### [Hidden Folk (Huldra)](https://runecairn.byodinsbeardrpg.com/bestiary/#hidden-folk-huldra)
+##### [Hitchhiker (Mare)](https://runecairn.byodinsbeardrpg.com/bestiary/#hitchhiker-mare)
+##### [Homefolk (Nisse)](https://runecairn.byodinsbeardrpg.com/bestiary/#homefolk-nisse)
+##### [Jotunn, Fire](https://runecairn.byodinsbeardrpg.com/bestiary/#jotunn-fire)
+##### [Jotunn, Frost](https://runecairn.byodinsbeardrpg.com/bestiary/#jotunn-frost)
+##### [Jotunn, Headless](https://runecairn.byodinsbeardrpg.com/bestiary/#jotunn-headless)
+##### [Jotunn, Wildwood](https://runecairn.byodinsbeardrpg.com/bestiary/#jotunn-wildwood)
+##### [Jotunn Of Ash (Bergrisi)](https://runecairn.byodinsbeardrpg.com/bestiary/#jotunn-of-ash-bergrisi)
+##### [Lindworm](https://runecairn.byodinsbeardrpg.com/bestiary/#lindworm)
+##### [Lynx](https://runecairn.byodinsbeardrpg.com/bestiary/#lynx)
+##### [Lynxskin](https://runecairn.byodinsbeardrpg.com/bestiary/#lynxskin)
+##### [Many-mouthed Howler](https://runecairn.byodinsbeardrpg.com/bestiary/#many-mouthed-howler)
+##### [Mastodon](https://runecairn.byodinsbeardrpg.com/bestiary/#mastodon)
+##### [Mirth (Hamingja)](https://runecairn.byodinsbeardrpg.com/bestiary/#mirth-hamingja)
+##### [Mimic](https://runecairn.byodinsbeardrpg.com/bestiary/#mimic)
+##### [Moose](https://runecairn.byodinsbeardrpg.com/bestiary/#moose)
+##### [Muskox](https://runecairn.byodinsbeardrpg.com/bestiary/#muskox)
+##### [Muspelhound](https://runecairn.byodinsbeardrpg.com/bestiary/#muspelhound)
+##### [Newt, Grave](https://runecairn.byodinsbeardrpg.com/bestiary/#newt-grave)
+##### [Niflmare](https://runecairn.byodinsbeardrpg.com/bestiary/#niflmare)
+##### [Octopus, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#octopus-giant)
+##### [Ogre](https://runecairn.byodinsbeardrpg.com/bestiary/#ogre)
+##### [Ooze, Bone](https://runecairn.byodinsbeardrpg.com/bestiary/#ooze-bone)
+##### [Ooze, Fire](https://runecairn.byodinsbeardrpg.com/bestiary/#ooze-fire)
+##### [Ooze, Poison](https://runecairn.byodinsbeardrpg.com/bestiary/#ooze-poison)
+##### [Ooze, Purple](https://runecairn.byodinsbeardrpg.com/bestiary/#ooze-purple)
+##### [Ooze, Shield](https://runecairn.byodinsbeardrpg.com/bestiary/#ooze-shield)
+##### [Otter](https://runecairn.byodinsbeardrpg.com/bestiary/#otter)
+##### [Reaver](https://runecairn.byodinsbeardrpg.com/bestiary/#reaver)
+##### [Sasquatch](https://runecairn.byodinsbeardrpg.com/bestiary/#sasquatch)
+##### [Scorpion, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#scorpion-giant)
+##### [Seafolk (Margygur/Marmennill)](https://runecairn.byodinsbeardrpg.com/bestiary/#seafolk-margygurmarmennill)
+##### [Sealhead (Selkolla)](https://runecairn.byodinsbeardrpg.com/bestiary/#sealhead-selkolla)
+##### [Sea Reek (Hafgufa)](https://runecairn.byodinsbeardrpg.com/bestiary/#sea-reek-hafgufa)
+##### [Seer, Grim](https://runecairn.byodinsbeardrpg.com/bestiary/#seer-grim)
+##### [Seer, Swamp](https://runecairn.byodinsbeardrpg.com/bestiary/#seer-swamp)
+##### [Shambling Mound](https://runecairn.byodinsbeardrpg.com/bestiary/#shambling-mound)
+##### [Shade](https://runecairn.byodinsbeardrpg.com/bestiary/#shade)
+##### [Shade, Faded](https://runecairn.byodinsbeardrpg.com/bestiary/#shade-faded)
+##### [Skeleton](https://runecairn.byodinsbeardrpg.com/bestiary/#skeleton)
+##### [Skeleton, Bonewheel](https://runecairn.byodinsbeardrpg.com/bestiary/#skeleton-bonewheel)
+##### [Skeleton, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#skeleton-giant)
+##### [Spider, Corpse](https://runecairn.byodinsbeardrpg.com/bestiary/#spider-corpse)
+##### [Snake, Adder](https://runecairn.byodinsbeardrpg.com/bestiary/#snake-adder)
+##### [Snake, Crushing](https://runecairn.byodinsbeardrpg.com/bestiary/#snake-crushing)
+##### [Spider, Giant](https://runecairn.byodinsbeardrpg.com/bestiary/#spider-giant)
+##### [Spider, Realm](https://runecairn.byodinsbeardrpg.com/bestiary/#spider-realm)
+##### [Treant](https://runecairn.byodinsbeardrpg.com/bestiary/#treant)
+##### [Troll](https://runecairn.byodinsbeardrpg.com/bestiary/#troll)
+##### [Troll, Rock](https://runecairn.byodinsbeardrpg.com/bestiary/#troll-rock)
+##### [Turtle, River](https://runecairn.byodinsbeardrpg.com/bestiary/#turtle-river)
+##### [Turtle, Wayfaring](https://runecairn.byodinsbeardrpg.com/bestiary/#turtle-wayfaring)
+##### [Vampire](https://runecairn.byodinsbeardrpg.com/bestiary/#vampire)
+##### [Viking](https://runecairn.byodinsbeardrpg.com/bestiary/#viking)
+##### [Warg](https://runecairn.byodinsbeardrpg.com/bestiary/#warg)
+##### [Whale, Heather-backed (Lyngbakr)](https://runecairn.byodinsbeardrpg.com/bestiary/#whale-heather-backed-lyngbakr)
+##### [White Worm](https://runecairn.byodinsbeardrpg.com/bestiary/#white-worm)
+##### [Wolf](https://runecairn.byodinsbeardrpg.com/bestiary/#wolf)
+##### [Wolfskin](https://runecairn.byodinsbeardrpg.com/bestiary/#wolfskin)
+##### [Wolverine](https://runecairn.byodinsbeardrpg.com/bestiary/#wolverine)
+
+
+
+# Introduction
+
+## Stat Blocks
 
 
 #### Monster type
@@ -934,7 +1045,7 @@ Use the following template for modelling any new monster or NPC:
 
 #### Ability Score Guidance
 
-###### 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, 18 is outstanding, and 20+ is mythical.
+3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, 18 is outstanding, and 20+ is mythical.
 
 - Good at avoiding damage? +Res.
 - Armoured? +Def.
