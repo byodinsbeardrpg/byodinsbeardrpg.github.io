@@ -20,7 +20,7 @@ Without explicit permission, you **may not:**
 
 You **may:**
 
-- Use, copy, and modify the text of **Runecairn: Core Rules** and the **[Runecairn SRD](https://runecairn.byodinsbeardrpg.com/srd/)**
+- Use, copy, and modify the text of **Runecairn: Core Rules** and the **[Runecairn SRD](https://runecairn.com/srd/)**
 - Use, reference, and modify the game rules and mechanics
 - Reference any locations, creatures, characters or factions mentioned in **Runecairn: Core Rules**
 

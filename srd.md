@@ -10,168 +10,168 @@ nav_order: 2
 - Text © Colin Le Sueur 2024, licensed under **CC BY-SA 4.0**.
 - **Runecairn** is based on **Cairn** by **Yochai Gal**.
 
-Runecairn Bestiary: [runecairn.byodinsbeardrpg.com/bestiary](https://runecairn.byodinsbeardrpg.com/bestiary)
+Runecairn Bestiary: [runecairn.com/bestiary](https://runecairn.com/bestiary)
 
 
 
-**[Overview](https://runecairn.byodinsbeardrpg.com/srd/#overview)**
+**[Overview](https://runecairn.com/srd/#overview)**
 
-- [What is Runecairn?](https://runecairn.byodinsbeardrpg.com/srd/#what-is-runecairn)
-- [Design Philosophy](https://runecairn.byodinsbeardrpg.com/srd/#design-philosophy)
-- [Adventures](https://runecairn.byodinsbeardrpg.com/srd/#adventures)
-- [Principles Of The Warden](https://runecairn.byodinsbeardrpg.com/srd/#principles-of-the-warden)
-- [Principles For The Player](https://runecairn.byodinsbeardrpg.com/srd/#principles-for-the-player)
-- [Principles Of The World](https://runecairn.byodinsbeardrpg.com/srd/#principles-of-the-world)
-- [The Viking Age](https://runecairn.byodinsbeardrpg.com/srd/#the-viking-age)
-
-
-
-**[Adventurer Creation](https://runecairn.byodinsbeardrpg.com/srd/#adventurer-creation)**
-
-- [Backgrounds](https://runecairn.byodinsbeardrpg.com/srd/#backgrounds)
-- [Warrior](https://runecairn.byodinsbeardrpg.com/srd/#warrior)
-- [Skald](https://runecairn.byodinsbeardrpg.com/srd/#skald)
-- [Scout](https://runecairn.byodinsbeardrpg.com/srd/#scout)
-- [Seer](https://runecairn.byodinsbeardrpg.com/srd/#seer)
-- [Adventurer Creation Example](https://runecairn.byodinsbeardrpg.com/srd/#adventurer-creation-example)
+- [What is Runecairn?](https://runecairn.com/srd/#what-is-runecairn)
+- [Design Philosophy](https://runecairn.com/srd/#design-philosophy)
+- [Adventures](https://runecairn.com/srd/#adventures)
+- [Principles Of The Warden](https://runecairn.com/srd/#principles-of-the-warden)
+- [Principles For The Player](https://runecairn.com/srd/#principles-for-the-player)
+- [Principles Of The World](https://runecairn.com/srd/#principles-of-the-world)
+- [The Viking Age](https://runecairn.com/srd/#the-viking-age)
 
 
 
-**[Concepts Of Play](https://runecairn.byodinsbeardrpg.com/srd/#concepts-of-play)**
+**[Adventurer Creation](https://runecairn.com/srd/#adventurer-creation)**
 
-- [Background](https://runecairn.byodinsbeardrpg.com/srd/#background)
-- [Saves](https://runecairn.byodinsbeardrpg.com/srd/#saves)
-- [Resilience (Res)](https://runecairn.byodinsbeardrpg.com/srd/#resilience-res)
-- [Defence (Def)](https://runecairn.byodinsbeardrpg.com/srd/#defence-def)
-- [Mead flask & healing](https://runecairn.byodinsbeardrpg.com/srd/#mead-flask--healing)
-- [Inventory](https://runecairn.byodinsbeardrpg.com/srd/#inventory)
-- [Status effects](https://runecairn.byodinsbeardrpg.com/srd/#status-effects)
-- [Fatigue](https://runecairn.byodinsbeardrpg.com/srd/#fatigue)
-- [Clearing fatigue](https://runecairn.byodinsbeardrpg.com/srd/#clearing-fatigue)
-- [Bonfires](https://runecairn.byodinsbeardrpg.com/srd/#bonfires)
-- [Death](https://runecairn.byodinsbeardrpg.com/srd/#death)
-- [Souls](https://runecairn.byodinsbeardrpg.com/srd/#souls)
-- [Spending souls](https://runecairn.byodinsbeardrpg.com/srd/#spending-souls)
-- [Trade & merchants](https://runecairn.byodinsbeardrpg.com/srd/#trade--merchants)
-- [Wealth & treasure](https://runecairn.byodinsbeardrpg.com/srd/#wealth--treasure)
+- [Backgrounds](https://runecairn.com/srd/#backgrounds)
+- [Warrior](https://runecairn.com/srd/#warrior)
+- [Skald](https://runecairn.com/srd/#skald)
+- [Scout](https://runecairn.com/srd/#scout)
+- [Seer](https://runecairn.com/srd/#seer)
+- [Adventurer Creation Example](https://runecairn.com/srd/#adventurer-creation-example)
 
 
 
-**[Items & Equipment](https://runecairn.byodinsbeardrpg.com/srd/#items--equipment)**
+**[Concepts Of Play](https://runecairn.com/srd/#concepts-of-play)**
 
-- [Armour](https://runecairn.byodinsbeardrpg.com/srd/#armour)
-- [Armour Table](https://runecairn.byodinsbeardrpg.com/srd/#armour-table)
-- [Shields](https://runecairn.byodinsbeardrpg.com/srd/#shields)
-- [Shield Table](https://runecairn.byodinsbeardrpg.com/srd/#shield-table)
-- [Weapons](https://runecairn.byodinsbeardrpg.com/srd/#weapons)
-- [Weapon Table](https://runecairn.byodinsbeardrpg.com/srd/#weapon-table)
-- [Equipment skills](https://runecairn.byodinsbeardrpg.com/srd/#equipment-skills)
-- [Items](https://runecairn.byodinsbeardrpg.com/srd/#items)
-- [Item Table](https://runecairn.byodinsbeardrpg.com/srd/#item-table)
-
-
-
-[**Combat**](https://runecairn.byodinsbeardrpg.com/srd/#combat)
-
-- [Rounds](https://runecairn.byodinsbeardrpg.com/srd/#rounds)
-- [Actions](https://runecairn.byodinsbeardrpg.com/srd/#actions)
-- [Reactions](https://runecairn.byodinsbeardrpg.com/srd/#reactions)
-- [Turns](https://runecairn.byodinsbeardrpg.com/srd/#turns)
-- [Attacking & damage](https://runecairn.byodinsbeardrpg.com/srd/#attacking--damage)
-- [Attack modifiers](https://runecairn.byodinsbeardrpg.com/srd/#attack-modifiers)
-- [Damage modifiers](https://runecairn.byodinsbeardrpg.com/srd/#damage-modifiers)
-- [Dire strike](https://runecairn.byodinsbeardrpg.com/srd/#dire-strike)
-- [Blast](https://runecairn.byodinsbeardrpg.com/srd/#blast)
-- [Ability score loss](https://runecairn.byodinsbeardrpg.com/srd/#ability-score-loss)
-- [Critical damage](https://runecairn.byodinsbeardrpg.com/srd/#critical-damage)
-- [Death Consequences](https://runecairn.byodinsbeardrpg.com/srd/#death-consequences)
-- [Omens](https://runecairn.byodinsbeardrpg.com/srd/#omens)
-- [Omens Table](https://runecairn.byodinsbeardrpg.com/srd/#omens-table)
-- [Combat Example](https://runecairn.byodinsbeardrpg.com/srd/#combat-example)
+- [Background](https://runecairn.com/srd/#background)
+- [Saves](https://runecairn.com/srd/#saves)
+- [Resilience (Res)](https://runecairn.com/srd/#resilience-res)
+- [Defence (Def)](https://runecairn.com/srd/#defence-def)
+- [Mead flask & healing](https://runecairn.com/srd/#mead-flask--healing)
+- [Inventory](https://runecairn.com/srd/#inventory)
+- [Status effects](https://runecairn.com/srd/#status-effects)
+- [Fatigue](https://runecairn.com/srd/#fatigue)
+- [Clearing fatigue](https://runecairn.com/srd/#clearing-fatigue)
+- [Bonfires](https://runecairn.com/srd/#bonfires)
+- [Death](https://runecairn.com/srd/#death)
+- [Souls](https://runecairn.com/srd/#souls)
+- [Spending souls](https://runecairn.com/srd/#spending-souls)
+- [Trade & merchants](https://runecairn.com/srd/#trade--merchants)
+- [Wealth & treasure](https://runecairn.com/srd/#wealth--treasure)
 
 
 
-[**Magic**](https://runecairn.byodinsbeardrpg.com/srd/#magic)
+**[Items & Equipment](https://runecairn.com/srd/#items--equipment)**
 
-- [Scrolls](https://runecairn.byodinsbeardrpg.com/srd/#scrolls)
-- [Casting spells](https://runecairn.byodinsbeardrpg.com/srd/#casting-spells)
-- [Relics](https://runecairn.byodinsbeardrpg.com/srd/#relics)
-- [Rings](https://runecairn.byodinsbeardrpg.com/srd/#rings)
-- [Spell Lists](https://runecairn.byodinsbeardrpg.com/srd/#spell-lists)
-- [Seer Spells](https://runecairn.byodinsbeardrpg.com/srd/#seer-spells)
-- [Skald Sagas](https://runecairn.byodinsbeardrpg.com/srd/#skald-sagas)
-- [Flame Runes](https://runecairn.byodinsbeardrpg.com/srd/#flame-runes)
-
-
-
-**[Advanced Rules](https://runecairn.byodinsbeardrpg.com/srd/#advanced-rules)**
-
-- [Introduction](https://runecairn.byodinsbeardrpg.com/srd/#introduction)
-- [Advanced backgrounds](https://runecairn.byodinsbeardrpg.com/srd/#advanced-backgrounds)
-- [Solo play](https://runecairn.byodinsbeardrpg.com/srd/#solo-play)
-- [Delve generator](https://runecairn.byodinsbeardrpg.com/srd/#delve-generator)
-- [Cooperation](https://runecairn.byodinsbeardrpg.com/srd/#cooperation)
-- [Invasions](https://runecairn.byodinsbeardrpg.com/srd/#invasions)
+- [Armour](https://runecairn.com/srd/#armour)
+- [Armour Table](https://runecairn.com/srd/#armour-table)
+- [Shields](https://runecairn.com/srd/#shields)
+- [Shield Table](https://runecairn.com/srd/#shield-table)
+- [Weapons](https://runecairn.com/srd/#weapons)
+- [Weapon Table](https://runecairn.com/srd/#weapon-table)
+- [Equipment skills](https://runecairn.com/srd/#equipment-skills)
+- [Items](https://runecairn.com/srd/#items)
+- [Item Table](https://runecairn.com/srd/#item-table)
 
 
 
-**[Advanced Backgrounds](https://runecairn.byodinsbeardrpg.com/srd/#advanced-backgrounds-1)**
+[**Combat**](https://runecairn.com/srd/#combat)
 
-- [Berserkr](https://runecairn.byodinsbeardrpg.com/srd/#berserkr)
-- [Pyre](https://runecairn.byodinsbeardrpg.com/srd/#pyre)
-
-
-
-**[Solo Play](https://runecairn.byodinsbeardrpg.com/srd/#solo-play-1)**
-
-- [Introduction](https://runecairn.byodinsbeardrpg.com/srd/#introduction-1)
-- [Journalling](https://runecairn.byodinsbeardrpg.com/srd/#journalling)
-- [Favour or Sorrow](https://runecairn.byodinsbeardrpg.com/srd/#favour-or-sorrow)
-- [Reading the Runes](https://runecairn.byodinsbeardrpg.com/srd/#reading-the-runes)
-- [Favour or Sorrow Table](https://runecairn.byodinsbeardrpg.com/srd/#favour-or-sorrow-table)
-
-
-
-**[Delve Generator](https://runecairn.byodinsbeardrpg.com/srd/#delve-generator-1)**
-
-- [Delve Table](https://runecairn.byodinsbeardrpg.com/srd/#delve-table)
-- [Objectives](https://runecairn.byodinsbeardrpg.com/srd/#objectives)
-- [Objectives Table](https://runecairn.byodinsbeardrpg.com/srd/#objectives-table)
-- [Encounters Table](https://runecairn.byodinsbeardrpg.com/srd/#encounters-table)
-- [NPC Reactions Table](https://runecairn.byodinsbeardrpg.com/srd/#npc-reactions-table)
-- [Enemy Actions Table](https://runecairn.byodinsbeardrpg.com/srd/#enemy-actions-table)
-- [Resolution Table](https://runecairn.byodinsbeardrpg.com/srd/#resolution-table)
-- [Delve Flow](https://runecairn.byodinsbeardrpg.com/srd/#delve-flow)
+- [Rounds](https://runecairn.com/srd/#rounds)
+- [Actions](https://runecairn.com/srd/#actions)
+- [Reactions](https://runecairn.com/srd/#reactions)
+- [Turns](https://runecairn.com/srd/#turns)
+- [Attacking & damage](https://runecairn.com/srd/#attacking--damage)
+- [Attack modifiers](https://runecairn.com/srd/#attack-modifiers)
+- [Damage modifiers](https://runecairn.com/srd/#damage-modifiers)
+- [Dire strike](https://runecairn.com/srd/#dire-strike)
+- [Blast](https://runecairn.com/srd/#blast)
+- [Ability score loss](https://runecairn.com/srd/#ability-score-loss)
+- [Critical damage](https://runecairn.com/srd/#critical-damage)
+- [Death Consequences](https://runecairn.com/srd/#death-consequences)
+- [Omens](https://runecairn.com/srd/#omens)
+- [Omens Table](https://runecairn.com/srd/#omens-table)
+- [Combat Example](https://runecairn.com/srd/#combat-example)
 
 
 
-[**Encounters**](https://runecairn.byodinsbeardrpg.com/srd/#encounters)
+[**Magic**](https://runecairn.com/srd/#magic)
 
-- [Cairn Encounters Table](https://runecairn.byodinsbeardrpg.com/srd/#cairn-encounters-table)
-- [Outpost Encounters Table](https://runecairn.byodinsbeardrpg.com/srd/#outpost-encounters-table)
-- [Ruins Encounters Table](https://runecairn.byodinsbeardrpg.com/srd/#ruins-encounters-table)
-- [Village Encounters Table](https://runecairn.byodinsbeardrpg.com/srd/#village-encounters-table)
-- [Cave Encounters Table](https://runecairn.byodinsbeardrpg.com/srd/#cave-encounters-table)
-- [Stronghold Encounters Table](https://runecairn.byodinsbeardrpg.com/srd/#stronghold-encounters-table)
-
-
-
-[**Cooperation**](https://runecairn.byodinsbeardrpg.com/srd/#cooperation-1)
-
-- [Summoning an ally](https://runecairn.byodinsbeardrpg.com/srd/#summoning-an-ally)
-- [Combat and healing](https://runecairn.byodinsbeardrpg.com/srd/#combat-and-healing)
-- [Death and rebirth](https://runecairn.byodinsbeardrpg.com/srd/#death-and-rebirth)
-- [Invasions](https://runecairn.byodinsbeardrpg.com/srd/#invasions-1)
-- [Black fetch](https://runecairn.byodinsbeardrpg.com/srd/#black-fetch)
-- [Combat, healing, and death](https://runecairn.byodinsbeardrpg.com/srd/#combat-healing-and-death)
-- [Repelling an invader](https://runecairn.byodinsbeardrpg.com/srd/#repelling-an-invader)
+- [Scrolls](https://runecairn.com/srd/#scrolls)
+- [Casting spells](https://runecairn.com/srd/#casting-spells)
+- [Relics](https://runecairn.com/srd/#relics)
+- [Rings](https://runecairn.com/srd/#rings)
+- [Spell Lists](https://runecairn.com/srd/#spell-lists)
+- [Seer Spells](https://runecairn.com/srd/#seer-spells)
+- [Skald Sagas](https://runecairn.com/srd/#skald-sagas)
+- [Flame Runes](https://runecairn.com/srd/#flame-runes)
 
 
 
-**[Adventurer Options](https://runecairn.byodinsbeardrpg.com/srd/#adventurer-options)**
+**[Advanced Rules](https://runecairn.com/srd/#advanced-rules)**
 
-- [Names Table](https://runecairn.byodinsbeardrpg.com/srd/#names-table)
-- [Pronunciation Guide](https://runecairn.byodinsbeardrpg.com/srd/#pronunciation-guide)
+- [Introduction](https://runecairn.com/srd/#introduction)
+- [Advanced backgrounds](https://runecairn.com/srd/#advanced-backgrounds)
+- [Solo play](https://runecairn.com/srd/#solo-play)
+- [Delve generator](https://runecairn.com/srd/#delve-generator)
+- [Cooperation](https://runecairn.com/srd/#cooperation)
+- [Invasions](https://runecairn.com/srd/#invasions)
+
+
+
+**[Advanced Backgrounds](https://runecairn.com/srd/#advanced-backgrounds-1)**
+
+- [Berserkr](https://runecairn.com/srd/#berserkr)
+- [Pyre](https://runecairn.com/srd/#pyre)
+
+
+
+**[Solo Play](https://runecairn.com/srd/#solo-play-1)**
+
+- [Introduction](https://runecairn.com/srd/#introduction-1)
+- [Journalling](https://runecairn.com/srd/#journalling)
+- [Favour or Sorrow](https://runecairn.com/srd/#favour-or-sorrow)
+- [Reading the Runes](https://runecairn.com/srd/#reading-the-runes)
+- [Favour or Sorrow Table](https://runecairn.com/srd/#favour-or-sorrow-table)
+
+
+
+**[Delve Generator](https://runecairn.com/srd/#delve-generator-1)**
+
+- [Delve Table](https://runecairn.com/srd/#delve-table)
+- [Objectives](https://runecairn.com/srd/#objectives)
+- [Objectives Table](https://runecairn.com/srd/#objectives-table)
+- [Encounters Table](https://runecairn.com/srd/#encounters-table)
+- [NPC Reactions Table](https://runecairn.com/srd/#npc-reactions-table)
+- [Enemy Actions Table](https://runecairn.com/srd/#enemy-actions-table)
+- [Resolution Table](https://runecairn.com/srd/#resolution-table)
+- [Delve Flow](https://runecairn.com/srd/#delve-flow)
+
+
+
+[**Encounters**](https://runecairn.com/srd/#encounters)
+
+- [Cairn Encounters Table](https://runecairn.com/srd/#cairn-encounters-table)
+- [Outpost Encounters Table](https://runecairn.com/srd/#outpost-encounters-table)
+- [Ruins Encounters Table](https://runecairn.com/srd/#ruins-encounters-table)
+- [Village Encounters Table](https://runecairn.com/srd/#village-encounters-table)
+- [Cave Encounters Table](https://runecairn.com/srd/#cave-encounters-table)
+- [Stronghold Encounters Table](https://runecairn.com/srd/#stronghold-encounters-table)
+
+
+
+[**Cooperation**](https://runecairn.com/srd/#cooperation-1)
+
+- [Summoning an ally](https://runecairn.com/srd/#summoning-an-ally)
+- [Combat and healing](https://runecairn.com/srd/#combat-and-healing)
+- [Death and rebirth](https://runecairn.com/srd/#death-and-rebirth)
+- [Invasions](https://runecairn.com/srd/#invasions-1)
+- [Black fetch](https://runecairn.com/srd/#black-fetch)
+- [Combat, healing, and death](https://runecairn.com/srd/#combat-healing-and-death)
+- [Repelling an invader](https://runecairn.com/srd/#repelling-an-invader)
+
+
+
+**[Adventurer Options](https://runecairn.com/srd/#adventurer-options)**
+
+- [Names Table](https://runecairn.com/srd/#names-table)
+- [Pronunciation Guide](https://runecairn.com/srd/#pronunciation-guide)
 
 
 

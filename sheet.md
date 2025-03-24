@@ -6,9 +6,9 @@ nav_order: 6
 
 The **Runecairn Character Sheet** is now available for download:
 
-[Fillable PDF](https://runecairn.byodinsbeardrpg.com/public/runecairn_character_sheet_fillable_v3.0.pdf)
+[Fillable PDF](https://runecairn.com/public/runecairn_character_sheet_fillable_v3.0.pdf)
 
-[Paper version](https://runecairn.byodinsbeardrpg.com/public/runecairn_character_sheet_paper_v3.0.pdf)
+[Paper version](https://runecairn.com/public/runecairn_character_sheet_paper_v3.0.pdf)
 
 Print versions are also available:
 
