@@ -1,8 +1,8 @@
 # Setup
 title:               Runecairn
 tagline:             'Norse fantasy tabletop roleplaying game'
-description:         '<a href="https://runecairn.byodinsbeardrpg.com"><img src="https://runecairn.byodinsbeardrpg.com/public/logo.png"></a>'
-url:                 https://runecairn.byodinsbeardrpg.com
+description:         '<a href="https://runecairn.com"><img src="https://runecairn.com/public/logo.png"></a>'
+url:                 https://runecairn.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
